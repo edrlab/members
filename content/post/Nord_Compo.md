@@ -1,0 +1,13 @@
+---
+title: Nord Compo
+member_url: https://nordcompo.fr/
+country: France
+series: ["country"] 
+tags: ["members"]
+categories: ["Technology providers", "Providers of publishing services"]
+description: ["a company offering multiple publishing services, with a large EPUB expertise. Nord Compo can develop custom Readium-based mobile reading applications, with LCP support."]
+press:
+active: true
+layout: members 
+permalink: ""
+---
