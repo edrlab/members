@@ -12,5 +12,6 @@ layout: members
 showReadTime: false
 showDate: false
 permalink: ""
+date: 
 founding_member: true
 ---

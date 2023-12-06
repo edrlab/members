@@ -12,5 +12,6 @@ layout: members
 showReadTime: false
 showDate: false
 permalink: ""
+date: 
 image: "https://www.avh.asso.fr/sites/all/themes/custom/customer/images/logo-home.webp"
 ---
