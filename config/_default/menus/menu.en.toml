@@ -1,12 +1,62 @@
 [[main]]
-  name = "Home"
+  name = "Members"
   url = ""
   weight = -110
 
+# [[main]]
+#   name = "Back to edrlab webpage"
+#   url = "https://www.edrlab.org"
+#   weight = -100
+
 [[main]]
-  name = "Archives"
-  url = "post/rich-content/"
-  weight = -109
+  name = "About"
+  url = "https://www.edrlab.org/about/"
+  weight = -90
+
+[[main]]
+  name = "Summit"
+  url = "https://www.edrlab.org/events/digital-publishing-summit-2023/"
+  weight = -80
+
+[[main]]
+  name = "LCP"
+  url = "https://www.edrlab.org/readium-lcp/"
+  weight = -70
+
+[[main]]
+  name = "Standards"
+  url = "https://www.edrlab.org/open-standards/"
+  weight = -60
+
+[[main]]
+  name = "Software"
+  url = "https://www.edrlab.org"
+  weight = -50
+
+[[main]]
+  name = "Accessibility"
+  url = "https://www.edrlab.org/accessibility/"
+  weight = -40
+
+[[main]]
+  name = "News"
+  url = "https://www.edrlab.org/news/"
+  weight = -30
+
+[[main]]
+  name = "Contact"
+  url = "https://www.edrlab.org/contact/"
+  weight = -20
+
+[[main]]
+  name = "Membership"
+  url = "https://www.edrlab.org/become-a-member/"
+  weight = -10
+
+# [[main]]
+#   name = "Archives"
+#   url = "post/rich-content/"
+#   weight = -109
 
 # Submenus are done this way: parent -> identifier
 # [[main]]
@@ -29,19 +79,19 @@
 
 # social menu links
 
-[[social]]
-  name = "github"
-  type = "social"
-  weight = 1
-  url = "https://github.com/#"
-[[social]]
-  name = "twitter"
-  weight = 2
-  url = "https://twitter.com/#"
-[[social]]
-  name = "linkedin"
-  weight = 3
-  url = "https://www.linkedin.com/in/#"
+# [[social]]
+#   name = "github"
+#   type = "social"
+#   weight = 1
+#   url = "https://github.com/#"
+# [[social]]
+#   name = "twitter"
+#   weight = 2
+#   url = "https://twitter.com/#"
+# [[social]]
+#   name = "linkedin"
+#   weight = 3
+#   url = "https://www.linkedin.com/in/#"
 [[social]]
   name = "rss"
   weight = 4
