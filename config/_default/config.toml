@@ -18,7 +18,8 @@ DefaultContentLanguage = "en"
 [taxonomies]
 category = "categories"
 tag = "tags"
-series = "series"
+# series = "series"
+countries = "country"
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
