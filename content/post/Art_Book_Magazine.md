@@ -3,12 +3,14 @@ title: Art Book Magazine
 member_url: https://www.artbookmagazine.com
 country: France
 series: ["country"] 
-tags: ["members"]
+tags: ["Reading", "LCP"]
 categories: ["Technology providers"]
-description: ["the company behind LISA Reader, one of the first reading apps having supported the LCP DRM."]
+summary: "the company behind LISA Reader, one of the first reading apps having supported the LCP DRM."
 press:
 active: true
 layout: members 
+showReadTime: false
+showDate: false
 permalink: ""
 image: "/images/d580cea.png"
 ---

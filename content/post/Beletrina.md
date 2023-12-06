@@ -5,9 +5,11 @@ country: Slovenia
 series: ["country"] 
 tags: ["members"]
 categories: ["Booksellers / retailers / content portals"] 
-description: ["a Slovenian publishing house, retailer, book distributor and technical service provider."]
+summary: "a Slovenian publishing house, retailer, book distributor and technical service provider."
 press:
 active: true
 layout: members 
+showReadTime: false
+showDate: false
 permalink: ""
 ---

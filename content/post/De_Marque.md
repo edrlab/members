@@ -5,9 +5,11 @@ country: Canada
 series: ["country"] 
 tags: ["members"]
 categories: ["Ebook distributors"]
-description: ["the largest ebook distributor in Canada."]
+summary: "the largest ebook distributor in Canada."
 press:
 active: true
 layout: members 
+showReadTime: false
+showDate: false
 permalink: ""
 ---

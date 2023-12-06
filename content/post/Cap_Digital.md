@@ -5,9 +5,11 @@ country: France
 series: ["country"] 
 tags: ["members"]
 categories: ["Membership organizations"]
-description: ["the European pole of digital transition."]
+summary: "the European pole of digital transition."
 press:
 active: true
 layout: members 
+showReadTime: false
+showDate: false
 permalink: ""
 ---

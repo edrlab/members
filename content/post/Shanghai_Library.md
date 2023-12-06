@@ -5,9 +5,11 @@ country: China
 series: ["country"] 
 tags: ["members"]
 categories: ["Libraries"]
-description: ["the library of Shanghai is the second largest public library in China."]
+summary: "the library of Shanghai is the second largest public library in China."
 press:
 active: true
 layout: members 
+showReadTime: false
+showDate: false
 permalink: ""
 ---

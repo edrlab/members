@@ -5,10 +5,12 @@ country: France
 series: ["country"] 
 tags: ["members"]
 categories: ["Content portals"]
-description: ["a department of Arte France, that operates ebooks e-lending solutions for public libraries."]
+summary: "a department of Arte France, that operates ebooks e-lending solutions for public libraries."
 press:
 active: true
 layout: members 
+showReadTime: false
+showDate: false
 permalink: ""
 image: 
 ---

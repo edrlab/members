@@ -5,9 +5,11 @@ country: Norway
 series: ["country"] 
 tags: ["members"]
 categories: ["Ebook distributors"]
-description: ["the ebook distributor in Norway."]
+summary: "the ebook distributor in Norway."
 press:
 active: true
 layout: members 
+showReadTime: false
+showDate: false
 permalink: ""
 --- 

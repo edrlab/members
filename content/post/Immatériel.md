@@ -5,9 +5,11 @@ country: France
 series: ["country"] 
 tags: ["members"]
 categories: ["Ebook distributors"]
-description: ["a large ebook distributor in France."]
+summary: "a large ebook distributor in France."
 press:
 active: true
 layout: members 
+showReadTime: false
+showDate: false
 permalink: ""
 ---

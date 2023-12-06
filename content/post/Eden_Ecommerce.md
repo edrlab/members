@@ -5,9 +5,11 @@ country: United-Kingdom
 series: ["country"] 
 tags: ["members"]
 categories: ["Booksellers / retailers / content portals"]
-description: ["a supplier of religious ebooks."]
+summary: "a supplier of religious ebooks."
 press:
 active: true
 layout: members 
+showReadTime: false
+showDate: false
 permalink: ""
 ---

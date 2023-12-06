@@ -5,9 +5,11 @@ country: France
 series: ["country"] 
 tags: ["members"]
 categories: ["Providers of publishing services"]
-description: ["Providers of publishing servicesprovides a bibliographic database of all books produced in France."]
+summary: "Providers of publishing servicesprovides a bibliographic database of all books produced in France."
 press:
 active: true
 layout: members 
+showReadTime: false
+showDate: false
 permalink: ""
 ---

@@ -5,9 +5,11 @@ country: France
 series: ["country"] 
 tags: ["members"]
 categories: ["Technology providers"]
-description: ["the company behind the Bookari mobile reading application."]
+summary: "the company behind the Bookari mobile reading application."
 press:
 active: true
 layout: members 
+showReadTime: false
+showDate: false
 permalink: ""
 --- 

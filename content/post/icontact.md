@@ -5,9 +5,11 @@ country: Netherlands
 series: ["country"] 
 tags: ["members"]
 categories: ["Technology providers"]
-description: ["the developer of a watermark solution for EPUB."]
+summary: "the developer of a watermark solution for EPUB."
 press:
 active: true
 layout: members 
+showReadTime: false
+showDate: false
 permalink: ""
 ---

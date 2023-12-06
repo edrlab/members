@@ -5,9 +5,11 @@ country: France
 series: ["country"] 
 tags: ["members"]
 categories: ["Libraries"]
-description: ["the National Library of France."]
+summary: "the National Library of France."
 press:
 active: true
 layout: members 
+showReadTime: false
+showDate: false
 permalink: ""
 --- 

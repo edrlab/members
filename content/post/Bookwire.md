@@ -5,9 +5,11 @@ country: Germany
 series: ["country"] 
 tags: ["members"]
 categories: ["Ebook distributors"]
-description: ["the largest ebook distributor in Germany."]
+summary: "the largest ebook distributor in Germany."
 press:
 active: true
 layout: members 
+showReadTime: false
+showDate: false
 permalink: ""
 --- 

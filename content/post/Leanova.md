@@ -5,9 +5,11 @@ country: France
 series: ["country"] 
 tags: ["members"]
 categories: ["Booksellers / retailers / content portals"]
-description: ["a Culture and Education kiosk featuring EPUB 3 publications."]
+summary: "a Culture and Education kiosk featuring EPUB 3 publications."
 press:
 active: true
 layout: members 
+showReadTime: false
+showDate: false
 permalink: ""
 --- 

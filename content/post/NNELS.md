@@ -5,9 +5,11 @@ country: ca
 series: ["country"] 
 tags: ["members"]
 categories: ["Associations, libraries and companies specialised in accessibility services"]
-description: ["the National Network for Equitable Library Service NNELS  is a repository of content owned and sustained by Canadian public libraries."]
+summary: "the National Network for Equitable Library Service NNELS  is a repository of content owned and sustained by Canadian public libraries."
 press:
 active: true
 layout: members 
+showReadTime: false
+showDate: false
 permalink: ""
 ---

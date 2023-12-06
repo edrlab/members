@@ -12,5 +12,7 @@ press:
 active: false
 draft: true
 layout: members 
+showReadTime: false
+showDate: false
 permalink: ""
 ---

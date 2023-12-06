@@ -5,10 +5,12 @@ country: France
 series: ["country"] 
 tags: ["members"]
 categories: ["Associations, libraries and companies specialised in accessibility services"]
-description: ["for the last 130 years, the AVH has offered multiple services to people with reading disabilities."]
+summary: "for the last 130 years, the AVH has offered multiple services to people with reading disabilities."
 press:
 active: true
 layout: members 
+showReadTime: false
+showDate: false
 permalink: ""
 image: "https://www.avh.asso.fr/sites/all/themes/custom/customer/images/logo-home.webp"
 ---

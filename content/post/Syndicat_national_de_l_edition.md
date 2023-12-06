@@ -5,10 +5,12 @@ country: France
 series: ["country"] 
 tags: ["members"]
 categories: ["Membership organizations"]
-description: [" the voice of the French book industry."]
+summary: " the voice of the French book industry."
 press:
 active: true
 layout: members 
+showReadTime: false
+showDate: false
 permalink: ""
 founding_member: true
 ---

@@ -5,10 +5,12 @@ country: France
 series: ["country"] 
 tags: ["members"]
 categories: ["Membership organizations"]
-description: ["the interprofessional union at the service of the book and its actors. EDRLab founding member."]
+summary: "the interprofessional union at the service of the book and its actors. EDRLab founding member."
 press:
 active: true
 layout: members 
+showReadTime: false
+showDate: false
 permalink: ""
 founding_member: true
 ---

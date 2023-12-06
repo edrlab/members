@@ -5,9 +5,11 @@ country: France
 series: ["country"] 
 tags: ["members"]
 categories: ["Technology providers"]
-description: ["a French e-bookstore (epagine.fr) that also operates www.placedeslibraires.fr, an e-bookstore shared by multiple independent booksellers."]
+summary: "a French e-bookstore (epagine.fr) that also operates www.placedeslibraires.fr, an e-bookstore shared by multiple independent booksellers."
 press:
 active: true
 layout: members 
+showReadTime: false
+showDate: false
 permalink: ""
 ---

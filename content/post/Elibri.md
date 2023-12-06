@@ -5,9 +5,11 @@ country: Poland
 series: ["country"] 
 tags: ["members"]
 categories: ["Providers of publishing services"]
-description: ["active in Poland and in Ukraine, provides different services to publishers: book database, watermark ebook files, run a clearance system for distributors and publishers. Elibri is building a book lending system for Ukrainian libraries."]
+summary: "active in Poland and in Ukraine, provides different services to publishers: book database, watermark ebook files, run a clearance system for distributors and publishers. Elibri is building a book lending system for Ukrainian libraries."
 press:
 active: true
 layout: members 
+showReadTime: false
+showDate: false
 permalink: ""
 ---

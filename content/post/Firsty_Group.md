@@ -5,9 +5,11 @@ country: United-Kingdom
 series: ["country"] 
 tags: ["members"]
 categories: ["Technology providers"]
-description: ["a company that distributes a large volume of EPUB in the UK and develops white-labeled Readium-based reading applications for multiple publishers."]
+summary: "a company that distributes a large volume of EPUB in the UK and develops white-labeled Readium-based reading applications for multiple publishers."
 press:
 active: true
 layout: members 
+showReadTime: false
+showDate: false
 permalink: ""
 ---

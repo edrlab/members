@@ -5,10 +5,12 @@ country: France
 series: ["country"] 
 tags: ["members"]
 categories: ["Technology providers"]
-description: ["an ebook and audiobook distributor and developer of technical solutions for ebook distribution, including e-readers, desktop and mobile applications."]
+summary: "an ebook and audiobook distributor and developer of technical solutions for ebook distribution, including e-readers, desktop and mobile applications."
 press:
 active: true
 layout: members 
+showReadTime: false
+showDate: false
 permalink: ""
 ---
 

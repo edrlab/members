@@ -5,9 +5,11 @@ country: Netherlands
 series: ["country"] 
 tags: ["members"]
 categories: ["Libraries"]
-description: ["the National Library of the Netherlands."]
+summary: "the National Library of the Netherlands."
 press: 
 active: true
 layout: members 
+showReadTime: false
+showDate: false
 permalink: ""
 ---
