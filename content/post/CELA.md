@@ -13,4 +13,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
+featureImage: "/images/Cela_logo.jpeg"
 ---
