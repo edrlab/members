@@ -1,7 +1,8 @@
 ---
 title: NLB
 member_url: https://www.nlb.no/eng
-country: Norway 
+geographies: ["Norway "]
+based: ["Norway "]
 ig: ["interest group"] 
 services: ["services provided"] 
 tags: ["members"]

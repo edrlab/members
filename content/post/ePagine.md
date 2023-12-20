@@ -1,7 +1,8 @@
 ---
 title: ePagine
 member_url: https://www.epagine.fr/
-country: France
+geographies: ["France"]
+based: ["France"]
 ig: ["interest group"] 
 services: ["services provided"] 
 tags: ["members"]

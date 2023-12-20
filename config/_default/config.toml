@@ -19,7 +19,7 @@ DefaultContentLanguage = "en"
 category = "categories"
 tag = "tags"
 # series = "series"
-# countries = "country"
+geographies = "geographies"
 ig = "ig"
 services = "services"
 

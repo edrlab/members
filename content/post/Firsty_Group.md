@@ -1,7 +1,8 @@
 ---
 title: Firsty Group 
 member_url: https://firstygroup.com/
-country: United-Kingdom
+geographies: ["United-Kingdom"]
+based: ["United-Kingdom"]
 ig: ["interest group"] 
 services: ["services provided"] 
 tags: ["members"]

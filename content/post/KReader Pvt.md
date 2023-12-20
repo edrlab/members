@@ -1,7 +1,8 @@
 ---
 title: KReader PVT
 member_url: https://www.linkedin.com/company/kreader
-country: Sri Lanka
+geographies: ["Sri Lanka"]
+based: ["Sri Lanka"]
 ig: ["interest group"] 
 services: ["services provided"] 
 tags: ["members"]

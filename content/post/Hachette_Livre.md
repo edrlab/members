@@ -1,7 +1,8 @@
 ---
 title: Hachette Livre
 member_url: https://www.hachette.com/en/
-country: France
+geographies: ["France"]
+based: ["France"]
 ig: ["interest group"] 
 services: ["services provided"] 
 tags: ["members"]

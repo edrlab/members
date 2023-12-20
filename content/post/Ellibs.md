@@ -1,7 +1,8 @@
 ---
 title: Ellibs
 member_url: https://www.ellibs.com/
-country: Finland
+geographies: ["Finland"]
+based: ["Finland"]
 ig: ["interest group"] 
 services: ["services provided"] 
 tags: ["members"]

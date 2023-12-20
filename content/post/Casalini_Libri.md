@@ -1,7 +1,8 @@
 ---
 title: Casalini Libri 
 member_url: https://www.casalini.it/
-country: Italy
+geographies: ["Italy"]
+based: ["Italy"]
 ig: ["interest group"] 
 services: ["services provided"] 
 tags: ["members"]

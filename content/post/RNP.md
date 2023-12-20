@@ -1,7 +1,8 @@
 ---
 title: Rede Nacional de Ensino e Pesquisa (RNP)
 member_url: http://www.rnp.br
-country: Brazil
+geographies: ["Brazil"]
+based: ["Brazil"]
 ig: ["interest group"] 
 services: ["services provided"] 
 tags: ["members"]

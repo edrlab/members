@@ -1,7 +1,8 @@
 ---
 title: Numilog
 member_url: https://www.numilog.com/
-country: France
+geographies: ["France"]
+based: ["France"]
 ig: ["interest group"] 
 services: ["services provided"] 
 tags: ["members"]

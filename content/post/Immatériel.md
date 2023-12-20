@@ -1,7 +1,8 @@
 ---
 title: Immatériel
 member_url: https://www.immateriel.fr/
-country: France
+geographies: ["France"]
+based: ["France"]
 ig: ["interest group"] 
 services: ["services provided"] 
 tags: ["members"]

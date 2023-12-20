@@ -1,7 +1,8 @@
 ---
 title: Madrigall
 member_url: https://www.gallimard.fr/Footer/Ressources/Le-groupe-Madrigall
-country: France
+geographies: ["France"]
+based: ["France"]
 ig: ["interest group"] 
 services: ["services provided"] 
 tags: ["members"]

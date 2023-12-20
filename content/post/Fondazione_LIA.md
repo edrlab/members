@@ -1,7 +1,8 @@
 ---
 title: Fondazione LIA
 member_url: https://www.fondazionelia.org/en/
-country: Italy
+geographies: ["Italy"]
+based: ["Italy"]
 ig: ["interest group"] 
 services: ["services provided"] 
 tags: ["members"]

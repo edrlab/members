@@ -1,7 +1,8 @@
 ---
 title: Dilicom
 member_url: https://www.dilicom.net/
-country: France
+geographies: ["France"]
+based: ["France"]
 ig: ["interest group"] 
 services: ["services provided"] 
 tags: ["members"]

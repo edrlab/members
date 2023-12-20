@@ -1,7 +1,8 @@
 ---
 title: Léanova
 member_url: https://www.leanova.fr/
-country: France
+geographies: ["France"]
+based: ["France"]
 ig: ["interest group"] 
 services: ["services provided"] 
 tags: ["members"]

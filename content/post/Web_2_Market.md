@@ -1,7 +1,8 @@
 ---
 title: Web 2 Market
 member_url: https://web2market.com/
-country: USA
+geographies: ["USA"]
+based: ["USA"]
 ig: ["interest group"] 
 services: ["services provided"] 
 tags: ["members"]

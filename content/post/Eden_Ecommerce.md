@@ -1,7 +1,8 @@
 ---
 title: Eden Ecommerce
 member_url: https://www.linkedin.com/company/eden-interactive-ltd
-country: United-Kingdom
+geographies: ["United-Kingdom"]
+based: ["United-Kingdom"]
 ig: ["interest group"] 
 services: ["services provided"] 
 tags: ["members"]

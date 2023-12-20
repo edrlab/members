@@ -1,7 +1,8 @@
 ---
 title: Koninklijke Bibliotheek
 member_url: https://www.kb.nl/
-country: Netherlands
+geographies: ["Netherlands"]
+based: ["Netherlands"]
 ig: ["interest group"] 
 services: ["services provided"] 
 tags: ["members"]

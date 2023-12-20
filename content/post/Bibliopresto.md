@@ -1,7 +1,8 @@
 ---
 title: Bibliopresto
 member_url: https://bibliopresto.ca/
-country: Canada
+geographies: ["Canada"]
+based: ["Canada"]
 ig: ["interest group"] 
 services: ["services provided"] 
 tags: ["Distribution", "LCP", "lending"]
@@ -14,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-
+featureImage: "/members/images/"
 ---

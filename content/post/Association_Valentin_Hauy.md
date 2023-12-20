@@ -1,7 +1,8 @@
 ---
 title: Association Valentin Haüy
 member_url: https://www.avh.asso.fr/fr#
-country: France
+geographies: ["France"]
+based: ["France"]
 ig: ["interest group"] 
 services: ["services provided"] 
 tags: ["members"]
@@ -14,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-image: "https://www.avh.asso.fr/sites/all/themes/custom/customer/images/logo-home.webp"
+featureImage: "https://www.avh.asso.fr/sites/all/themes/custom/customer/images/logo-home.webp"
 ---

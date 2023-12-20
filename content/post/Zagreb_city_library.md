@@ -1,7 +1,8 @@
 ---
 title: Zagreb City Libraries
 member_url: https://www.kgz.hr/hr
-country: Croatia
+geographies: ["Croatia"]
+based: ["Croatia"]
 ig: ["interest group"] 
 services: ["services provided"] 
 tags: ["members"]

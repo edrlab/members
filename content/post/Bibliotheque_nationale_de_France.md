@@ -1,7 +1,8 @@
 ---
 title: Bibliothèque nationale de France 
 member_url: https://www.bnf.fr/fr
-country: France
+geographies: ["France"]
+based: ["France"]
 ig: ["interest group"] 
 services: ["services provided"] 
 tags: ["members"]
@@ -14,4 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
+featureImage: "/members/images/"
 --- 

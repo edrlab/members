@@ -1,7 +1,8 @@
 ---
 title: 
 member_url: 
-country: 
+geographies: [""]
+based: [""]
 ig: ["interest group"] 
 services: ["services provided"] 
 tags: ["members"]

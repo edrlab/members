@@ -1,7 +1,8 @@
 ---
 title: Beletrina
 member_url: https://beletrina.si/
-country: Slovenia
+geographies: ["Slovenia"]
+based: ["Slovenia"]
 ig: ["interest group"] 
 services: ["services provided"] 
 tags: ["members"]
@@ -14,4 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
+featureImage: "/members/images/"
 ---

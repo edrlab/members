@@ -1,7 +1,8 @@
 ---
 title: Bibliothèque Sonore Romande
 member_url: https://www.bibliothequesonore.ch/
-country: Switzerland
+geographies: ["Switzerland"]
+based: ["Switzerland"]
 ig: ["interest group"] 
 services: ["services provided"] 
 tags: ["members"]
@@ -14,4 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
+featureImage: "/members/images/"
 ---

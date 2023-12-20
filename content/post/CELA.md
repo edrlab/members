@@ -1,7 +1,8 @@
 ---
 title: CELA
 member_url: https://celalibrary.ca/
-country: Canada
+geographies: ["Canada"]
+based: ["Canada"]
 ig: ["interest group"] 
 services: ["services provided"] 
 tags: ["members"]

@@ -1,7 +1,8 @@
 ---
 title: Reseau Carel
 member_url: https://reseaucarel.org/
-country: France
+geographies: ["France"]
+based: ["France"]
 ig: ["interest group"] 
 services: ["services provided"] 
 tags: ["members"]

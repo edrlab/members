@@ -1,7 +1,8 @@
 ---
 title: Media Participations
 member_url: https://www.media-participations.com/
-country: France
+geographies: ["France"]
+based: ["France"]
 ig: ["interest group"] 
 services: ["services provided"] 
 tags: ["members"]

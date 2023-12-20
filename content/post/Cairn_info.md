@@ -1,7 +1,8 @@
 ---
 title: Cairn.info 
 member_url: https://www.cairn.info/
-country: France
+geographies: ["France"]
+based: ["France"]
 ig: ["interest group"] 
 services: ["services provided"] 
 tags: ["members"]

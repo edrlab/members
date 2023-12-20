@@ -1,7 +1,8 @@
 ---
 title: Bookshop.org
 member_url: https://bookshop.org/
-country: USA
+geographies: ["USA"]
+based: ["USA"]
 ig: ["interest group"] 
 services: ["services provided"] 
 tags: ["members"]

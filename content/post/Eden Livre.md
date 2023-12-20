@@ -1,7 +1,8 @@
 ---
 title: Eden Livre
 member_url: https://www.edenlivres.fr/
-country: France
+geographies: ["France"]
+based: ["France"]
 ig: ["interest group"] 
 services: ["services provided"] 
 tags: ["members"]

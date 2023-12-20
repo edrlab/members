@@ -1,7 +1,8 @@
 ---
 title: HarperCollins
 member_url: https://www.harpercollins.com/
-country: USA
+geographies: ["USA"]
+based: ["USA"]
 ig: ["interest group"] 
 services: ["services provided"] 
 tags: ["members"]

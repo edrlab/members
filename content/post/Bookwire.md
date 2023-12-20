@@ -1,7 +1,8 @@
 ---
 title: Bookwire
 member_url: https://www.bookwire.net/
-country: Germany
+geographies: ["Germany"]
+based: ["Germany"]
 ig: ["interest group"] 
 services: ["services provided"] 
 tags: ["members"]

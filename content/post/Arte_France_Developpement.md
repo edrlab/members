@@ -1,7 +1,8 @@
 ---
 title: Arte France Développement
 member_url: https://www.arte.tv/sites/corporate/en/the-french-member-arte-france/
-country: France
+geographies: ["France"]
+based: ["France"]
 ig: ["interest group"] 
 services: ["services provided"] 
 tags: ["members"]

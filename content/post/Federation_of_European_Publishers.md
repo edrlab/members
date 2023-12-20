@@ -1,7 +1,8 @@
 ---
 title: Federation of European Publishers
 member_url: https://fep-fee.eu/
-country: Belgium
+geographies: ["Belgium"]
+based: ["Belgium"]
 ig: ["interest group"] 
 services: ["services provided"] 
 tags: ["members"]

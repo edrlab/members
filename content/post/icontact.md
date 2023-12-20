@@ -1,7 +1,8 @@
 ---
 title: Icontact BV 
 member_url: 
-country: Netherlands
+geographies: ["Netherlands"]
+based: ["Netherlands"]
 ig: ["interest group"] 
 services: ["services provided"] 
 tags: ["members"]

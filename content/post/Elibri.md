@@ -1,7 +1,8 @@
 ---
 title: Elibri 
 member_url: https://www.elibri.com.pl/
-country: Poland
+geographies: ["Poland"]
+based: ["Poland"]
 ig: ["interest group"] 
 services: ["services provided"] 
 tags: ["members"]

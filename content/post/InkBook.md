@@ -1,7 +1,8 @@
 ---
 title: inkBOOK 
 member_url: https://inkbook.pl/
-country: Poland
+geographies: ["Poland"]
+based: ["Poland"]
 ig: ["interest group"] 
 services: ["services provided"] 
 tags: ["members"]

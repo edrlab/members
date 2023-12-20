@@ -1,7 +1,8 @@
 ---
 title: Shangai Library
 member_url: http://www.library.sh.cn
-country: China
+geographies: ["China"]
+based: ["China"]
 ig: ["interest group"] 
 services: ["services provided"] 
 tags: ["members"]

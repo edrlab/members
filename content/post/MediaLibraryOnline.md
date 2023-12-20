@@ -1,7 +1,8 @@
 ---
 title: MediaLibraryOnline (MLOL) 
 member_url: https://www.medialibrary.it/
-country: Italy 
+geographies: ["Italy "]
+based: ["Italy "]
 ig: ["interest group"] 
 services: ["services provided"] 
 tags: ["members"]

@@ -1,7 +1,8 @@
 ---
 title: "French State, represented by the Ministry of Culture and Communication."
 member_url: https://www.culture.gouv.fr/en
-country: France
+geographies: ["France"]
+based: ["France"]
 ig: ["interest group"] 
 services: ["services provided"] 
 tags: ["members"]

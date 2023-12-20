@@ -1,7 +1,8 @@
 ---
 title: De Marque
 member_url: https://www.demarque.com/
-country: Canada
+geographies: ["Canada"]
+based: ["Canada"]
 ig: ["interest group"] 
 services: ["services provided"] 
 tags: ["members"]

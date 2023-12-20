@@ -1,7 +1,8 @@
 ---
 title: Cap Digital
 member_url: https://www.capdigital.com/
-country: France
+geographies: ["France"]
+based: ["France"]
 ig: ["interest group"] 
 services: ["services provided"] 
 tags: ["members"]

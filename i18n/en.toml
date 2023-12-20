@@ -32,7 +32,10 @@ other = "Translations"
 other = "Categories"
 
 [tags]
-other = "Lines of work"
+other = "tags"
+
+[geographies]
+other = "Geographies"
 
 [ig]
 other = "Interest Groups"

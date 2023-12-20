@@ -1,7 +1,8 @@
 ---
 title: Bokbasen
 member_url: https://www.bokbasen.no/
-country: Norway
+geographies: ["Norway"]
+based: ["Norway"]
 ig: ["interest group"] 
 services: ["services provided"] 
 tags: ["members"]

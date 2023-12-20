@@ -1,7 +1,8 @@
 ---
 title: Art Book Magazine
 member_url: https://www.artbookmagazine.com
-country: France
+geographies: ["France"]
+based: ["France"]
 ig: ["interest group"] 
 services: ["services provided"] 
 tags: ["Reading", "LCP"]

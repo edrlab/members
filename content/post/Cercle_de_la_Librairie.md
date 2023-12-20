@@ -1,7 +1,8 @@
 ---
 title: Cercle de la Librairie
 member_url: https://cercledelalibrairie.org/
-country: France
+geographies: ["France"]
+based: ["France"]
 ig: ["interest group"] 
 services: ["services provided"] 
 tags: ["members"]

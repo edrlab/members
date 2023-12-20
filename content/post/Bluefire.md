@@ -1,7 +1,8 @@
 ---
 title: Bluefire
 member_url: https://www.bluefirereader.com/index.html
-country: USA
+geographies: ["USA"]
+based: ["USA"]
 ig: ["interest group"] 
 services: ["services provided"] 
 tags: ["Reading"]

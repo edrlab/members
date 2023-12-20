@@ -1,7 +1,8 @@
 ---
 title: Nota
 member_url: https://nota.dk/
-country: DK
+geographies: ["DK"]
+based: ["DK"]
 ig: ["interest group"] 
 services: ["services provided"] 
 tags: ["members"]
