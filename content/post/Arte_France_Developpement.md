@@ -14,5 +14,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: "/members/images/arte/svg"
+featureImage: "/members/images/arte_logo_rgb.jpg"
 ---
