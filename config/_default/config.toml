@@ -20,6 +20,8 @@ category = "categories"
 tag = "tags"
 # series = "series"
 # countries = "country"
+ig = "ig"
+services = "services"
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]

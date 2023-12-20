@@ -32,7 +32,13 @@ other = "Translations"
 other = "Categories"
 
 [tags]
-other = "Tags"
+other = "Lines of work"
+
+[ig]
+other = "Interest Groups"
+
+[services]
+other = "Services provided"
 
 [series]
 other = "Series"
