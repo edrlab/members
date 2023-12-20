@@ -19,7 +19,7 @@ DefaultContentLanguage = "en"
 category = "categories"
 tag = "tags"
 # series = "series"
-countries = "country"
+# countries = "country"
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
