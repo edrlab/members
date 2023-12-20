@@ -2,7 +2,8 @@
 title: 
 member_url: 
 country: 
-series: ["country"] 
+ig: ["interest group"] 
+services: ["services provided"] 
 tags: ["members"]
 categories:
   - Libraries

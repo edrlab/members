@@ -2,7 +2,8 @@
 title: Bibliopresto
 member_url: https://bibliopresto.ca/
 country: Canada
-series: ["country"] 
+ig: ["interest group"] 
+services: ["services provided"] 
 tags: ["Distribution", "LCP", "lending"]
 categories: ["Technology providers"]
 summary: "A non-profit organization in Quebec that supports libraries by offering them digital tools and services"

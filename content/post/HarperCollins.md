@@ -2,7 +2,8 @@
 title: HarperCollins
 member_url: https://www.harpercollins.com/
 country: USA
-series: ["country"] 
+ig: ["interest group"] 
+services: ["services provided"] 
 tags: ["members"]
 categories: ["Publishers and publishing groups"]
 summary: "one of the largest publishing group."

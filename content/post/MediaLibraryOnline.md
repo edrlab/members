@@ -2,7 +2,8 @@
 title: MediaLibraryOnline (MLOL) 
 member_url: https://www.medialibrary.it/
 country: Italy 
-series: ["country"] 
+ig: ["interest group"] 
+services: ["services provided"] 
 tags: ["members"]
 categories: ["Libraries"]
 summary: "the biggest ebook and audiobook e-lending service in Italy."

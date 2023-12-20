@@ -2,7 +2,8 @@
 title: Bibliothèque nationale de France 
 member_url: https://www.bnf.fr/fr
 country: France
-series: ["country"] 
+ig: ["interest group"] 
+services: ["services provided"] 
 tags: ["members"]
 categories: ["Libraries"]
 summary: "the National Library of France."

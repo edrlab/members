@@ -2,7 +2,8 @@
 title: Mantano
 member_url: Mantano
 country: France
-series: ["country"] 
+ig: ["interest group"] 
+services: ["services provided"] 
 tags: ["members"]
 categories: ["Technology providers"]
 summary: "the company behind the Bookari mobile reading application."

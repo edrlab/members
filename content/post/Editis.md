@@ -2,7 +2,8 @@
 title: Editis 
 member_url: https://www.editis.com/
 country: France
-series: ["country"] 
+ig: ["interest group"] 
+services: ["services provided"] 
 tags: ["members"]
 categories: ["Publishers and publishing groups"]
 summary: "one of the largest publishing group in France. EDRLab founding member."

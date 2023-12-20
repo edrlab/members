@@ -2,7 +2,8 @@
 title: Fênix Tecnologias Educacionais
 member_url: https://br.linkedin.com/company/fenixed
 country: Brazil
-series: ["country"] 
+ig: ["interest group"] 
+services: ["services provided"] 
 tags: ["members"]
 categories: ["Technology providers"]
 summary: "an education technology and services company."

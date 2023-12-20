@@ -2,7 +2,8 @@
 title: Syndicat national de l'édition (SNE)
 member_url: https://www.sne.fr/
 country: France
-series: ["country"] 
+ig: ["interest group"] 
+services: ["services provided"] 
 tags: ["members"]
 categories: ["Membership organizations"]
 summary: " the voice of the French book industry."

@@ -2,7 +2,8 @@
 title: Bookshop.org
 member_url: https://bookshop.org/
 country: USA
-series: ["country"] 
+ig: ["interest group"] 
+services: ["services provided"] 
 tags: ["members"]
 categories: ["Booksellers / retailers / content portals"]
 summary: "an online bookstore with a mission to financially support local, independent bookstores."

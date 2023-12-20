@@ -2,7 +2,8 @@
 title: Pixellence
 member_url: https://www.pixellence-composition.com/
 country: France
-series: ["country"] 
+ig: ["interest group"] 
+services: ["services provided"] 
 tags: ["members"]
 categories: ["Providers of publishing services"]
 summary: "specialized in structured page layout and EPUB production."

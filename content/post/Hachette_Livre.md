@@ -2,7 +2,8 @@
 title: Hachette Livre
 member_url: https://www.hachette.com/en/
 country: France
-series: ["country"] 
+ig: ["interest group"] 
+services: ["services provided"] 
 tags: ["members"]
 categories: ["Publishers and publishing groups"]
 summary: "one of the largest publishing group in France and the world. EDRLab founding member."

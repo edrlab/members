@@ -2,7 +2,8 @@
 title: De Marque
 member_url: https://www.demarque.com/
 country: Canada
-series: ["country"] 
+ig: ["interest group"] 
+services: ["services provided"] 
 tags: ["members"]
 categories: ["Ebook distributors"]
 summary: "the largest ebook distributor in Canada."

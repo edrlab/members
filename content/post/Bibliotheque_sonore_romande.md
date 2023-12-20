@@ -2,7 +2,8 @@
 title: Bibliothèque Sonore Romande
 member_url: https://www.bibliothequesonore.ch/
 country: Switzerland
-series: ["country"] 
+ig: ["interest group"] 
+services: ["services provided"] 
 tags: ["members"]
 categories: ["Associations, libraries and companies specialised in accessibility services"]
 summary: "a non-profit organisation which provides audiobooks to people with reading disabilities."

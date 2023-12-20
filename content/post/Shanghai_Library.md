@@ -2,7 +2,8 @@
 title: Shangai Library
 member_url: http://www.library.sh.cn
 country: China
-series: ["country"] 
+ig: ["interest group"] 
+services: ["services provided"] 
 tags: ["members"]
 categories: ["Libraries"]
 summary: "the library of Shanghai is the second largest public library in China."

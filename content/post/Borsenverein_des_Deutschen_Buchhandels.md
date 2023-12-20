@@ -2,7 +2,8 @@
 title: Börsenverein des Deutschen Buchhandels
 member_url: https://www.boersenverein.de/
 country: Germany
-series: ["country"] 
+ig: ["interest group"] 
+services: ["services provided"] 
 tags: ["members"]
 categories: ["Membership organizations"]
 summary: "the voice of the German book industry."

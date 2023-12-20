@@ -2,7 +2,8 @@
 title: Eden Livre
 member_url: https://www.edenlivres.fr/
 country: France
-series: ["country"] 
+ig: ["interest group"] 
+services: ["services provided"] 
 tags: ["members"]
 categories: ["Ebook distributors"]
 summary: "a large ebook distributor in France."

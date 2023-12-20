@@ -2,7 +2,8 @@
 title: Notion Wave
 member_url: https://notionwave.com/
 country: USA
-series: ["country"] 
+ig: ["interest group"] 
+services: ["services provided"] 
 tags: ["members"]
 categories: ["Technology providers"]
 summary: "its flagship product, KNiTO  is a complete EPUB 3 authoring, publishing, sales, and reader solution. KNiTO Store is a dedicated EPUB 3 book shop."

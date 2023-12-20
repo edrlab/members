@@ -2,7 +2,8 @@
 title: Cercle de la Librairie
 member_url: https://cercledelalibrairie.org/
 country: France
-series: ["country"] 
+ig: ["interest group"] 
+services: ["services provided"] 
 tags: ["members"]
 categories: ["Membership organizations"]
 summary: "the interprofessional union at the service of the book and its actors. EDRLab founding member."

@@ -2,7 +2,8 @@
 title: KReader PVT
 member_url: https://www.linkedin.com/company/kreader
 country: Sri Lanka
-series: ["country"] 
+ig: ["interest group"] 
+services: ["services provided"] 
 tags: ["members"]
 categories: ["Booksellers / retailers / content portals"]
 summary: "the only digital bookstore in Sri Lanka."

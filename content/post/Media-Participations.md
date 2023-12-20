@@ -2,7 +2,8 @@
 title: Media Participations
 member_url: https://www.media-participations.com/
 country: France
-series: ["country"] 
+ig: ["interest group"] 
+services: ["services provided"] 
 tags: ["members"]
 categories: ["Publishers and publishing groups"]
 summary: " one of the largest publishing group in France."
