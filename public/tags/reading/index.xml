@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reading on EDRLab members</title>
+    <link>https://edrlab.github.io/members/tags/reading/</link>
+    <description>Recent content in Reading on EDRLab members</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://edrlab.github.io/members/tags/reading/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Art Book Magazine</title>
+      <link>https://edrlab.github.io/members/post/art_book_magazine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://edrlab.github.io/members/post/art_book_magazine/</guid>
+      <description>
+        
+          
+            the company behind LISA Reader, one of the first reading apps having supported the LCP DRM.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Bluefire</title>
+      <link>https://edrlab.github.io/members/post/bluefire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://edrlab.github.io/members/post/bluefire/</guid>
+      <description>
+        
+          
+            the company which is behind Bluefire Reader, a well-known EPUB reader in the USA. Note that for now, Bluefire Reader does not rely on the Readium toolkits and does not support the LCP DRM.
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

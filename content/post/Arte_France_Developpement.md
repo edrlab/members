@@ -14,5 +14,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-image: 
+featureImage: "/members/images/arte/svg"
 ---

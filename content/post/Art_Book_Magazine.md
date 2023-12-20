@@ -14,5 +14,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-image: "/images/d580cea.png"
+featureImage: "/members/images/"
 ---

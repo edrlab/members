@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Content portals on EDRLab members</title>
+    <link>https://edrlab.github.io/members/categories/content-portals/</link>
+    <description>Recent content in Content portals on EDRLab members</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://edrlab.github.io/members/categories/content-portals/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arte France Développement</title>
+      <link>https://edrlab.github.io/members/post/arte_france_developpement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://edrlab.github.io/members/post/arte_france_developpement/</guid>
+      <description>
+        
+          
+            a department of Arte France, that operates ebooks e-lending solutions for public libraries.
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
