@@ -1,9 +1,9 @@
 ---
-title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+title: "About"
+description: "Hugo, the world's fastest framework for building websites"
+date: "2019-02-28"
+aliases: ["about-us", "about-hugo", "contact"]
+author: "Hugo Authors"
 ---
 
 EDRLab is a network of professional organizations working in the domain of digital publishing. These organizations are publishers, ebook and audiobook distributors, booksellers, public and national libraries, or developers of reading applications or e-readers. Below are the reasons for such organizations to become membre of EDRLab.
