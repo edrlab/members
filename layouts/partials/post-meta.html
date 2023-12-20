@@ -28,10 +28,8 @@
         </a>
       {{- end }}
     </span>
-    
     {{- $scratch.Set "writeSeparator" true }}
   {{- end }}
-  {{- .Params.country -}}
   {{- if $showShare }}
     <span class="page_only">{{ if ($scratch.Get "writeSeparator") }}&nbsp;·{{ end }}{{ partial "share" . }}</span>
     {{- $scratch.Set "writeSeparator" true }}
