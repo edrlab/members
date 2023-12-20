@@ -8,7 +8,7 @@ categories: ["Associations, libraries and companies specialised in accessibility
 summary: "Nota is an institution under the Ministry of Culture of Denmark, which makes printed text available in digital formats."
 press:
 active: true
-layout: members 
+layout: post
 showReadTime: false
 showDate: false
 permalink: ""

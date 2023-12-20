@@ -8,7 +8,7 @@ categories: ["Technology providers"]
 summary: "the hub by which book orders flow through in France; Dilicom also manages the B2B exchanges related to the national ebook lending solution Prêt Numérique en Bibliothèque."
 press:
 active: true
-layout: members 
+layout: post
 showReadTime: false
 showDate: false
 permalink: ""

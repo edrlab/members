@@ -8,7 +8,7 @@ categories: ["Content portals"]
 summary: "a department of Arte France, that operates ebooks e-lending solutions for public libraries."
 press:
 active: true
-layout: members 
+layout: post
 showReadTime: false
 showDate: false
 permalink: ""

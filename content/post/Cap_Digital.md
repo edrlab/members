@@ -8,7 +8,7 @@ categories: ["Membership organizations"]
 summary: "the European pole of digital transition."
 press:
 active: true
-layout: members 
+layout: post
 showReadTime: false
 showDate: false
 permalink: ""

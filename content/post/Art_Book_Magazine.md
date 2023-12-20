@@ -8,7 +8,7 @@ categories: ["Technology providers"]
 summary: "the company behind LISA Reader, one of the first reading apps having supported the LCP DRM."
 press:
 active: true
-layout: members 
+layout: post
 showReadTime: false
 showDate: false
 permalink: ""

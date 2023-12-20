@@ -8,7 +8,7 @@ categories: ["Ebook distributors"]
 summary: "the largest ebook distributor in Canada."
 press:
 active: true
-layout: members 
+layout: post
 showReadTime: false
 showDate: false
 permalink: ""

@@ -8,7 +8,7 @@ categories: ["Associations, libraries and companies specialised in accessibility
 summary: "adapts ebooks to the needs of dyslexic people, using its FROG EPUB extension."
 press:
 active: true
-layout: members 
+layout: post
 showReadTime: false
 showDate: false
 permalink: ""

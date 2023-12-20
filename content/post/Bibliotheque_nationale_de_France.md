@@ -8,7 +8,7 @@ categories: ["Libraries"]
 summary: "the National Library of France."
 press:
 active: true
-layout: members 
+layout: post
 showReadTime: false
 showDate: false
 permalink: ""

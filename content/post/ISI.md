@@ -8,7 +8,7 @@ categories: ["Technology providers"]
 summary: "a company developing backend tools for creating accessible fixed-layout EPUBs (mainly textbooks) from PDF files."
 press:
 active: true
-layout: members 
+layout: post
 showReadTime: false
 showDate: false
 permalink: ""

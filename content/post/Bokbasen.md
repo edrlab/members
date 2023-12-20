@@ -8,7 +8,7 @@ categories: ["Ebook distributors"]
 summary: "the ebook distributor in Norway."
 press:
 active: true
-layout: members 
+layout: post
 showReadTime: false
 showDate: false
 permalink: ""

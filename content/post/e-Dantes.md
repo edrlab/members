@@ -8,7 +8,7 @@ categories: ["Providers of publishing services"]
 summary: "ebook diffuser; B&B agent linking publishers and e-bookstores."
 press:
 active: true
-layout: members 
+layout: post
 showReadTime: false
 showDate: false
 permalink: ""

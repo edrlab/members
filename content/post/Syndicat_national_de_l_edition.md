@@ -8,7 +8,7 @@ categories: ["Membership organizations"]
 summary: " the voice of the French book industry."
 press:
 active: true
-layout: members 
+layout: post
 showReadTime: false
 showDate: false
 permalink: ""

@@ -8,7 +8,7 @@ categories: ["Booksellers / retailers / content portals"]
 summary: "the only digital bookstore in Sri Lanka."
 press:
 active: true
-layout: members 
+layout: post
 showReadTime: false
 showDate: false
 permalink: ""

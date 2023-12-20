@@ -8,7 +8,7 @@ categories: ["Associations, libraries and companies specialised in accessibility
 summary: "a non-profit organisation which provides audiobooks to people with reading disabilities."
 press: https://www.edrlab.org/2021/04/23/new-member-bibliopresto/
 active: true
-layout: members 
+layout: post
 showReadTime: false
 showDate: false
 permalink: ""

@@ -8,7 +8,7 @@ categories: ["Libraries"]
 summary: "the library of Shanghai is the second largest public library in China."
 press:
 active: true
-layout: members 
+layout: post
 showReadTime: false
 showDate: false
 permalink: ""

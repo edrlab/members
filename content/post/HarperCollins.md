@@ -8,7 +8,7 @@ categories: ["Publishers and publishing groups"]
 summary: "one of the largest publishing group."
 press:
 active: true
-layout: members 
+layout: post
 showReadTime: false
 showDate: false
 permalink: ""

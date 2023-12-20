@@ -8,7 +8,7 @@ categories: ["Publishers and publishing groups"]
 summary: "one of the largest publishing group in France and the world. EDRLab founding member."
 press:
 active: true
-layout: members 
+layout: post
 showReadTime: false
 showDate: false
 permalink: ""

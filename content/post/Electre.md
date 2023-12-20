@@ -8,7 +8,7 @@ categories: ["Providers of publishing services"]
 summary: "Providers of publishing servicesprovides a bibliographic database of all books produced in France."
 press:
 active: true
-layout: members 
+layout: post
 showReadTime: false
 showDate: false
 permalink: ""

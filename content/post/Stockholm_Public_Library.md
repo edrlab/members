@@ -11,7 +11,7 @@ description:
 press: 
 active: false
 draft: true
-layout: members 
+layout: post
 showReadTime: false
 showDate: false
 permalink: ""

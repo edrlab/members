@@ -8,7 +8,7 @@ categories: ["Technology providers"]
 summary: "provides e-commerce solutions for small and medium-sized publishers, primarily using the Magento and Shopify platforms, making it easy and affordable to sell online."
 press:
 active: true
-layout: members 
+layout: post
 showReadTime: false
 showDate: false
 permalink: ""

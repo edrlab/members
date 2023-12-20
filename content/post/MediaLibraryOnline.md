@@ -8,7 +8,7 @@ categories: ["Libraries"]
 summary: "the biggest ebook and audiobook e-lending service in Italy."
 press:
 active: true
-layout: members 
+layout: post
 showReadTime: false
 showDate: false
 permalink: ""

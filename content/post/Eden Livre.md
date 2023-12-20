@@ -8,7 +8,7 @@ categories: ["Ebook distributors"]
 summary: "a large ebook distributor in France."
 press:
 active: true
-layout: members 
+layout: post
 showReadTime: false
 showDate: false
 permalink: ""

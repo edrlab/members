@@ -8,7 +8,7 @@ categories: ["Libraries"]
 summary: " the network of skills and exchanges in France and Belgium, in the field of electronic documentation for public libraries."
 press:
 active: true
-layout: members 
+layout: post
 showReadTime: false
 showDate: false
 permalink: ""

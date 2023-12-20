@@ -8,7 +8,7 @@ categories: ["Technology providers "]
 summary: "a developer of e-ink Readers and Readium-based mobile applications that support the LCP DRM."
 press:
 active: true
-layout: members 
+layout: post
 showReadTime: false
 showDate: false
 permalink: ""

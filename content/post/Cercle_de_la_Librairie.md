@@ -8,7 +8,7 @@ categories: ["Membership organizations"]
 summary: "the interprofessional union at the service of the book and its actors. EDRLab founding member."
 press:
 active: true
-layout: members 
+layout: post
 showReadTime: false
 showDate: false
 permalink: ""

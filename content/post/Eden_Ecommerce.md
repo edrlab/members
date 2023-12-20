@@ -8,7 +8,7 @@ categories: ["Booksellers / retailers / content portals"]
 summary: "a supplier of religious ebooks."
 press:
 active: true
-layout: members 
+layout: post
 showReadTime: false
 showDate: false
 permalink: ""

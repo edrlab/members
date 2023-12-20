@@ -8,7 +8,7 @@ categories: ["Ebook distributors"]
 summary: "the largest book wholesaler in the UK, and large ebook distributor."
 press:
 active: true
-layout: members 
+layout: post
 showReadTime: false
 showDate: false
 permalink: ""

@@ -8,7 +8,7 @@ categories: ["Associations, libraries and companies specialised in accessibility
 summary: "for the last 130 years, the AVH has offered multiple services to people with reading disabilities."
 press:
 active: true
-layout: members 
+layout: post
 showReadTime: false
 showDate: false
 permalink: ""

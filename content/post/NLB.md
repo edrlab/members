@@ -8,7 +8,7 @@ categories: ["Associations, libraries and companies specialised in accessibility
 summary: "the Norwegian Library of Talking Books and Braille (NLB)  produces and lends out talking books and braille books."
 press:
 active: true
-layout: members 
+layout: post
 showReadTime: false
 showDate: false
 permalink: ""

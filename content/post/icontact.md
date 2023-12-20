@@ -8,7 +8,7 @@ categories: ["Technology providers"]
 summary: "the developer of a watermark solution for EPUB."
 press:
 active: true
-layout: members 
+layout: post
 showReadTime: false
 showDate: false
 permalink: ""

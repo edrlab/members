@@ -8,7 +8,7 @@ categories: ["Providers of publishing services"]
 summary: "specialized in structured page layout and EPUB production."
 press:
 active: true
-layout: members 
+layout: post
 showReadTime: false
 showDate: false
 permalink: ""

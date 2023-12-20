@@ -8,7 +8,7 @@ categories: ["Booksellers / retailers / content portals"]
 summary: "an online bookstore with a mission to financially support local, independent bookstores."
 press:
 active: true
-layout: members 
+layout: post
 showReadTime: false
 showDate: false
 permalink: ""

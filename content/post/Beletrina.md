@@ -8,7 +8,7 @@ categories: ["Booksellers / retailers / content portals"]
 summary: "a Slovenian publishing house, retailer, book distributor and technical service provider."
 press:
 active: true
-layout: members 
+layout: post
 showReadTime: false
 showDate: false
 permalink: ""
