@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: "https://www.artbookmagazine.com/images/d580cea.png)https://www.artbookmagazine.com/images/d580cea.png"
+featureImage: "https://www.artbookmagazine.com/images/d580cea.png"
 ---
