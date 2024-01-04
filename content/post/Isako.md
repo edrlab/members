@@ -3,9 +3,9 @@ title: Isako
 member_url: https://isako.com/sw/
 geographies: ["Worldwide", "France"]
 based: ["France"]
-ig: ["interest group"] 
+ig: [""] 
 services: ["services provided"] 
-tags: ["members"]
+tags: [""]
 categories: ["Providers of publishing services"]
 summary: "specialized in structured page layout and EPUB production."
 press:

@@ -3,9 +3,9 @@ title: Centre National du Livre
 member_url: https://centrenationaldulivre.fr/
 geographies: ["France"]
 based: ["France"]
-ig: ["interest group"] 
+ig: [""] 
 services: ["services provided"] 
-tags: ["members"]
+tags: [""]
 categories: ["Officio members"]
 summary: ""
 press:

@@ -3,7 +3,7 @@ title: Vivlio
 member_url: https://www.vivlio.com/
 geographies: ["France"]
 based: ["France"]
-ig: ["interest group"] 
+ig: [""] 
 services: ["services provided"] 
 tags: ["e-reader"]
 categories: ["Technology providers"]

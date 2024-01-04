@@ -3,9 +3,9 @@ title: ISI
 member_url: https://www.isicrunch.com/
 geographies: ["Worldwide", "France"]
 based: ["France"]
-ig: ["interest group"] 
+ig: [""] 
 services: ["services provided"] 
-tags: ["members"]
+tags: [""]
 categories: ["Technology providers"]
 summary: "a company developing backend tools for creating accessible fixed-layout EPUBs (mainly textbooks) from PDF files."
 press:

@@ -3,7 +3,7 @@ title: Bibliopresto
 member_url: https://bibliopresto.ca/
 geographies: ["Canada"]
 based: ["Canada"]
-ig: ["interest group"] 
+ig: ["LCP"] 
 services: ["services provided"] 
 tags: ["Distribution", "LCP", "lending"]
 categories: ["Technology providers"]

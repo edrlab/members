@@ -3,9 +3,9 @@ title: Pixellence
 member_url: https://www.pixellence-composition.com/
 geographies: ["France"]
 based: ["France"]
-ig: ["interest group"] 
+ig: [""] 
 services: ["services provided"] 
-tags: ["members"]
+tags: [""]
 categories: ["Providers of publishing services"]
 summary: "specialized in structured page layout and EPUB production."
 press:

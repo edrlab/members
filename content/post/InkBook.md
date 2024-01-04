@@ -3,9 +3,9 @@ title: inkBOOK
 member_url: https://inkbook.pl/
 geographies: ["Poland"]
 based: ["Poland"]
-ig: ["interest group"] 
+ig: ["Readium", "LCP"] 
 services: ["services provided"] 
-tags: ["members"]
+tags: [""]
 categories: ["Technology providers "]
 summary: "a developer of e-ink Readers and Readium-based mobile applications that support the LCP DRM."
 press:

@@ -3,9 +3,9 @@ title: Bookwire
 member_url: https://www.bookwire.net/
 geographies: ["Germany", "Brazil", "France", "England", "Mexico", "Spain", "USA"]
 based: ["Germany"]
-ig: ["interest group"] 
+ig: [""] 
 services: ["services provided"] 
-tags: ["members"]
+tags: [""]
 categories: ["Ebook distributors"]
 summary: "the largest ebook distributor in Germany."
 press:

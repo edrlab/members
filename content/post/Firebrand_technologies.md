@@ -3,9 +3,9 @@ title: Firebrand Technologies
 member_url: https://firebrandtech.com/
 geographies: ["Worldwide", "USA"]
 based: ["USA"]
-ig: ["interest group"] 
+ig: ["LCP"] 
 services: ["services provided"] 
-tags: ["members"]
+tags: [""]
 categories: ["Technology providers"]
 summary: "helps publishers and authors promote digital review copies to book advocates and industry professionals. Operates [NetGalley](https://www.netgalley.com/)"
 press:

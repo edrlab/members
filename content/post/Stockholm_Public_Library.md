@@ -3,9 +3,9 @@ title:
 member_url: 
 geographies: [""]
 based: [""]
-ig: ["interest group"] 
+ig: [""] 
 services: ["services provided"] 
-tags: ["members"]
+tags: [""]
 categories:
   - Libraries
 description:

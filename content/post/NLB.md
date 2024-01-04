@@ -3,7 +3,7 @@ title: NLB
 member_url: https://www.nlb.no/eng
 geographies: ["Norway"]
 based: ["Norway"]
-ig: ["interest group"] 
+ig: [""] 
 services: ["services provided"] 
 tags: ["Accessibility"]
 categories: ["Associations, libraries and companies specialised in accessibility services"]

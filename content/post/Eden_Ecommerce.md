@@ -3,9 +3,9 @@ title: Eden Ecommerce
 member_url: https://www.linkedin.com/company/eden-interactive-ltd
 geographies: ["Worldwide", "United-Kingdom"]
 based: ["United-Kingdom"]
-ig: ["interest group"] 
+ig: ["LCP"] 
 services: ["services provided"] 
-tags: ["members"]
+tags: [""]
 categories: ["Booksellers / retailers / content portals"]
 summary: "a supplier of religious ebooks."
 press:

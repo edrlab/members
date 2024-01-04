@@ -3,7 +3,7 @@ title: CELA
 member_url: https://celalibrary.ca/
 geographies: ["Canada"]
 based: ["Canada"]
-ig: ["interest group"] 
+ig: ["Accessibility"] 
 services: ["services provided"] 
 tags: ["Accessibility", "DAISY"]
 categories: ["Associations, libraries and companies specialised in accessibility services"]

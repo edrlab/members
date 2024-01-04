@@ -3,9 +3,9 @@ title: Madrigall
 member_url: https://www.gallimard.fr/Footer/Ressources/Le-groupe-Madrigall
 geographies: ["France"]
 based: ["France"]
-ig: ["interest group"] 
+ig: [""] 
 services: ["services provided"] 
-tags: ["members"]
+tags: [""]
 categories: ["Publishers and publishing groups"]
 summary: "one of the largest publishing group in France."
 press:

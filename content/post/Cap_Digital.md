@@ -3,9 +3,9 @@ title: Cap Digital
 member_url: https://www.capdigital.com/
 geographies: ["France"]
 based: ["France"]
-ig: ["interest group"] 
+ig: [""] 
 services: ["services provided"] 
-tags: ["members"]
+tags: [""]
 categories: ["Membership organizations"]
 summary: "the European pole of digital transition."
 press:

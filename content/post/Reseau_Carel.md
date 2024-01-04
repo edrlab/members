@@ -3,9 +3,9 @@ title: Reseau Carel
 member_url: https://reseaucarel.org/
 geographies: ["France", "Belgium"]
 based: ["France"]
-ig: ["interest group"] 
+ig: [""] 
 services: ["services provided"] 
-tags: ["members"]
+tags: [""]
 categories: ["Libraries"]
 summary: " the network of skills and exchanges in France and Belgium, in the field of electronic documentation for public libraries."
 press:

@@ -3,9 +3,9 @@ title: Arte France Développement
 member_url: https://www.arte.tv/sites/corporate/en/the-french-member-arte-france/
 geographies: ["France"]
 based: ["France"]
-ig: ["interest group"] 
+ig: [""] 
 services: ["services provided"] 
-tags: ["members"]
+tags: [""]
 categories: ["Content portals"]
 summary: "a department of Arte France, that operates ebooks e-lending solutions for public libraries."
 press:

@@ -3,9 +3,9 @@ title: Firsty Group
 member_url: https://firstygroup.com/
 geographies: ["United-Kingdom"]
 based: ["United-Kingdom"]
-ig: ["interest group"] 
+ig: ["Readium","LCP"] 
 services: ["services provided"] 
-tags: ["members"]
+tags: [""]
 categories: ["Technology providers"]
 summary: "a company that distributes a large volume of EPUB in the UK and develops white-labeled Readium-based reading applications for multiple publishers."
 press:

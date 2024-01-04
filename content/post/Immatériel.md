@@ -3,9 +3,9 @@ title: Immatériel
 member_url: https://www.immateriel.fr/
 geographies: ["France"]
 based: ["France"]
-ig: ["interest group"] 
+ig: ["LCP"] 
 services: ["services provided"] 
-tags: ["members"]
+tags: [""]
 categories: ["Ebook distributors"]
 summary: "a large ebook distributor in France."
 press:

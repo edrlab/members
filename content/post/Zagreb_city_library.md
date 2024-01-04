@@ -3,9 +3,9 @@ title: Zagreb City Libraries
 member_url: https://www.kgz.hr/hr
 geographies: ["Croatia"]
 based: ["Croatia"]
-ig: ["interest group"] 
+ig: [""] 
 services: ["services provided"] 
-tags: ["members"]
+tags: [""]
 categories: ["Libraries"]
 summary: "the central library for all public and school libraries in the Zagreb County, and the biggest institution among public libraries in Croatia."
 press:

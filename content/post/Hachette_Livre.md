@@ -3,7 +3,7 @@ title: Hachette Livre
 member_url: https://www.hachette.com/en/
 geographies: ["France", "USA", "Spain"]
 based: ["France"]
-ig: ["interest group"] 
+ig: [""] 
 services: ["services provided"] 
 tags: ["Accessibility"]
 categories: ["Publishers and publishing groups"]

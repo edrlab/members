@@ -3,9 +3,9 @@ title: Léanova
 member_url: https://www.leanova.fr/
 geographies: ["France"]
 based: ["France"]
-ig: ["interest group"] 
+ig: [""] 
 services: ["services provided"] 
-tags: ["members"]
+tags: [""]
 categories: ["Booksellers / retailers / content portals"]
 summary: "a Culture and Education kiosk featuring EPUB 3 publications."
 press:

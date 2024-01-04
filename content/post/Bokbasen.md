@@ -3,9 +3,9 @@ title: Bokbasen
 member_url: https://www.bokbasen.no/
 geographies: ["Norway"]
 based: ["Norway"]
-ig: ["interest group"] 
+ig: [""] 
 services: ["services provided"] 
-tags: ["members"]
+tags: [""]
 categories: ["Ebook distributors"]
 summary: "the ebook distributor in Norway."
 press:

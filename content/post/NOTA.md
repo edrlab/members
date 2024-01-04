@@ -3,7 +3,7 @@ title: Nota
 member_url: https://nota.dk/
 geographies: ["DK"]
 based: ["DK"]
-ig: ["interest group"] 
+ig: ["Readium", "Divina"] 
 services: ["services provided"] 
 tags: ["Accessibility", "DAISY"]
 categories: ["Associations, libraries and companies specialised in accessibility services"]

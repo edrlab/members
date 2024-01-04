@@ -3,9 +3,9 @@ title: Icontact BV
 member_url: 
 geographies: ["Worldwide", "Netherlands"]
 based: ["Netherlands"]
-ig: ["interest group"] 
+ig: [""] 
 services: ["services provided"] 
-tags: ["members"]
+tags: [""]
 categories: ["Technology providers"]
 summary: "the developer of a watermark solution for EPUB."
 press:

@@ -3,9 +3,9 @@ title: Koninklijke Bibliotheek
 member_url: https://www.kb.nl/
 geographies: ["Netherlands"]
 based: ["Netherlands"]
-ig: ["interest group"] 
+ig: [""] 
 services: ["services provided"] 
-tags: ["members"]
+tags: [""]
 categories: ["Libraries"]
 summary: "the National Library of the Netherlands."
 press: 
