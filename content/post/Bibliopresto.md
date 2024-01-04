@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: "/members/images/"
+featureImage: "https://bibliopresto.ca/img/logo_bibliopresto.svg"
 ---

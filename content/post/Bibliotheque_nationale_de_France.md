@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: "/members/images/"
+featureImage: "https://www.bnf.fr/sites/default/files/logo.svg"
 --- 

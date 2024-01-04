@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: "/members/images/"
+featureImage: "https://www.bibliothequesonore.ch/sites/default/files/image/2023-01/logo_bsr_2022_opti.svg"
 ---

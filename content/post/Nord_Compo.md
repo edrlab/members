@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: ""
+featureImage: "https://nordcompo.fr/app/uploads/2020/01/logonc-1.png"
 ---

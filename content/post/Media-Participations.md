@@ -16,4 +16,5 @@ showDate: false
 permalink: ""
 date: 
 founding_member: true
+featureImage: "https://www.media-participations.com/assets/img/logo/mediaparticipation.jpg"
 ---

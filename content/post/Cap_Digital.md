@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: ""
+featureImage: "https://www.capdigital.com/wp-content/themes/capdigital/img/logo2x.png"
 ---

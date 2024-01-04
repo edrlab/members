@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: ""
+featureImage: "https://www.cairn.info/static/images/logo/logo-cairn@3x.png"
 ---

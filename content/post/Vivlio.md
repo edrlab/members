@@ -15,7 +15,7 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: ""
+featureImage: "https://www.vivlio.com/wp-content/themes/vivlio/images/logo-vivlio.png"
 ---
 
 

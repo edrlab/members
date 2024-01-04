@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: ""
+featureImage: "https://notionwave.com/wp-content/uploads/2018/12/Final-NW-logo.png"
 ---

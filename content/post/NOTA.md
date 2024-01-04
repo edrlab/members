@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: ""
+featureImage: "https://nota.dk/sites/all/themes/custom/custom/notadk/images/logo-brown.svg"
 ---

@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: ""
+featureImage: "https://nnels.ca/sites/default/themes/NNELS_CALS_v001/images/NNELS-Header-Logo-CC0000.png"
 ---

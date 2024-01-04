@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: ""
+featureImage: "https://www.rnp.br/sites/site-publico/themes/sitepublico/logo.png"
 --- 

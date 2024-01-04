@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: ""
+featureImage: "https://www.numilog.com/App_Themes/Numilog2017/Images/Entetes/LogoNumilog3.png"
 ---

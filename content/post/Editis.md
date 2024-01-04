@@ -16,4 +16,5 @@ showDate: false
 permalink: ""
 date: 
 founding_member: true
+featureImage: "https://www.editis.com/editis-content/uploads/2019/08/logo_editis.png"
 ---

@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: ""
+featureImage: "https://web2market.com/wp-content/uploads/2022/07/W2M-Logo-trans.webp"
 ---

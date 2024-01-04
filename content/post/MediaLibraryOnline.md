@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: ""
+featureImage: "https://www.medialibrary.it/App_Themes/1/Images/testata_mlol.svg?v=1"
 ---

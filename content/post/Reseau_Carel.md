@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: ""
+featureImage: "https://reseaucarel.org/sites/default/files/reseau_carel_0.jpg"
 ---

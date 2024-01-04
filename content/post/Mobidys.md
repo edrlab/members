@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: ""
+featureImage: "https://www.mobidys.com/wp-content/uploads/2020/09/logo-Mobidys-orange-simple.png"
 ---

@@ -16,4 +16,5 @@ showDate: false
 permalink: ""
 date: 
 founding_member: true
+featureImage: "https://cercledelalibrairie.org/assets/images/cl-logo.svg"
 ---

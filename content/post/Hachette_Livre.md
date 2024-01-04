@@ -16,4 +16,5 @@ showDate: false
 permalink: ""
 date: 
 founding_member: true
+featureImage: "https://media.hachette.fr/11/2022-11/groupe-114.png"
 ---

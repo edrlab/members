@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: ""
+featureImage: "https://www.nlb.no/eng/_/asset/nlb:0000018c9124b840/icons/NLB_logo.svg"
 ---
