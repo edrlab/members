@@ -5,7 +5,7 @@ geographies: ["France"]
 based: ["France"]
 ig: ["Accessibility"] 
 services: ["services provided"] 
-tags: ["members"]
+tags: ["Accessibility", "DAISY"]
 categories: ["Associations, libraries and companies specialised in accessibility services"]
 summary: "for the last 130 years, the AVH has offered multiple services to people with reading disabilities."
 press:

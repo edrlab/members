@@ -5,7 +5,7 @@ geographies: ["France", "USA", "Spain"]
 based: ["France"]
 ig: ["interest group"] 
 services: ["services provided"] 
-tags: ["members"]
+tags: ["Accessibility"]
 categories: ["Publishers and publishing groups"]
 summary: "one of the largest publishing group in France and the world. EDRLab founding member."
 press:

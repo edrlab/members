@@ -5,7 +5,7 @@ geographies: ["France"]
 based: ["France"]
 ig: ["interest group"] 
 services: ["services provided"] 
-tags: ["members"]
+tags: ["e-reader"]
 categories: ["Technology providers"]
 summary: "an ebook and audiobook distributor and developer of technical solutions for ebook distribution, including e-readers, desktop and mobile applications."
 press:

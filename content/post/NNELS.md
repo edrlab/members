@@ -5,7 +5,7 @@ geographies: ["canada"]
 based: ["canada"]
 ig: ["Accessibility"] 
 services: ["services provided"] 
-tags: ["members"]
+tags: ["Accessibility", "DAISY"]
 categories: ["Associations, libraries and companies specialised in accessibility services"]
 summary: "the National Network for Equitable Library Service NNELS  is a repository of content owned and sustained by Canadian public libraries."
 press:

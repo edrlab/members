@@ -5,7 +5,7 @@ geographies: ["Worldwide", "Canada", "Italy", "Spain", "Switzerland", "Belgium"]
 based: ["Canada"]
 ig: ["Accessibility"] 
 services: ["services provided"] 
-tags: ["members"]
+tags: ["Accessibility"]
 categories: ["Ebook distributors"]
 summary: "the largest ebook distributor in Canada."
 press:
