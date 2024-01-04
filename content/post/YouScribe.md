@@ -1,7 +1,7 @@
 ---
 title: You Scribe
 member_url: https://www.youscribe.com/
-geographies: ["France"]
+geographies: ["Worldwide","France"]
 based: ["France"]
 ig: ["interest group"] 
 services: ["services provided"] 
