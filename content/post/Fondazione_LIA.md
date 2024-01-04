@@ -3,7 +3,7 @@ title: Fondazione LIA
 member_url: https://www.fondazionelia.org/en/
 geographies: ["Italy"]
 based: ["Italy"]
-ig: ["interest group"] 
+ig: ["Accessibility"] 
 services: ["services provided"] 
 tags: ["members"]
 categories: ["Associations, libraries and companies specialised in accessibility services"]

@@ -3,7 +3,7 @@ title: Association Valentin Haüy
 member_url: https://www.avh.asso.fr/fr#
 geographies: ["France"]
 based: ["France"]
-ig: ["interest group"] 
+ig: ["Accessibility"] 
 services: ["services provided"] 
 tags: ["members"]
 categories: ["Associations, libraries and companies specialised in accessibility services"]

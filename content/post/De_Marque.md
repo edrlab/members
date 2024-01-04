@@ -3,7 +3,7 @@ title: De Marque
 member_url: https://www.demarque.com/
 geographies: ["Worldwide", "Canada", "Italy", "Spain", "Switzerland", "Belgium"]
 based: ["Canada"]
-ig: ["interest group"] 
+ig: ["Accessibility"] 
 services: ["services provided"] 
 tags: ["members"]
 categories: ["Ebook distributors"]
