@@ -1,7 +1,7 @@
 ---
 title: Bookshop.org
 member_url: https://bookshop.org/
-geographies: ["USA"]
+geographies: ["Worldwide", "USA"]
 based: ["USA"]
 ig: ["interest group"] 
 services: ["services provided"] 
@@ -15,4 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
+featureImage: ""
 ---

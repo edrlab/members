@@ -1,7 +1,7 @@
 ---
 title: Art Book Magazine
 member_url: https://www.artbookmagazine.com
-geographies: ["France"]
+geographies: ["Worldwide", "France"]
 based: ["France"]
 ig: ["interest group"] 
 services: ["services provided"] 

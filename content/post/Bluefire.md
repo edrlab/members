@@ -1,7 +1,7 @@
 ---
 title: Bluefire
 member_url: https://www.bluefirereader.com/index.html
-geographies: ["USA"]
+geographies: ["Worldwide", "USA"]
 based: ["USA"]
 ig: ["interest group"] 
 services: ["services provided"] 
@@ -15,4 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
+featureImage: ""
 --- 
