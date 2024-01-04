@@ -1,7 +1,7 @@
 ---
 title: Mobidys
 member_url: https://www.mobidys.com
-geographies: ["France"]
+geographies: ["France", "Spain"]
 based: ["France"]
 ig: ["interest group"] 
 services: ["services provided"] 

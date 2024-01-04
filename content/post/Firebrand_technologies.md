@@ -1,7 +1,7 @@
 ---
 title: Firebrand Technologies
 member_url: https://firebrandtech.com/
-geographies: ["USA"]
+geographies: ["Worldwide", "USA"]
 based: ["USA"]
 ig: ["interest group"] 
 services: ["services provided"] 

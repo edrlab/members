@@ -1,7 +1,7 @@
 ---
 title: ISI
 member_url: https://www.isicrunch.com/
-geographies: ["France"]
+geographies: ["Worldwide", "France"]
 based: ["France"]
 ig: ["interest group"] 
 services: ["services provided"] 

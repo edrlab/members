@@ -1,7 +1,7 @@
 ---
 title: Gardners Books
 member_url: https://www.gardners.com/
-geographies: ["United-Kingdom"]
+geographies: ["Worldwide", "United-Kingdom"]
 based: ["United-Kingdom"]
 ig: ["interest group"] 
 services: ["services provided"] 

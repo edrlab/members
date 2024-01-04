@@ -1,7 +1,7 @@
 ---
 title: Isako
 member_url: https://isako.com/sw/
-geographies: ["France"]
+geographies: ["Worldwide", "France"]
 based: ["France"]
 ig: ["interest group"] 
 services: ["services provided"] 

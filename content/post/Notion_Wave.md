@@ -1,7 +1,7 @@
 ---
 title: Notion Wave
 member_url: https://notionwave.com/
-geographies: ["USA"]
+geographies: ["Worldwide", "USA"]
 based: ["USA"]
 ig: ["interest group"] 
 services: ["services provided"] 

@@ -1,7 +1,7 @@
 ---
 title: De Marque
 member_url: https://www.demarque.com/
-geographies: ["Canada"]
+geographies: ["Worldwide", "Canada", "Italy", "Spain", "Switzerland", "Belgium"]
 based: ["Canada"]
 ig: ["interest group"] 
 services: ["services provided"] 

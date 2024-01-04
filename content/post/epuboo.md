@@ -1,7 +1,7 @@
 ---
 title: ePUBoo.com
 member_url: https://www.epuboo.com/en/
-geographies: ["Spain"]
+geographies: ["Worldwide", "Spain"]
 based: ["Spain"]
 ig: ["interest group"] 
 services: ["services provided"] 

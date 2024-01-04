@@ -1,7 +1,7 @@
 ---
 title: e-Dantès
 member_url: http://www.e-dantes.com/en/
-geographies: ["France"]
+geographies: ["Worldwide", "France"]
 based: ["France"]
 ig: ["interest group"] 
 services: ["services provided"] 
