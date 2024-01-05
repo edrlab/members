@@ -7,7 +7,7 @@ ig: ["LCP"]
 services: ["services provided"] 
 tags: [""]
 categories: ["Technology providers"]
-summary: "helps publishers and authors promote digital review copies to book advocates and industry professionals. Operates [NetGalley](https://www.netgalley.com/)"
+summary: "Firebrand is a tech company which helps publishers and authors promote digital review copies to book advocates and industry professionals. They operate [NetGalley](https://www.netgalley.com/)"
 press:
 active: true
 layout: post
@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: ""
+featureImage: "https://firebrandtech.com/wp-content/uploads/2016/05/header_logo_med.png"
 ---

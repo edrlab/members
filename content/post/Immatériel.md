@@ -7,7 +7,7 @@ ig: ["LCP"]
 services: ["services provided"] 
 tags: [""]
 categories: ["Ebook distributors"]
-summary: "a large ebook distributor in France."
+summary: "Immatériel is a large ebook reseller and distributor in France. It currently distributes catalogues for more than 700 publishers."
 press:
 active: true
 layout: post
@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: ""
+featureImage: "https://www.immateriel.fr/img/logo.png"
 ---

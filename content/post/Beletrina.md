@@ -7,7 +7,7 @@ ig: ["LCP"]
 services: ["services provided"] 
 tags: [""]
 categories: ["Booksellers / retailers / content portals"] 
-summary: "a Slovenian publishing house, retailer, book distributor and technical service provider."
+summary: "Beletrina is a Slovenian publishing house, retailer, book distributor and technical service provider."
 press:
 active: true
 layout: post

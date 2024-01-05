@@ -7,7 +7,7 @@ ig: ["Accessibility"]
 services: ["services provided"] 
 tags: ["Accessibility", "DAISY"]
 categories: ["Associations, libraries and companies specialised in accessibility services"]
-summary: "for the last 130 years, the AVH has offered multiple services to people with reading disabilities."
+summary: "For the last 130 years, the Valentin Haüy association has offered multiple services to people with reading disabilities including braille printing, a media library, an Accessibility Unit..."
 press:
 active: true
 layout: post

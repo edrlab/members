@@ -7,7 +7,7 @@ ig: [""]
 services: ["services provided"] 
 tags: [""]
 categories: ["Libraries"]
-summary: "the National Library of France."
+summary: "The BnF, which stands for National Library of France, is a public institution under the authority of the Ministry of Culture. BnF's mission is to collect, preserve, enrich and communicate the national documentary heritage."
 press:
 active: true
 layout: post

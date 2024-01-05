@@ -7,7 +7,7 @@ ig: [""]
 services: ["services provided"] 
 tags: [""]
 categories: ["Technology providers"]
-summary: "a company developing backend tools for creating accessible fixed-layout EPUBs (mainly textbooks) from PDF files."
+summary: "ISI is a company developing backend tools for creating accessible fixed-layout EPUBs (mainly textbooks) from PDF files."
 press:
 active: true
 layout: post
@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: ""
+featureImage: "https://www.isicrunch.com/wp-content/uploads/2018/10/logoisicrunch2-300x54.png.webp"
 --- 
