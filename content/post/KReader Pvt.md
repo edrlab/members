@@ -7,7 +7,7 @@ ig: [""]
 services: ["services provided"] 
 tags: [""]
 categories: ["Booksellers / retailers / content portals"]
-summary: "the only digital bookstore in Sri Lanka."
+summary: "Kreader PVT is the only digital bookstore in Sri Lanka."
 press:
 active: true
 layout: post
@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: ""
+featureImage: "https://media.licdn.com/dms/image/D560BAQFIpFfn4l4qnA/company-logo_200_200/0/1664819575364?e=2147483647&v=beta&t=dp-4ZN-BxTV5X3_1cwQLwrlFg2qesbPSE8dJuFbz8to"
 --- 

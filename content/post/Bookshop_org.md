@@ -7,7 +7,7 @@ ig: [""]
 services: ["services provided"] 
 tags: [""]
 categories: ["Booksellers / retailers / content portals"]
-summary: "an online bookstore with a mission to financially support local, independent bookstores."
+summary: "Bookshop.org is an online bookstore with a mission to financially support local, independent bookstores. Their platform gives independent bookstores tools to compete online and financial support to help them maintain their presence in local communities."
 press:
 active: true
 layout: post
