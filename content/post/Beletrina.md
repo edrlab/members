@@ -3,7 +3,7 @@ title: Beletrina
 member_url: https://beletrina.si/
 geographies: ["Slovenia"]
 based: ["Slovenia"]
-ig: ["LCP"] 
+ig: ["LCP", "Sustainable Development Goals"] 
 services: ["services provided"] 
 tags: [""]
 categories: ["Booksellers / retailers / content portals"] 
