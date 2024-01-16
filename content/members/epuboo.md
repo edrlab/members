@@ -14,6 +14,6 @@ layout: members
 showReadTime: false
 showDate: false
 permalink: ""
-date: 2023-11-01
+date: 
 featureImage: "https://www.epuboo.com/en/wp-content/uploads/logo-oo-epuboo-large.jpg"
 ---
