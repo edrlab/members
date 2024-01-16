@@ -21,7 +21,7 @@ google_tag_manager_id = ""
 # baidu_analytics = "XXXXXXXX"
 
 # limit the number of taxonomies links shown on the sidebar of each page by default.
-numberOfTagsShown = 14 # Applies for all other default & custom taxonomies. e.g categories, brands see https://gohugo.io/content-management/taxonomies#what-is-a-taxonomy
+numberOfTagsShown = 21 # Applies for all other default & custom taxonomies. e.g categories, brands see https://gohugo.io/content-management/taxonomies#what-is-a-taxonomy
 
 # Whether to default to storing images and other assets in the `static` directory, or use Hugo page bundles.
 # Switch to `true` if you'd like to group assets with the post itself (as a "leaf bundle").
@@ -67,7 +67,7 @@ codeLineNumbers = false
 enableMathNotation = false
 
 # directory(s) where your articles are located
-mainSections = ["post"] # see config details here https://gohugo.io/functions/where/#mainsections
+mainSections = ["members"] # see config details here https://gohugo.io/functions/where/#mainsections
 
 # Label Non inline images on an article body
 figurePositionShow = false # toggle on or off globally
@@ -151,3 +151,4 @@ matomoDomain = "matomo.example.com" # Set to Matomo domain
 matomoSiteID = "1" # Default is set to 1, change this to the siteid being tracked
 
 showReadTime = false
+showDate = false
