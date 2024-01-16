@@ -2,8 +2,8 @@
 enableSearch = true
 
 # socials
-twitter = "@janedoe"
-largeTwitterCard = false # set to true if you want to show a large twitter card image. The default is a small twitter card image
+# twitter = "@janedoe"
+# largeTwitterCard = false # set to true if you want to show a large twitter card image. The default is a small twitter card image
 introDescription = "EDRLab is a network of professional organizations working in the domain of digital publishing. These organizations are publishers, ebook and audiobook distributors, booksellers, public and national libraries, or developers of reading applications or e-readers. Below are the reasons for such organizations to become membre of EDRLab."
 # introURL = "about/" # set the url for the 'read more' button below the introDescription, or set to false to not show the button
 # description = "A theme based on VMware's Clarity Design System for publishing technical blogs with Hugo." # Set your site's meta tag (SEO) description here. Alternatively set this description in your home page content file e.g. content/_index.md. Whatever is set in the latter will take precedence.

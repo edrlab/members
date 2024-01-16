@@ -17,11 +17,11 @@ DefaultContentLanguage = "en"
 
 [taxonomies]
 category = "categories"
+Collaborations = "ig"
 tag = "tags"
 # series = "series"
-geographies = "geographies"
-Collaborations = "ig"
 services = "services"
+geographies = "geographies"
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]

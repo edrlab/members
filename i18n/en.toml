@@ -34,11 +34,11 @@ other = "Categories"
 [tags]
 other = "tags"
 
-[geographies]
-other = "Geographies"
-
 [ig]
 other = "Collaborations"
+
+[geographies]
+other = "Geographies"
 
 [services]
 other = "Services provided"

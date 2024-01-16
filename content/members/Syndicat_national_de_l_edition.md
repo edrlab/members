@@ -3,7 +3,7 @@ title: Syndicat national de l'édition (SNE)
 member_url: https://www.sne.fr/
 geographies: ["France"]
 based: ["France"]
-ig: ["Sustainable Development Goals"] 
+ig: ["SDG"] 
 services: [""] 
 tags: ["Accessibility", "Standards"]
 categories: ["Membership organizations"]
