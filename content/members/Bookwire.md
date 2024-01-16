@@ -1,7 +1,7 @@
 ---
 title: Bookwire
 member_url: https://www.bookwire.net/
-geographies: ["Germany", "Brazil", "France", "England", "Mexico", "Spain", "USA"]
+geographies: ["Germany", "Brazil", "France", "England", "Mexico", "Spain", "USA", "worldwide"]
 based: ["Germany"]
 ig: [""] 
 services: ["services provided"] 

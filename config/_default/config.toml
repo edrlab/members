@@ -20,7 +20,7 @@ category = "categories"
 tag = "tags"
 # series = "series"
 geographies = "geographies"
-ig = "ig"
+Collaborations = "ig"
 services = "services"
 
 [outputs]

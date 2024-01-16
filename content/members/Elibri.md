@@ -3,7 +3,7 @@ title: Elibri
 member_url: https://www.elibri.com.pl/
 geographies: ["Poland"]
 based: ["Poland"]
-ig: [""] 
+ig: ["LCP"] 
 services: ["services provided"] 
 tags: [""]
 categories: ["Providers of publishing services"]

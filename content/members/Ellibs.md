@@ -3,7 +3,7 @@ title: Ellibs
 member_url: https://www.ellibs.com/
 geographies: ["Finland"]
 based: ["Finland"]
-ig: [""] 
+ig: ["LCP"] 
 services: ["services provided"] 
 tags: [""]
 categories: ["Booksellers / retailers / content portals"]

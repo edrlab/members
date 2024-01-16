@@ -24,7 +24,7 @@
 
 [[main]]
   parent = "edrlabmember"
-  name = "IGs"
+  name = "Collaborations"
   url = "/igs/"
   weight = 10
 

@@ -3,7 +3,7 @@ title: KReader PVT
 member_url: https://www.linkedin.com/company/kreader
 geographies: ["Sri Lanka"]
 based: ["Sri Lanka"]
-ig: [""] 
+ig: [LCP"] 
 services: ["services provided"] 
 tags: [""]
 categories: ["Booksellers / retailers / content portals"]

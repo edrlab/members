@@ -5,7 +5,7 @@ geographies: ["France"]
 based: ["France"]
 ig: [""] 
 services: ["services provided"] 
-tags: [""]
+tags: ["Data"]
 categories: ["Providers of publishing services"]
 summary: "Providers of publishing servicesprovides a bibliographic database of all books produced in France."
 press:

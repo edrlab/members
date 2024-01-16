@@ -3,7 +3,7 @@ title: Arte France Développement
 member_url: https://www.arte.tv/sites/corporate/en/the-french-member-arte-france/
 geographies: ["France"]
 based: ["France"]
-ig: [""] 
+ig: ["LCP"] 
 services: ["services provided"] 
 tags: [""]
 categories: ["Content portals"]
