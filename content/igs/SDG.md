@@ -3,7 +3,7 @@ title: " Sustainable Development Goals (SDG) Publishers Compact"
 description: "17 Goals to Transform Our World
 The Sustainable Development Goals are a call for action by all countries to promote prosperity while protecting the planet. They recognize that ending poverty must go hand-in-hand with strategies that build economic growth and address a range of social needs including education, health, social protection, and job opportunities, while tackling climate change and environmental protection."
 date: "2019-02-28"
-ig: ["SDG"]
+ig: ["Sustainable Development Goals"]
 layout: definitions
 showReadTime: false
 showDate: false
