@@ -86,7 +86,7 @@
   name = "github"
   type = "social"
   weight = 1
-  url = "https://github.com/edrlab"
+  url = "https://github.com/edrlab/members"
 [[social]]
   name = "twitter"
   weight = 2
