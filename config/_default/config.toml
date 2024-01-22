@@ -18,10 +18,10 @@ DefaultContentLanguage = "en"
 [taxonomies]
 category = "categories"
 Collaborations = "ig"
-tag = "tags"
+# tag = "tags"
 # series = "series"
 services = "services"
-geographies = "geographies"
+# geographies = "geographies"
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
