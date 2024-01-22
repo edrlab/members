@@ -4,7 +4,7 @@ member_url: https://www.bluefirereader.com/index.html
 geographies: ["Worldwide", "USA"]
 based: ["USA"]
 ig: ["Readium"] 
-services: ["services provided"] 
+services: [""] 
 tags: ["Reading"]
 categories: ["Technology providers"]
 summary: "the company which is behind Bluefire Reader, a well-known EPUB reader in the USA. Note that for now, Bluefire Reader does not rely on the Readium toolkits and does not support the LCP DRM."

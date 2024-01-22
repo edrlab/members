@@ -4,7 +4,7 @@ member_url: https://br.linkedin.com/company/fenixed
 geographies: ["Brazil"]
 based: ["Brazil"]
 ig: [""] 
-services: ["services provided"] 
+services: [""] 
 tags: [""]
 categories: ["Technology providers"]
 summary: "Fênix Tecnologias Educacionais is an education technology and services company based in Brazil."

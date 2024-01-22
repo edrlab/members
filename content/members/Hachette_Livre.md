@@ -4,7 +4,7 @@ member_url: https://www.hachette.com/en/
 geographies: ["France", "USA", "Spain"]
 based: ["France"]
 ig: ["LCP"] 
-services: ["services provided"] 
+services: [""] 
 tags: ["Accessibility"]
 categories: ["Publishers and publishing groups"]
 summary: "one of the largest publishing group in France and the world. EDRLab founding member."

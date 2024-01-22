@@ -4,7 +4,7 @@ member_url: https://www.linkedin.com/company/eden-interactive-ltd
 geographies: ["Worldwide", "United-Kingdom"]
 based: ["United-Kingdom"]
 ig: ["LCP"] 
-services: ["services provided"] 
+services: [""] 
 tags: [""]
 categories: ["Booksellers / retailers / content portals"]
 summary: "a supplier of religious ebooks."

@@ -4,7 +4,7 @@ member_url: https://reseaucarel.org/
 geographies: ["France", "Belgium"]
 based: ["France"]
 ig: [""] 
-services: ["services provided"] 
+services: [""] 
 tags: [""]
 categories: ["Libraries"]
 summary: " the network of skills and exchanges in France and Belgium, in the field of electronic documentation for public libraries."

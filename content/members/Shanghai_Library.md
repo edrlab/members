@@ -4,7 +4,7 @@ member_url: http://www.library.sh.cn
 geographies: ["China"]
 based: ["China"]
 ig: [""] 
-services: ["services provided"] 
+services: [""] 
 tags: [""]
 categories: ["Libraries"]
 summary: "the library of Shanghai is the second largest public library in China."

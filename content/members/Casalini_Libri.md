@@ -4,7 +4,7 @@ member_url: https://www.casalini.it/
 geographies: ["Italy"]
 based: ["Italy"]
 ig: ["LCP"] 
-services: ["services provided"] 
+services: [""] 
 tags: [""]
 categories: ["Booksellers / retailers / content portals"]
 summary: "one of the leading suppliers of publications from across Southern Europe to libraries and institutions worldwide."

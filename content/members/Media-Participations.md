@@ -4,7 +4,7 @@ member_url: https://www.media-participations.com/
 geographies: ["France"]
 based: ["France"]
 ig: [""] 
-services: ["services provided"] 
+services: [""] 
 tags: [""]
 categories: ["Publishers and publishing groups"]
 summary: " one of the largest publishing group in France."

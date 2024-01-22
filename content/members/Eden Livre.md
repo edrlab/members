@@ -4,7 +4,7 @@ member_url: https://www.edenlivres.fr/
 geographies: ["France"]
 based: ["France"]
 ig: [""] 
-services: ["services provided"] 
+services: [""] 
 tags: [""]
 categories: ["Ebook distributors"]
 summary: "a large ebook distributor in France."

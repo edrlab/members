@@ -4,7 +4,7 @@ member_url: https://fep-fee.eu/
 geographies: ["Europe", "Belgium"]
 based: ["Belgium"]
 ig: [""] 
-services: ["services provided"] 
+services: [""] 
 tags: [""]
 categories: ["Membership organizations"]
 summary: "the voice of publishers in Europe."

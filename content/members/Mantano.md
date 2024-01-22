@@ -4,7 +4,7 @@ member_url: https://mantano.com
 geographies: ["worldwide", "France"]
 based: ["France"]
 ig: [""] 
-services: ["services provided"] 
+services: [""] 
 tags: [""]
 categories: ["Technology providers"]
 summary: "the company behind the Bookari mobile reading application."

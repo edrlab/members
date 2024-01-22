@@ -4,7 +4,7 @@ member_url: https://www.bibliothequesonore.ch/
 geographies: ["Switzerland"]
 based: ["Switzerland"]
 ig: [""] 
-services: ["services provided"] 
+services: [""] 
 tags: ["Daisy"]
 categories: ["Associations, libraries and companies specialised in accessibility services"]
 summary: "The Bibliothèque Sonore Romande is a Swiss non-profit organisation which provides audiobooks to people with reading disabilities."

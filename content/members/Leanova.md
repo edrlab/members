@@ -4,7 +4,7 @@ member_url: https://www.leanova.fr/
 geographies: ["France"]
 based: ["France"]
 ig: [""] 
-services: ["services provided"] 
+services: [""] 
 tags: [""]
 categories: ["Booksellers / retailers / content portals"]
 summary: "a Culture and Education kiosk featuring EPUB 3 publications."

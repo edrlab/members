@@ -4,7 +4,7 @@ member_url: https://www.capdigital.com/
 geographies: ["France"]
 based: ["France"]
 ig: [""] 
-services: ["services provided"] 
+services: [""] 
 tags: [""]
 categories: ["Membership organizations"]
 summary: "the European pole of digital transition."
