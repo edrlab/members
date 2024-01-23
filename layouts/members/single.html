@@ -42,7 +42,7 @@
       {{ else }}
         {{ $summary | markdownify }}
       {{ end }}
-      <p></p><a href="{{ .Params.member_url }}">{{ .Params.title }} webpage</a>
+     <a  class="post_content excerpt" href="{{ .Params.member_url }}">{{ .Params.title }} webpage</a>
       {{- $r := T "read_more" }}</p>
     <div class="post_body">
       {{- .Content }}
