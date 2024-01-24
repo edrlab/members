@@ -9,6 +9,7 @@ layout: about
 Welcome to the EDRlab members directory! 
 <br/>You can search or browse members list by professions, services provided and collaboration to EDRLab mains activities.
 
+
 ## Not yet a member?
 
 *The value returned by open-source and standards organizations is many multiples of a yearly membership cost, even for the most modest organization. Even being able to publish at scale regardless of the organizational size is riding on the community’s coat-tails.  Presume if every publisher had its own distribution format, every bookstore had its own distribution channel, each with their own identifier and distribution methodology, you needed to produce a serape metadata file and develop reading software engines for every search site or library.  Now consider the staff time that is saved because of things like EPUB, OPDS, ONIX, ISBN and the open-source Readium toolkits.*
