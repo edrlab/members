@@ -4,9 +4,9 @@ member_url: https://www.nlb.no/eng
 geographies: ["Norway"]
 based: ["Norway"]
 ig: [""] 
-services: [""] 
+services: ["service available"] 
 tags: ["DAISY"]
-categories: ["Associations, libraries and companies specialised in accessibility services"]
+categories: ["NGOs", "Libraries", "Serving persons with print disabilities"]
 summary: "the Norwegian Library of Talking Books and Braille (NLB)  produces and lends out talking books and braille books."
 press:
 active: true

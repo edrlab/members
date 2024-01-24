@@ -4,7 +4,7 @@ member_url: https://www.vivlio.com/
 geographies: ["France"]
 based: ["France"]
 ig: [""] 
-services: [""] 
+services: ["service available"] 
 tags: ["e-reader"]
 categories: ["Technology providers"]
 summary: "an ebook and audiobook distributor and developer of technical solutions for ebook distribution, including e-readers, desktop and mobile applications."

@@ -4,7 +4,7 @@ member_url:
 geographies: ["Worldwide", "Netherlands"]
 based: ["Netherlands"]
 ig: [""] 
-services: [""] 
+services: ["service available"] 
 tags: [""]
 categories: ["Technology providers"]
 summary: "the developer of a watermark solution for EPUB."

@@ -4,7 +4,7 @@ member_url: https://www.gardners.com/
 geographies: ["Worldwide", "United-Kingdom"]
 based: ["United-Kingdom"]
 ig: [""] 
-services: [""] 
+services: ["service available"] 
 tags: [""]
 categories: ["Ebook distributors"]
 summary: "the largest book wholesaler in the UK, and large ebook distributor."

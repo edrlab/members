@@ -4,7 +4,7 @@ member_url: https://www.boersenverein.de/
 geographies: ["Germany"]
 based: ["Germany"]
 ig: [""] 
-services: [""] 
+services: ["service available"] 
 tags: [""]
 categories: ["Membership organizations"]
 summary: "the voice of the German book industry."

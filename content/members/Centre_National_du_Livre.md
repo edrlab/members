@@ -4,7 +4,7 @@ member_url: https://centrenationaldulivre.fr/
 geographies: ["France"]
 based: ["France"]
 ig: [""] 
-services: [""] 
+services: ["service available"] 
 tags: [""]
 categories: ["Officio members"]
 summary: ""

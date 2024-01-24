@@ -4,7 +4,7 @@ member_url: https://www.pixellence-composition.com/
 geographies: ["France"]
 based: ["France"]
 ig: [""] 
-services: [""] 
+services: ["service available"] 
 tags: [""]
 categories: ["Providers of publishing services"]
 summary: "specialized in structured page layout and EPUB production."

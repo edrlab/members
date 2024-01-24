@@ -4,7 +4,7 @@ member_url:
 geographies: [""]
 based: [""]
 ig: [""] 
-services: [""] 
+services: ["service available"] 
 tags: [""]
 categories:
   - Libraries
