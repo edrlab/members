@@ -4,10 +4,10 @@ member_url: https://www.boersenverein.de/
 geographies: ["Germany"]
 based: ["Germany"]
 ig: [""] 
-services: [""] 
+services: ["service available"] 
 tags: [""]
 categories: ["Membership organizations"]
-summary: "the voice of the German book industry."
+summary: "Börsenverein des Deutschen Buchhandels (the German Publishers and Booksellers Association) represents the interests of Germany's book industry in the political and public spheres. It was founded in Leipzig in 1825 and currently has roughly 4,500 members, which include booksellers, publishers, wholesalers and other media companies. As both a trade association and a cultural organisation, the Börsenverein works to promote books and reading whilst also fostering fair copyright laws and the preservation of Germany's policy of fixed book prices. It also seeks to promote cultural diversity and uphold the right to freedom of expression."
 press:
 active: true
 layout: members

@@ -4,9 +4,9 @@ member_url: https://bookshop.org/
 geographies: ["Worldwide", "USA"]
 based: ["USA"]
 ig: [""] 
-services: [""] 
+services: ["service available"] 
 tags: [""]
-categories: ["Booksellers / retailers / content portals"]
+categories:  ["Booksellers", "Retailers", "Content portals"] 
 summary: "Bookshop.org is an online bookstore with a mission to financially support local, independent bookstores. Their platform gives independent bookstores tools to compete online and financial support to help them maintain their presence in local communities."
 press:
 active: true

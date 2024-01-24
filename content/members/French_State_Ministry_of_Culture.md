@@ -4,7 +4,7 @@ member_url: https://www.culture.gouv.fr/en
 geographies: ["France"]
 based: ["France"]
 ig: [""] 
-services: [""] 
+services: ["service available"] 
 tags: [""]
 categories: ["Officio members "]
 summary: ""

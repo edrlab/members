@@ -4,7 +4,7 @@ member_url: https://www.bokbasen.no/
 geographies: ["Norway"]
 based: ["Norway"]
 ig: [""] 
-services: [""] 
+services: ["service available"] 
 tags: [""]
 categories: ["Ebook distributors"]
 summary: "Bobasen in an ebook distributor based in Norway. Established in 2007, they create infrastructure for new digital solutions for publishers, bookstores, online bookstores, subscription services, libraries and schools."

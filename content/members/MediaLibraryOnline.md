@@ -4,7 +4,7 @@ member_url: https://www.medialibrary.it/
 geographies: ["Italy "]
 based: ["Italy "]
 ig: ["LCP"] 
-services: [""] 
+services: ["service available"] 
 tags: [""]
 categories: ["Libraries"]
 summary: "the biggest ebook and audiobook e-lending service in Italy."

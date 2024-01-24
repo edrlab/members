@@ -4,7 +4,7 @@ member_url: https://www.numilog.com/
 geographies: ["France"]
 based: ["France"]
 ig: [""] 
-services: [""] 
+services: ["service available"] 
 tags: [""]
 categories: ["Ebook distributors"]
 summary: "a large ebook distributor in France."

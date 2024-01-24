@@ -4,7 +4,7 @@ member_url: https://www.kb.nl/
 geographies: ["Netherlands"]
 based: ["Netherlands"]
 ig: ["Accessibility"] 
-services: [""] 
+services: ["service available"] 
 tags: [""]
 categories: ["Libraries"]
 summary: "the National Library of the Netherlands."

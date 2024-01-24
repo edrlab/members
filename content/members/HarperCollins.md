@@ -4,7 +4,7 @@ member_url: https://www.harpercollins.com/
 geographies: ["USA"]
 based: ["USA"]
 ig: [""] 
-services: [""] 
+services: ["service available"] 
 tags: [""]
 categories: ["Publishers and publishing groups"]
 summary: "one of the largest publishing group."

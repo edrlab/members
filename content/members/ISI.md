@@ -4,7 +4,7 @@ member_url: https://www.isicrunch.com/
 geographies: ["Worldwide", "France"]
 based: ["France"]
 ig: [""] 
-services: [""] 
+services: ["service available"] 
 tags: [""]
 categories: ["Technology providers"]
 summary: "ISI is a company developing backend tools for creating accessible fixed-layout EPUBs (mainly textbooks) from PDF files."
