@@ -16,11 +16,11 @@ DefaultContentLanguage = "en"
 # config/_default/menus/menu.xx.toml
 
 [taxonomies]
-category = "categories"
+Professions = "categories"
 Collaborations = "ig"
 # tag = "tags"
 # series = "series"
-services = "services"
+Services = "services"
 # geographies = "geographies"
 
 [outputs]
