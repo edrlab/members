@@ -28,6 +28,12 @@
   url = "/igs/"
   weight = 10
 
+[[main]]
+  parent = "edrlabmember"
+  name = "Activities"
+  url = "/categories/"
+  weight = 10
+
 # [[main]]
 # name = "Back to edrlab webpage"
 # url = "https://www.edrlab.org"
