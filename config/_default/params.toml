@@ -4,8 +4,8 @@ enableSearch = true
 # socials
 # twitter = "@janedoe"
 # largeTwitterCard = false # set to true if you want to show a large twitter card image. The default is a small twitter card image
-introDescription = "EDRLab is a network of professional organizations working in the domain of digital publishing. These organizations are publishers, ebook and audiobook distributors, booksellers, public and national libraries, or developers of reading applications or e-readers. Below are the reasons for such organizations to become membre of EDRLab."
-# introURL = "about/" # set the url for the 'read more' button below the introDescription, or set to false to not show the button
+introDescription = "EDRLab is a network of professional organizations working in the domain of digital publishing. These directory provides a space to know each of us better and encourage collaborations."
+introURL = "about/" # set the url for the 'read more' button below the introDescription, or set to false to not show the button
 # description = "A theme based on VMware's Clarity Design System for publishing technical blogs with Hugo." # Set your site's meta tag (SEO) description here. Alternatively set this description in your home page content file e.g. content/_index.md. Whatever is set in the latter will take precedence.
 # keywords = ["design", "clarity", "hugo theme"] # Set your site's meta tag (SEO) keywords here. Alternatively set these in your home page content file e.g. content/_index.md. Whatever is set in the laztter will take precedence.
 
@@ -67,7 +67,7 @@ codeLineNumbers = false
 enableMathNotation = false
 
 # directory(s) where your articles are located
-mainSections = ["members"] # see config details here https://gohugo.io/functions/where/#mainsections
+mainSections = ["about"] # see config details here https://gohugo.io/functions/where/#mainsections
 
 # Label Non inline images on an article body
 figurePositionShow = false # toggle on or off globally
@@ -135,7 +135,7 @@ showRelatedInSidebar = false
 
 # website author
 [author]
-name = "EDRLab members"
+name = "EDRLab"
 # photo = "images/jane-doe.png" #include this if you would like to show the author photo on the sidebar
 
 [plausible_analytics]

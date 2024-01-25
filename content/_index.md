@@ -1,5 +1,12 @@
-+++
-author = "Hugo Authors"
-description = "A theme based on VMware's Clarity Design System for publishing technical blogs with Hugo." # Set your site's meta tag (SEO) description here. This overrides any description set in your site configuration.
-keywords = ["design", "clarity", "hugo theme"] # Set your site's meta tag (SEO) keywords here. These override any keywords set in your site configuration.
-+++
+---
+title: "EDRlab members directory"
+description: "Welcome to the EDRlab members directory!"
+date: "2024-01-24"
+author: "EDRLab"
+layout: about
+member_url: https://www.edrlab.org/become-a-member/
+---
+
+Welcome to the EDRlab members directory!
+
+You can search or browse members list by professions, services provided and collaboration to EDRLab mains activities.
