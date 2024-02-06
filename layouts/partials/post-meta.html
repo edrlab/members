@@ -18,12 +18,12 @@
     <span class="post_time">{{ if ($scratch.Get "writeSeparator") }} · {{ end }}{{ T "reading_time" . }}</span>
     {{- $scratch.Set "writeSeparator" true }}
   {{- end }}
-  {{- with .Params.tags -}}
+  {{- with .Params.services -}}
     <span>
       {{- if ($scratch.Get "writeSeparator") }}&nbsp;· {{ end }}
       {{- range . }}
-        {{- $tag := urlize . -}}
-        <a href='{{ absLangURL (printf "tags/%s/" $tag) }}' title="{{ . }}" class="post_tag button button_translucent">
+        {{- $services := urlize . -}}
+        <a href='{{ absLangURL (printf "services/%s/" $services) }}' title="{{ . }}" class="post_tag button button_translucent">
           {{- . }}
         </a>
       {{- end }}
