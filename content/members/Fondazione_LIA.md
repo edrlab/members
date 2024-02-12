@@ -7,7 +7,7 @@ ig: ["Accessibility", "W3C"]
 services: ["service available"] 
 tags: ["DAISY"]
 categories: ["NGOs", "Libraries", "Serving persons with print disabilities"]
-summary: "the LIA Foundation promotes books and reading in all its traditional and digital forms, through education, information, awareness-raising and research activities, guaranteeing the fundamental principles: accessibility , integration and  sociality."
+summary: "Fondazione LIA is a non-profit organisation aimed at fostering the adoption of accessibility in the publishing industry. LIA offers consultancy, training and Quality Assurance services for e-books and websites to publishers and all the actors in the book value chain willing to adapt their production and distribution workflows to meet accessibility standards."
 press:
 active: true
 layout: members
