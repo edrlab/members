@@ -18,18 +18,39 @@
     <span class="post_time">{{ if ($scratch.Get "writeSeparator") }} · {{ end }}{{ T "reading_time" . }}</span>
     {{- $scratch.Set "writeSeparator" true }}
   {{- end }}
-  {{/*  {{- with .Params.services -}}
-    <span>
+
+<section>
+  {{- with .Params.crossroads -}}
+  <h2>Crossroads</h2>
+Also member of
+  <span>
       {{- if ($scratch.Get "writeSeparator") }}&nbsp;· {{ end }}
       {{- range . }}
-        {{- $services := urlize . -}}
-        <a href='{{ absLangURL (printf "services/%s/" $services) }}' title="{{ . }}" class="post_tag button button_translucent">
+        {{- $crossroads := urlize . -}}
+        <a href='{{ absLangURL (printf "crossroads/%s/" $crossroads) }}' title="{{ . }}" class="post_tag button button_translucent">
           {{- . }}
         </a>
       {{- end }}
-    </span>
-    {{- $scratch.Set "writeSeparator" true }}
-  {{- end }}  */}}
+
+    {{- end }}
+    {{- with .Params.services -}}
+  </section>
+
+<section>
+    <h2>Services</h2>
+    Provides the following services.
+  <span>
+    {{- if ($scratch.Get "writeSeparator") }}&nbsp;· {{ end }}
+    {{- range . }}
+      {{- $services := urlize . -}}
+      <a href='{{ absLangURL (printf "services/%s/" $services) }}' title="{{ . }}" class="post_tag button button_translucent">
+        {{- . }}
+      </a>
+    {{- end }}
+  </span>
+</section>
+  {{- $scratch.Set "writeSeparator" true }}
+{{- end }}
   {{- if $showShare }}
     <span class="page_only">{{ if ($scratch.Get "writeSeparator") }}&nbsp;·{{ end }}{{ partial "share" . }}</span>
     {{- $scratch.Set "writeSeparator" true }}

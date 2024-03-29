@@ -16,7 +16,6 @@
     {{- $t := .Title }}
     <div>
     <h1 class="post_title">{{ $t | markdownify }} </h1>
-    {{- partial "post-meta" . }}
     {{/*  {{- with .Params.featureImage -}}
       <div class="post_featured">
         {{- partial "image" (dict "file" $p.featureImage "alt" $p.featureImageAlt "cap" $p.featureImageCap "type" "featured" "Page" $.Page) }}
@@ -30,7 +29,7 @@
     {{ end }}  */}}
 
 
-    <div class="pale">
+    <section class="pale">
       {{- $summary := truncate 320 .Summary }}
       {{- if .Params.summary }}
         {{- $summary = .Params.summary }}
@@ -47,7 +46,9 @@
     <div class="post_body">
       {{- .Content }}
       
-    </div>
+    </section>
+    {{- partial "post-single-meta" . }}
+
 
     {{- $showRelatedInArticle := true }}
     {{- if eq $s.showRelatedInArticle false }}
