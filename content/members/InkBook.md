@@ -3,7 +3,8 @@ title: inkBOOK
 member_url: https://inkbook.pl/
 geographies: ["Poland"]
 based: ["Poland"]
-ig: ["Readium", "LCP"] 
+ig: ["LCP"] 
+crossroads: ["Readium"]
 services: 
 tags: [""]
 categories: ["Technology providers "]

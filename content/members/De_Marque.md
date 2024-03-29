@@ -3,7 +3,8 @@ title: De Marque
 member_url: https://www.demarque.com/
 geographies: ["Worldwide", "Canada", "Italy", "Spain", "Switzerland", "Belgium"]
 based: ["Canada"]
-ig: ["Readium", "LCP", "Accessibility", "W3C"] 
+ig: ["LCP"] 
+crossroads: ["Readium", "W3C"] 
 services: 
 tags: ["Accessibility"]
 categories: ["Ebook distributors"]

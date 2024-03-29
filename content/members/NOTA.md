@@ -3,7 +3,8 @@ title: Nota
 member_url: https://nota.dk/
 geographies: ["DK"]
 based: ["DK"]
-ig: ["Readium", "Divina"] 
+ig: []
+crossroads: ["Sustainable Development Goals", "Divina", "Readium", "Daisy Consortium"] 
 services: 
 tags: ["Accessibility", "DAISY"]
 categories: ["NGOs", "Libraries", "Serving persons with print disabilities"]

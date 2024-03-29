@@ -3,7 +3,8 @@ title: Fondazione LIA
 member_url: https://www.fondazionelia.org/en/
 geographies: ["Italy"]
 based: ["Italy"]
-ig: ["Accessibility", "W3C"] 
+ig: ["Accessibility"] 
+crossroads: ["W3C"] 
 services: ["Accessibility training", "Accessibility metadata creation", "Accessibility consultancy", "Website accessibility audit ", "Publication accessibility audit ", "Ebook accessibility quality control", "Alternative image description"] 
 tags: ["DAISY"]
 categories: ["NGOs", "Libraries", "Serving persons with print disabilities"]
