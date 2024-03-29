@@ -1,5 +1,5 @@
 ---
-title: "Licensed Content Protection (Readium LCP)"
+title: "Licensed Content Protection (Readium LCP) communitygroup"
 description: "Readium LCP is a recent passphrase-based rights management solution, with support for different business models including library lending and bookstore sales. This is a simple but reliable solution for distributing protected content, based on rock solid encryption algorithms and classical PKI techniques."
 date: "2019-02-28"
 ig: ["LCP"]

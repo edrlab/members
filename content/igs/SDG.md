@@ -9,6 +9,7 @@ showReadTime: false
 showDate: false
 member_url: https://sdg.internationalpublishers.org/
 featureImage: "https://sdg.internationalpublishers.org/wp-content/uploads/2021/05/sdg-publishers-compact-4-300x300.png"
+draft: true
 ---
 The SDG Publishers Compact, developed by the UN and the IPA, features 10 action points that publishers, publishing associations and others can commit to undertaking in order to accelerate progress to achieve the Sustainable Development Goals (SDGs) by 2030.
 

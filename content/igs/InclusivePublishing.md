@@ -8,4 +8,5 @@ showReadTime: false
 showDate: false
 member_url: https://inclusivepublishing.org/
 featureImage: "https://inclusivepublishing.org/wp-content/uploads/2017/10/logotype-sized-for-web.png"
+draft: true
 ---
