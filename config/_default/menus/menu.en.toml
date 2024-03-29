@@ -1,38 +1,38 @@
 
-[[main]]
-  name = "EDRLab Members website"
-  identifier = "edrlabmember"
-  weight = -108
+# [[main]]
+#   name = "EDRLab Members website"
+#   identifier = "edrlabmember"
+#   weight = -108
+
+# [[main]]
+#   # parent = "edrlabmember"
+#   name = "Browse Members"
+#   url = ""
+#   weight = -110
+
+# [[main]]
+#   parent = "edrlabmember"
+#   name = "About"
+#   url = "about/"
+#   weight = 50
 
 [[main]]
-  parent = "edrlabmember"
-  name = "Browse Members"
-  url = ""
-  weight = -110
-
-[[main]]
-  parent = "edrlabmember"
-  name = "About"
-  url = "about/"
-  weight = 50
-
-[[main]]
-  parent = "edrlabmember"
-  name = "Becoming a Member"
-  url = "https://www.edrlab.org/become-a-member/"
+  # parent = "edrlabmember"
+  name = "Join"
+  url = "/join/"
   weight = 10
 
 [[main]]
-  parent = "edrlabmember"
+  # parent = "edrlabmember"
   name = "Collaborations"
   url = "/igs/"
-  weight = 10
+  weight = 20
 
-[[main]]
-  parent = "edrlabmember"
-  name = "Activities"
-  url = "/categories/"
-  weight = 10
+# [[main]]
+#   # parent = "edrlabmember"
+#   name = "Activities"
+#   url = "/categories/"
+#   weight = 10
 
 # [[main]]
 # name = "Back to edrlab webpage"
@@ -48,43 +48,45 @@
 # Submenus are done this way: parent -> identifier
 [[main]]
   name = "Main EDRLab website"
-  identifier = "edrlaborg"
-  weight = -108
-[[main]]
-  parent = "edrlaborg"
-  name = "About"
   url = "https://www.edrlab.org/about/"
-  weight = -90
-[[main]]
-  parent = "edrlaborg"
-  name = "Summit"
-  url = "https://www.edrlab.org/events/digital-publishing-summit-2023/"
-  weight = -80
-[[main]]
-  parent = "edrlaborg"
-  name = "LCP"
-  url = "https://www.edrlab.org/readium-lcp/"
-  weight = -70
-[[main]]
-  parent = "edrlaborg"
-  name = "Standards"
-  url = "https://www.edrlab.org/open-standards/"
-  weight = -60
-[[main]]
-  parent = "edrlaborg"
-  name = "Accessibility"
-  url = "https://www.edrlab.org/accessibility/"
-  weight = -40
-[[main]]
-  parent = "edrlaborg"
-  name = "News"
-  url = "https://www.edrlab.org/news/"
-  weight = -30
-[[main]]
-  parent = "edrlaborg"
-  name = "Contact"
-  url = "https://www.edrlab.org/contact/"
-  weight = -20
+  identifier = "edrlaborg"
+  weight = 170
+
+# [[main]]
+#   parent = "edrlaborg"
+#   name = "About"
+#   url = "https://www.edrlab.org/about/"
+#   weight = -90
+# [[main]]
+#   parent = "edrlaborg"
+#   name = "Summit"
+#   url = "https://www.edrlab.org/events/digital-publishing-summit-2023/"
+#   weight = -80
+# [[main]]
+#   parent = "edrlaborg"
+#   name = "LCP"
+#   url = "https://www.edrlab.org/readium-lcp/"
+#   weight = -70
+# [[main]]
+#   parent = "edrlaborg"
+#   name = "Standards"
+#   url = "https://www.edrlab.org/open-standards/"
+#   weight = -60
+# [[main]]
+#   parent = "edrlaborg"
+#   name = "Accessibility"
+#   url = "https://www.edrlab.org/accessibility/"
+#   weight = -40
+# [[main]]
+#   parent = "edrlaborg"
+#   name = "News"
+#   url = "https://www.edrlab.org/news/"
+#   weight = -30
+# [[main]]
+#   parent = "edrlaborg"
+#   name = "Contact"
+#   url = "https://www.edrlab.org/contact/"
+#   weight = -20
 
 # social menu links
 

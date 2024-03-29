@@ -4,7 +4,7 @@ member_url: https://bibliopresto.ca/
 geographies: ["Canada"]
 based: ["Canada"]
 ig: ["LCP"] 
-services: ["service available"] 
+services: 
 tags: []
 categories: ["Technology providers"]
 summary: "Bibliopresto is a non-profit organization in Quebec that supports libraries by offering them digital tools and services."

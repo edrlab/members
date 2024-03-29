@@ -4,7 +4,7 @@ member_url: https://www.mobidys.com
 geographies: ["France", "Spain"]
 based: ["France"]
 ig: [""] 
-services: ["service available"] 
+services: 
 tags: [""]
 categories: ["NGOs", "Libraries", "Serving persons with print disabilities"]
 summary: "adapts ebooks to the needs of dyslexic people, using its FROG EPUB extension."

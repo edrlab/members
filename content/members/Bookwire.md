@@ -4,7 +4,7 @@ member_url: https://www.bookwire.net/
 geographies: ["Germany", "Brazil", "France", "England", "Mexico", "Spain", "USA", "worldwide"]
 based: ["Germany"]
 ig: [""] 
-services: ["service available"] 
+services: 
 tags: [""]
 categories: ["Ebook distributors"]
 summary: "Bookwire is the largest ebook distributor in Germany. Founded in 2010, it is a service provider for publishing houses, specialising in eBooks.
