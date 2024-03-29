@@ -3,7 +3,7 @@ title: Bluefire
 member_url: https://www.bluefirereader.com/index.html
 geographies: ["Worldwide", "USA"]
 based: ["USA"]
-ig: ["Readium"] 
+ig: [""] 
 services: 
 tags: ["Reading"]
 categories: ["Technology providers"]

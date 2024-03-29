@@ -8,4 +8,5 @@ showReadTime: false
 showDate: false
 member_url: https://www.w3.org/
 featureImage: "https://www.w3.org/assets/logos/w3c/w3c-no-bars.svg"
+draft: true
 ---

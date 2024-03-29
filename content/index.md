@@ -1,9 +1,8 @@
 ---
-title: "Members"
+title: "EDRlab members directory"
 author: "EDRLab"
 tags: ["index"]
 ---
-
 
 
 Welcome to the EDRlab members directory! 

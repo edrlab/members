@@ -8,4 +8,5 @@ showReadTime: false
 showDate: false
 member_url: https://www.edrlab.org/open-standards/digital-visual-narratives/
 featureImage: "https://www.edrlab.org/wp-content/uploads/2021/05/Divina-interchange-1024x766.png"
+draft: true
 ---

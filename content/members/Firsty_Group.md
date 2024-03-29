@@ -3,7 +3,8 @@ title: Firsty Group
 member_url: https://firstygroup.com/
 geographies: ["United-Kingdom"]
 based: ["United-Kingdom"]
-ig: ["Readium","LCP"] 
+ig: ["LCP"] 
+crossroads: ["Readium"] 
 services: 
 tags: [""]
 categories: ["Technology providers"]

@@ -8,4 +8,5 @@ showReadTime: false
 showDate: false
 member_url: https://readium.org/
 featureImage: "https://readium.org/assets/logos/readium-logo.png"
+draft: true
 ---
