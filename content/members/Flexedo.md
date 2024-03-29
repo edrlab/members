@@ -4,7 +4,7 @@ member_url: https://www.flexedo.com/
 geographies: ["France"]
 based: ["France"]
 ig: [""] 
-services: ["service available"] 
+services: 
 tags: [""]
 categories: ["Providers of publishing services"]
 summary: "specialized in structured page layout and EPUB production"

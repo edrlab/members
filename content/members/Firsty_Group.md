@@ -4,7 +4,7 @@ member_url: https://firstygroup.com/
 geographies: ["United-Kingdom"]
 based: ["United-Kingdom"]
 ig: ["Readium","LCP"] 
-services: ["service available"] 
+services: 
 tags: [""]
 categories: ["Technology providers"]
 summary: "Firsty Group is a company that distributes a large volume of EPUB in the UK and develops white-labeled Readium-based reading applications for multiple publishers. The operate Glassboxx, a solution for eBooks and audiobooks."

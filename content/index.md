@@ -1,10 +1,10 @@
 ---
-title: "EDRlab members directory"
-description: "Welcome to the EDRlab members directory!"
-date: "2024-01-24"
+title: "Members"
 author: "EDRLab"
-layout: about
+tags: ["index"]
 ---
+
+
 
 Welcome to the EDRlab members directory! 
 <br/>You can search or browse members list by professions, services provided and collaboration to EDRLab mains activities.

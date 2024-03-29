@@ -4,7 +4,7 @@ member_url: https://accueil.electre.com/
 geographies: ["France"]
 based: ["France"]
 ig: [""] 
-services: ["service available"] 
+services: 
 tags: ["Data"]
 categories: ["Providers of publishing services"]
 summary: "Providers of publishing servicesprovides a bibliographic database of all books produced in France."

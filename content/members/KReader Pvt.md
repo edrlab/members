@@ -4,7 +4,7 @@ member_url: https://www.linkedin.com/company/kreader
 geographies: ["Sri Lanka"]
 based: ["Sri Lanka"]
 ig: [LCP"] 
-services: ["service available"] 
+services: 
 tags: [""]
 categories:  ["Booksellers", "Retailers", "Content portals"] 
 summary: "Kreader PVT is the only digital bookstore in Sri Lanka."

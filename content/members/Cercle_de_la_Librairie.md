@@ -4,7 +4,7 @@ member_url: https://cercledelalibrairie.org/
 geographies: ["France"]
 based: ["France"]
 ig: [""] 
-services: ["service available"] 
+services: 
 tags: [""]
 categories: ["Membership organizations"]
 summary: "the interprofessional union at the service of the book and its actors. EDRLab founding member."

@@ -4,7 +4,7 @@ member_url: https://beletrina.si/
 geographies: ["Slovenia", "Croatia"]
 based: ["Slovenia"]
 ig: ["LCP", "Sustainable Development Goals"] 
-services: ["service available"] 
+services: 
 tags: [""]
 categories: ["Booksellers", "Retailers", "Content portals", "Publishers and publishing groups"] 
 summary: "Beletrina is a Slovenian publishing house, retailer, book distributor and technical service provider."

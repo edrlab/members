@@ -4,7 +4,7 @@ member_url: https://www.ellibs.com/
 geographies: ["Finland"]
 based: ["Finland"]
 ig: ["LCP"] 
-services: ["service available"] 
+services: 
 tags: [""]
 categories:  ["Booksellers", "Retailers", "Content portals"] 
 summary: "an e-bookstore operating in Finland. Ellibs is moving its solution to LCP."
