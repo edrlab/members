@@ -8,6 +8,26 @@
     grid-template-columns: repeat(2, 1fr)
     overflow: auto
 
+.excerpt:has(.communityGroup)
+    display: flex
+    flex-direction: column
+    align-items: center
+    justify-content: center
+
+.excerpt:has(.communityGroup) .excerpt_header,
+.excerpt:has(.communityGroup) .excerpt_footer .pale
+    display: flex
+    flex-direction: column
+    align-items: center
+    justify-content: center
+
+.excerpt:has(.communityGroup) .excerpt_header h3
+    font-size: 200%
+
+.communityGroup
+    color: #0077b8!important
+    text-align: center
+
 .image_excerpt
     display: bloc
     width: 10em
@@ -19,6 +39,13 @@
 .nav_item
     text-decoration: none
     color: inherit
+    
+.nav_item[title="Main EDRLab website"]
+    border: 1px solid white
+    border-radius: 5px
+    color: white
+    background-color: #002538
+    font-weight: bold
 
 .post_link
     text-decoration: none
@@ -30,3 +57,11 @@
 .post_tag
     text-transform: lowercase
     font-size: 1em
+
+.membersCounter
+    background-color: #0077b8
+    color: white
+    border-radius: 1.5rem
+    width: fit-content
+    padding: 5px 15px
+    margin: 30px auto
