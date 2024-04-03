@@ -22,7 +22,7 @@ Collaborations = "ig"
 # series = "series"
 Services = "services"
 # geographies = "geographies"
-draft = "draft"
+active = "active"
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]

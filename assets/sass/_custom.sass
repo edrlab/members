@@ -13,6 +13,7 @@
     flex-direction: column
     align-items: center
     justify-content: center
+    background-color: var(--haze)
 
 .excerpt:has(.communityGroup) .excerpt_header,
 .excerpt:has(.communityGroup) .excerpt_footer .pale
@@ -21,12 +22,18 @@
     align-items: center
     justify-content: center
 
+.excerpt:has(.communityGroup) .excerpt_footer .pale a
+    display: none
+
+
 .excerpt:has(.communityGroup) .excerpt_header h3
     font-size: 200%
+    background
 
 .communityGroup
     color: #0077b8!important
     text-align: center
+    background-color: inherit
 
 .image_excerpt
     display: bloc
@@ -35,6 +42,12 @@
 .image_single
     display: bloc
     width: 20em
+
+.nav_body
+    justify-content: flex-end
+
+.nav_body .follow
+    flex: unset
 
 .nav_item
     text-decoration: none
