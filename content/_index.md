@@ -1,9 +1,6 @@
 ---
 title: "EDRlab members directory"
-description: "Welcome to the EDRlab members directory!"
-date: "2024-01-24"
 author: "EDRLab"
-# layout: about
 tags: ["index"]
 ---
 

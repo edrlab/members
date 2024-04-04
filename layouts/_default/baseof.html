@@ -30,7 +30,8 @@
     {{- partialCached "scripts/google/tag-manager" (dict "noscript" true) }}
     {{- partial "header" . }}
     <main>
-      {{- block "main" . }}{{ end }}
+      {{ block "main" . }}
+      {{ end }}
     </main>
 
     {{- partialCached "icons" . }}
