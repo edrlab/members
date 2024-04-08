@@ -83,9 +83,13 @@
     padding: 0.2rem 0.75rem
     line-height: 1
 
+@media screen and (max-width: 900px)
+    .grid-inverse
+        grid-column-gap: 1rem
+
 @media screen and (max-width: 769px)
     .jsopen .nav_body 
-        transform: translateX(55vw)!important
+        transform: translateX(calc(100vw - 265px))!important
         justify-content: flex-start
 
 
