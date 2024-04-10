@@ -7,7 +7,7 @@ ig: ["LCP"]
 services: 
 tags: ["Reading", "LCP"]
 categories: ["Technology providers"]
-summary: "A supplier of ebooks in Spanish for the US Spanish community; startup."
+summary: "Neelwafurat is a bookshop that offers more than 600,000 paper books and 16,000 ebooks from various Arab publishing houses. It is distributing books in Lebanon, Syria, Jordan, Egypt, the Kingdom of Saudi Arabia and the United Arab Emirates. "
 press:
 active: true
 layout: members
