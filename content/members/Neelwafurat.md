@@ -1,6 +1,6 @@
 ---
 title: Neelwafurat
-member_url: https://www.neelwafurat.com/)
+member_url: https://www.neelwafurat.com/
 geographies: ["Lebanon", "Syria", "Jordan", "Egypt", "Kingdom of Saudi Arabia", "United Arab Emirates"]
 based: ["Lebanon"]
 ig: ["LCP"] 
