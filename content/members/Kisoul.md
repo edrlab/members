@@ -6,7 +6,7 @@ based: ["Brazil"]
 ig: ["LCP"] 
 services: 
 tags: ["Reading", "LCP"]
-categories: ["Technology providers"]
+categories: ["Providers of publishing services"]
 summary: "Kisoul organises corporate libraries - physical and digital. They install shelves and manage books/ebooks for the benefit of the company's employees."
 press:
 active: true
