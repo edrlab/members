@@ -1,7 +1,7 @@
 ---
 title: Kisoul Consciencia e Tehnologia
 member_url: https://kisoul.com.br/)
-geographies: ["Lebanon", "Syria", "Jordan", "Egypt", "Kingdom of Saudi Arabia", "United Arab Emirates"]
+geographies: ["Brazil"]
 based: ["Brazil"]
 ig: ["LCP"] 
 services: 
