@@ -11,16 +11,41 @@ body
     background: white
 
 .excerpt
-    display: grid
-    grid-template-columns: repeat(2, 1fr)
+    display: flex
     overflow: auto
+    position: relative
+    gap: 20px
+
+
+.excerpt_footer
+    width: 100%
+    flex: 2
+    h3
+        font-weight: bold
+        color: $main-blue
+        font-size: 35px
+    &_title
+        display: flex
+        align-items: center
+        justify-content: space-between
+
+.member_site
+    font-size: 18px
+    padding: 5px 15px
+    border-radius: 25px
+    background-color: #edc883
+    text-decoration: none
+    color: $main-blue
+    &:visited
+        color: $main-blue
 
 .excerpt:has(.communityGroup)
     display: flex
     flex-direction: column
     align-items: center
-    justify-content: center
-    background-color: var(--haze)
+    justify-content: flex-end
+    background-color: $text-color
+    border-radius: 50px
 
 .excerpt:has(.communityGroup) .excerpt_header,
 .excerpt:has(.communityGroup) .excerpt_footer .pale
@@ -29,16 +54,22 @@ body
     align-items: center
     justify-content: center
 
+.excerpt:has(.communityGroup) .excerpt_footer
+    a
+        max-width: 80%
+        text-align: left
+
 .excerpt:has(.communityGroup) .excerpt_footer .pale a
     display: none
 
 
 .excerpt:has(.communityGroup) .excerpt_header h3
     font-size: 200%
-    background
+
 
 .communityGroup
-    color: #0077b8!important
+    color: $main-blue!important
+    font-weight: bold
     text-align: center
     background-color: inherit
 
@@ -84,7 +115,7 @@ body
         padding: 1rem
         box-shadow: unset
     
-.join_button, .become_member
+.join_button, .become_member, .excerpt_more
     color: white!important
     text-decoration: none
     background-color: $orange-color
@@ -94,6 +125,10 @@ body
     margin: 30px auto
     font-size: 20px
     text-align: center 
+    transition: 300ms
+    border: none
+    &:hover
+        border: none
     &:visited
         color: white!important
 
@@ -245,7 +280,7 @@ td, th
     border-bottom: 2px solid $text-color
 
 tbody tr:nth-child(even)
-    background-color: white
+    background-color: 
 
 @media screen and (max-width: 900px)
     .grid-inverse

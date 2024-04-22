@@ -1,13 +1,12 @@
 <li class="post_item">
   <div class="excerpt">
+    {{- if .Params.featureImage }}
     <div class="excerpt_header">
-      <h3 class="post_link">
-        <a {{ if or (in .Params.title "group") }}class="post_link communityGroup"{{ else }}class="post_link"{{ end }} href="{{ .Permalink }}" title="{{ .Title | markdownify }}">{{ .Title | markdownify }}</a>
-      </h3>
-      {{ partial "post-meta" . }}
-      <br/>
       <img src="{{ .Params.featureImage }}" alt="" class="image_excerpt">
     </div>
+    {{ else }}
+    <span></span>
+    {{ end }}
     {{- with .Params.thumbnail }}
     <div class="excerpt_footer partition">
       <div class="excerpt_thumbnail">
@@ -15,6 +14,14 @@
       </div>
       {{ else }}
       <div class="excerpt_footer">
+        <div class="excerpt_footer_title">
+          <h3 class="post_link">
+            <a {{ if or (in .Params.title "group") }}class="post_link communityGroup"{{ else }}class="post_link"{{ end }} href="{{ .Permalink }}" title="{{ .Title | markdownify }}">{{ .Title | markdownify }}</a>
+          </h3>
+          <a href="{{ .Params.member_url }}" class="member_site">SITE</a>
+        </div>
+        {{ partial "post-meta" . }}
+        <br/>
         {{- end }}
         <div class="pale">
           {{- $summary := truncate 320 .Summary }}
@@ -28,7 +35,6 @@
           {{ else }}
             {{ $summary | markdownify }}
           {{ end }}
-          <p></p><a href="{{ .Params.member_url }}">{{ .Params.title }} webpage</a>
           {{- $r := T "read_more" }}</p>
           <a href="{{ .Permalink }}" title="{{ $r }}" class="excerpt_more button">{{ $r }}</a>
         </div>
