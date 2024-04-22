@@ -43,22 +43,72 @@
     display: bloc
     width: 20em
 
+.nav_header
+    height: 100px
+    background-color: #1b3c6c
+
 .nav_body
     justify-content: flex-end
-
-.nav_body .follow
-    flex: unset
+    gap: 50px
 
 .nav_item
     text-decoration: none
     color: inherit
     
-.nav_item[title="Main EDRLab website"]
+.nav_item[title="EDRLab website"]
     border: 1px solid white
     border-radius: 5px
     color: white
-    background-color: #002538
+    background-color: #1b3c6c
     font-weight: bold
+
+.footer
+    height: fit-content
+    background-color: #f4f8fe
+
+
+.footer_inner
+    display: flex
+    align-items: flex-start
+    justify-content: space-around
+    margin: 0 40px
+    max-width: unset
+    height: 100%
+    color: #1b3c6c
+    div
+        flex: 1
+        max-width: 300px
+    h6
+        margin-bottom: 15px
+    svg
+        fill: #1b3c6c
+        background-color: white
+        padding: 10px
+        border-radius: 50%
+        height: 20px
+        width: 20px
+        box-sizing: content-box
+
+.readium_container
+    max-width: 250px
+
+.address, .mail
+    display: flex
+    align-items: center
+    gap: 10px
+    margin-bottom: 20px
+    address, a
+        font-style: unset
+        color: #1b3c6c
+        text-decoration: none
+
+.follow
+    justify-content: flex-start
+.copyright
+    position: absolute
+    bottom: 0
+    display: flex
+    align-items: center
 
 .post_link
     text-decoration: none
@@ -86,6 +136,9 @@
 @media screen and (max-width: 900px)
     .grid-inverse
         grid-column-gap: 1rem
+    .footer_inner
+        flex-direction: column
+        align-items: center
 
 @media screen and (max-width: 769px)
     .jsopen .nav_body 
