@@ -108,6 +108,7 @@ body
     background: $text-color
     padding: 1px
     top: 30px
+    left: -1rem
 
 .search
     input
@@ -172,9 +173,6 @@ body
         height: 20px
         width: 20px
         box-sizing: content-box
-
-.readium_container
-    max-width: 250px
 
 .address, .mail
     display: flex
@@ -288,16 +286,16 @@ tbody tr:nth-child(even)
     .footer_inner
         flex-direction: column
         align-items: center
+        div
+            width: 300px
 
 @media screen and (max-width: 769px)
     .jsopen .nav_body 
         transform: translateX(calc(100vw - 265px))!important
         justify-content: flex-start
+        background-color: $main-blue
 
 
 @media screen and (max-width: 769px)
     .nav_body_left 
         transform: translateX(100vw)!important
-    .follow
-        position: absolute
-        bottom: 100px
