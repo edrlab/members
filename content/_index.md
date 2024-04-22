@@ -5,11 +5,49 @@ tags: ["index"]
 ---
 
 
-Welcome to the EDRlab members directory! 
-<br/>You can search or browse members list by professions, services provided and collaboration to EDRLab mains activities.
+<!-- Welcome to the EDRlab members directory! 
+<br/>You can search or browse members list by professions, services provided and collaboration to EDRLab mains activities. -->
+
+# EDRLab
+
+EDRLab is a network of professional organizations working in the domain of digital publishing. These organizations are publishers, ebook and audiobook distributors, booksellers, public and national libraries, or developers of reading applications or e-readers. Below are the reasons for such organizations to become membre of EDRLab.
+This mini site allows you to browse the list of our current members.
+
+# Membership
+<div class="membership_container">
+
+<div>
+
+### ONLINE MEMBER DIRECTORY
+Be featured in our newly launched online catalogue, a dedicated page where members can showcase their organization. Update your information to make it your own.
+
+</div>
+
+<div>
+
+### COMMUNITY GROUPS
+Enroll in our community groups focusing on key topics like Accessibily or LCP, stay updated and discuss with like--minded professionals.
+
+</div>
+
+<div>
+
+### INTERNATIONAL REPRESENTATION
+Present your company on an international stage. Have your documentation displayed at major book fairs, including the London Book Faire and the Frankfurt Book Fair.
+
+</div>
+
+<div>
+
+### NEWSLETTER SPOTLIGHT
+Gain visibility to over 1000 industry professionals. Feature your news in our monthly newsletter.
+
+</div>
+
+</div>
 
 
-## Not yet a member?
+### Not yet a member?
 
 *The value returned by open-source and standards organizations is many multiples of a yearly membership cost, even for the most modest organization. Even being able to publish at scale regardless of the organizational size is riding on the community’s coat-tails.  Presume if every publisher had its own distribution format, every bookstore had its own distribution channel, each with their own identifier and distribution methodology, you needed to produce a serape metadata file and develop reading software engines for every search site or library.  Now consider the staff time that is saved because of things like EPUB, OPDS, ONIX, ISBN and the open-source Readium toolkits.*
 

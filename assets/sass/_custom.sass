@@ -6,6 +6,9 @@
 $main-blue: #1b3c6c
 $text-color: #e9ebf1
 
+body
+    background: white
+
 .excerpt
     display: grid
     grid-template-columns: repeat(2, 1fr)
@@ -128,6 +131,15 @@ $text-color: #e9ebf1
     display: flex
     align-items: center
 
+.post_body
+    h1
+        color: $main-blue
+        font-size: 50px
+        font-weight: bold
+    h3
+        color: $main-blue
+        font-size: 25px
+
 .post_link
     text-decoration: none
     color: inherit
@@ -153,6 +165,18 @@ $text-color: #e9ebf1
 .button_tally
     padding: 0.2rem 0.75rem
     line-height: 1
+
+.membership_container
+    max-width: 60%
+    h3
+        font-size: 20px
+        margin: 0
+    p
+        font-size: 16px
+    div
+        border-left: 3px solid $main-blue
+        padding: 5px 10px
+        margin: 20px
 
 @media screen and (max-width: 900px)
     .grid-inverse
