@@ -84,7 +84,7 @@ body
         padding: 1rem
         box-shadow: unset
     
-.join_button
+.join_button, .become_member
     color: white!important
     text-decoration: none
     background-color: $orange-color
@@ -96,6 +96,20 @@ body
     text-align: center 
     &:visited
         color: white!important
+
+.become_member_container
+    display: flex
+    width: 100%
+    align-items: start
+    > div
+        flex: 1
+        > p
+            font-size: 16px
+        strong
+            font-size: 18px
+            color: $main-blue
+    figure
+        flex: 2
 
 .footer
     height: fit-content

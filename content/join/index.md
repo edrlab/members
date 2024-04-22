@@ -46,9 +46,25 @@ Standard member dues are calculated from their annual gross revenue and size. Th
 |Membership organization with more than 50 members|7000 €|
 |Major industrial partner member|20000 €|
 
+<div class="become_member_container">
+
+<div>
+
 *Membership becomes effective on the date of payment of the membership dues. Payment options currently include bank transfer, credit card, Paypal or chèque (in France). First year dues are payable at time of application.
 *
+
+<strong>If you want to become a member</strong>
+
+<a href="https://www.edrlab.org/become-a-member/" class="become_member">Contact Us</a>
+
+</div>
+
+![illustration](LINA_03.png)
+
+</div>
+
 ### Online payment
 EDRLab members can pay their due online via a Credit Card (we are using Stripe).
 
 [EDRLab Online Payment](https://www.edrlab.org/shop/)
+
