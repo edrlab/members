@@ -44,16 +44,19 @@ Gain visibility to over 1000 industry professionals. Feature your news in our mo
 
 </div>
 
+<a href="./join" class="join_button">Join</a>
+
 </div>
 
 
-### Not yet a member?
+
+<!-- ### Not yet a member?
 
 *The value returned by open-source and standards organizations is many multiples of a yearly membership cost, even for the most modest organization. Even being able to publish at scale regardless of the organizational size is riding on the community’s coat-tails.  Presume if every publisher had its own distribution format, every bookstore had its own distribution channel, each with their own identifier and distribution methodology, you needed to produce a serape metadata file and develop reading software engines for every search site or library.  Now consider the staff time that is saved because of things like EPUB, OPDS, ONIX, ISBN and the open-source Readium toolkits.*
 
-Consider [Becoming a member!](https://www.edrlab.org/become-a-member/). 
+Consider [Becoming a member!](https://www.edrlab.org/become-a-member/).  -->
 
-EDRLab is much more than a development laboratory: it is a community of practice for the publishing industry, in Europe and around the world. By becoming member of EDRLab you will:
+<!-- EDRLab is much more than a development laboratory: it is a community of practice for the publishing industry, in Europe and around the world. By becoming member of EDRLab you will:
 
 * Participate to the evolution of a real open ebook ecosystem (take it as a protection against the monopoly of proprietary platforms),
 * Participate to the development of open-source software via the Readium project,
@@ -68,5 +71,5 @@ EDRLab is much more than a development laboratory: it is a community of practice
     * participating to EDRLab Board of Director elections,
     * running and serve on the EDRLab Board of Directors,
 * Network, create business partnerships with other industry members, develop expert resource contracts,
-* Attend the Digital Publishing Summit at discounted member rates.
+* Attend the Digital Publishing Summit at discounted member rates. -->
 

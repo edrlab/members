@@ -5,6 +5,7 @@
 
 $main-blue: #1b3c6c
 $text-color: #e9ebf1
+$orange-color: #ed8c3d
 
 body
     background: white
@@ -82,6 +83,19 @@ body
         background-color: $text-color
         padding: 1rem
         box-shadow: unset
+    
+.join_button
+    color: white!important
+    text-decoration: none
+    background-color: $orange-color
+    border-radius: 40px
+    width: fit-content
+    padding: 10px 50px
+    margin: 30px auto
+    font-size: 20px
+    text-align: center 
+    &:visited
+        color: white!important
 
 .footer
     height: fit-content
@@ -136,6 +150,9 @@ body
         color: $main-blue
         font-size: 50px
         font-weight: bold
+    h2
+        color: $main-blue
+        font-size: 40px
     h3
         color: $main-blue
         font-size: 25px
@@ -167,16 +184,54 @@ body
     line-height: 1
 
 .membership_container
-    max-width: 60%
+    position: relative
     h3
         font-size: 20px
         margin: 0
     p
         font-size: 16px
     div
+        max-width: 75%
         border-left: 3px solid $main-blue
         padding: 5px 10px
         margin: 20px
+    .join_button
+        position: absolute
+        right: 0
+
+.post_body:has(#why-should-i-become-a-member) ul
+        list-style: "+ "
+        padding-left: 20px
+        li
+            margin: 15px 0
+        li::marker
+            color: $orange-color
+            font-size: 25px
+        ul
+            list-style: "> "
+            li::marker
+                color: inherit
+                font-size: 14px
+table
+    border-collapse: collapse
+    text-align: left
+
+td:not(:first-child), th:not(:first-child)
+    text-align: right
+
+th, td:not(:first-child)
+    font-weight: bold
+    color: $main-blue
+
+td, th
+    background-color: white
+    border-left: none
+    border-right: none
+    border-top: none
+    border-bottom: 2px solid $text-color
+
+tbody tr:nth-child(even)
+    background-color: white
 
 @media screen and (max-width: 900px)
     .grid-inverse
