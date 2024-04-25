@@ -8,6 +8,12 @@ tags: ["index"]
 <!-- Welcome to the EDRlab members directory! 
 <br/>You can search or browse members list by professions, services provided and collaboration to EDRLab mains activities. -->
 
+<div style="display: flex">
+
+<img src="./images/EDRLAB_ICONE-ILLU-WOM.svg" aria-hidden class="illustration_home" />
+
+<div>
+
 # EDRLab
 
 EDRLab is a network of professional organizations working in the domain of digital publishing. These organizations are publishers, ebook and audiobook distributors, booksellers, public and national libraries, or developers of reading applications or e-readers. Below are the reasons for such organizations to become membre of EDRLab.
@@ -18,34 +24,50 @@ This mini site allows you to browse the list of our current members.
 
 <div>
 
-### ONLINE MEMBER DIRECTORY
+<div class="membership_section">
+<div class="membership_section_title">
+<img src="./images/EDRLAB_ICONE-WEBINAIRE.svg" aria-hidden class="membership_icon"/>
+<h3>ONLINE MEMBER DIRECTORY</h3>
+</div>
 Be featured in our newly launched online catalogue, a dedicated page where members can showcase their organization. Update your information to make it your own.
 
 </div>
 
-<div>
-
-### COMMUNITY GROUPS
+<div class="membership_section">
+<div class="membership_section_title">
+<img src="./images/EDRLAB_ICONE-TEAM.svg" aria-hidden class="membership_icon" />
+<h3>COMMUNITY GROUPS</h3>
+</div>
 Enroll in our community groups focusing on key topics like Accessibily or LCP, stay updated and discuss with like--minded professionals.
 
 </div>
 
-<div>
-
-### INTERNATIONAL REPRESENTATION
+<div class="membership_section">
+<div class="membership_section_title">
+<img src="./images/EDRLAB_ICONE-MONDE.svg" aria-hidden class="membership_icon" />
+<h3>INTERNATIONAL REPRESENTATION</h3>
+</div>
 Present your company on an international stage. Have your documentation displayed at major book fairs, including the London Book Faire and the Frankfurt Book Fair.
 
 </div>
 
-<div>
-
-### NEWSLETTER SPOTLIGHT
+<div class="membership_section">
+<div class="membership_section_title">
+<img src="./images/EDRLAB_ICONE-MAIL-JAUNE.svg" aria-hidden class="membership_icon"/>
+<h3>NEWSLETTER SPOTLIGHT</h3>
+</div>
 Gain visibility to over 1000 industry professionals. Feature your news in our monthly newsletter.
 
 </div>
 
 <a href="./join" class="join_button">Join</a>
 
+</div>
+
+<img src="./images/EDRLAB_ICONE-MONDE-BIG.svg" aria-hidden class="membership_earth" />
+
+</div>
+</div>
 </div>
 
 

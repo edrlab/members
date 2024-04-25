@@ -36,8 +36,16 @@ body
     background-color: #edc883
     text-decoration: none
     color: $main-blue
+    display: flex
+    align-items: flex-start
+    gap: 5px
     &:visited
         color: $main-blue
+    svg
+        width: 20px
+        height: 20px
+        margin: 0
+        margin-top: 1px
 
 .excerpt:has(.communityGroup)
     display: flex
@@ -202,7 +210,9 @@ body
         font-size: 40px
     h3
         color: $main-blue
-        font-size: 25px
+        font-size: 18px
+        font-weight: bolder
+        width: 50%
 
 .post_link
     text-decoration: none
@@ -230,21 +240,55 @@ body
     padding: 0.2rem 0.75rem
     line-height: 1
 
-.membership_container
-    position: relative
-    h3
-        font-size: 20px
+.membership
+    &_container
+        position: relative
+        display: flex
+        align-items: center
+
+        h3
+        font-size: 18px
         margin: 0
-    p
-        font-size: 16px
-    div
+
+        p
+            font-size: 16px
+
+        .join_button
+            position: absolute
+            right: 0
+
+        figure
+            scale: 0.5
+
+    &_icon
+        width: 40px
+        margin-right: 10px
+        margin-left: 0
+
+    &_earth
+        width: 150px
+
+    &_section
         max-width: 75%
-        border-left: 3px solid $main-blue
         padding: 5px 10px
         margin: 20px
-    .join_button
-        position: absolute
-        right: 0
+
+        &_title
+            display: flex
+            align-items: center
+            margin-left: 0
+            padding-left: 0
+
+.backhome
+    &_link
+        display: flex
+        width: fit-content
+        text-decoration: none
+        gap: 10px
+        color: $main-blue
+    &_icon
+        width: 25px
+        margin: 0
 
 .post_body:has(#why-should-i-become-a-member) ul
         list-style: "+ "
@@ -277,8 +321,9 @@ td, th
     border-top: none
     border-bottom: 2px solid $text-color
 
-tbody tr:nth-child(even)
-    background-color: 
+.illustration_home
+    height: 500px
+    margin-right: 50px
 
 @media screen and (max-width: 900px)
     .grid-inverse

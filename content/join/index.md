@@ -10,6 +10,8 @@ showDate: false
 
 ---
 
+<a href="/members/" class="backhome_link"><img src="../images/EDRLAB_ICONE-HOME.svg" aria-hidden class="backhome_icon" />BACK HOME</a>
+
 # Why should I become a member? 
 
 EDRLab is much more than a development laboratory: it is a community of practice for the publishing industry, in Europe and around the world. By becoming member of EDRLab you will:
@@ -59,7 +61,7 @@ Standard member dues are calculated from their annual gross revenue and size. Th
 
 </div>
 
-![illustration](LINA_03.png)
+<img src="../images/EDRLAB_ICONE-ILLU-MIXTE.svg" aria-hidden class="illustration_home" />
 
 </div>
 
