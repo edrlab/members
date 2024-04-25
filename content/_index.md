@@ -65,6 +65,13 @@ Gain visibility to over 1000 industry professionals. Feature your news in our mo
 </div>
 
 <img src="./images/EDRLAB_ICONE-MONDE-BIG.svg" aria-hidden class="membership_earth" />
+<span class="membership_connector"></span>
+<span class="membership_connector_line_1"></span>
+<span class="membership_connector_line_2"></span>
+<span class="membership_connector_square square1"></span>
+<span class="membership_connector_square square2"></span>
+<span class="membership_connector_square square3"></span>
+<span class="membership_connector_square square4"></span>
 
 </div>
 </div>
