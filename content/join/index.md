@@ -57,7 +57,7 @@ Standard member dues are calculated from their annual gross revenue and size. Th
 
 <strong>If you want to become a member</strong>
 
-<a href="https://www.edrlab.org/become-a-member/" class="become_member">Contact Us</a>
+<a href="https://www.edrlab.org/contact/" class="become_member">Contact Us</a>
 
 </div>
 
@@ -65,8 +65,8 @@ Standard member dues are calculated from their annual gross revenue and size. Th
 
 </div>
 
-### Online payment
+<!-- ### Online payment
 EDRLab members can pay their due online via a Credit Card (we are using Stripe).
 
-[EDRLab Online Payment](https://www.edrlab.org/shop/)
+[EDRLab Online Payment](https://www.edrlab.org/shop/) -->
 

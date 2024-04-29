@@ -48,7 +48,7 @@
 # Submenus are done this way: parent -> identifier
 [[main]]
   name = "EDRLab website"
-  url = "https://www.edrlab.org/about/"
+  url = "https://www.edrlab.org/"
   identifier = "edrlaborg"
   weight = 170
 
