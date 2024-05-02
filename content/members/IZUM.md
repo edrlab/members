@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 30-04-2024
-featureImage: "https://izum.si/en/home/"
+featureImage: "https://izum.si/wp-content/uploads/2020/08/izum_slo.svg"
 ---
