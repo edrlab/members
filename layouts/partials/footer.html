@@ -1,0 +1,32 @@
+{{- $s := .Site.Params }}
+{{- $c := default .Site.Title .Site.Copyright  }}
+{{- if or .Params.enableMathNotation $s.enableMathNotation }}
+  {{ partialCached "math" . }}
+{{- end }}
+{{- $iconsDir := default "icons/" .Site.Params.iconsDir }}
+{{- $defaultFooterLogo := printf "%s%s" $iconsDir "apple-touch-icon.png"}}
+<footer class="footer">
+    {{- partialCached "top" .}}
+  <div class="footer_inner wrap pale">
+    <!-- <span class="copyright">
+        <img src='{{ absURL (default $defaultFooterLogo $s.footerLogo) }}' class="icon icon_2 transparent" alt="{{ $c }}">
+        <p>{{ T "copyright" | markdownify }}{{ with $s.since }}&nbsp;{{ . }}-{{ end }}&nbsp;<span class="year"></span>&nbsp;{{ upper $c }}. {{ T "all_rights" | markdownify }}</p>
+    </span> -->
+    <div class="about_container">
+        <h6>ABOUT US</h6>
+        <p>The European Digital Reading Lab (EDRLab) is a non-profit development laboratory, created in 2015 and based in Paris. <a href="https://www.edrlab.org/">[More...]</a></p>
+    </div>
+    <div class="readium_container">
+        <h6>READIUM - W3C</h6>
+        <p>EDRLab is the main contributor of the Readium Project and member of the W3C</p>
+    </div>
+    <div class="contact_container">
+        <h6>CONTACT</h6>
+        {{- partialCached "contact" . }}
+    </div>
+    <div class="follow_container">
+        <h6>FOLLOW US</h6>
+        {{- partialCached "follow" . }}
+    </div>
+  </div>
+</footer>

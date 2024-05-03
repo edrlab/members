@@ -1,8 +1,19 @@
 {{ $s := site.Params }}
+{{ $taxonomyObject := .Site.Taxonomies.active }}
+{{ $uniqueCountries := slice }}
+{{ range .Site.RegularPages }}
+    {{ $pageCountries := .Params.geographies }}
+    {{ range $pageCountries }}
+        {{ if not (in $uniqueCountries .) }}
+            {{ $uniqueCountries = $uniqueCountries | append . }}
+        {{ end }}
+    {{ end }}
+{{ end }}
 <aside class="sidebar">
   <section class="sidebar_inner">
     <br>
     {{ partial "search/widget" . }}
+    <h2 class="membersCounter"><strong>{{ $taxonomyObject.Count "true" }} members in {{ len $uniqueCountries }} countries</strong></h2>
     {{- $introDescription := $s.introDescription }}
     {{- with .Params.introDescription }}
       {{- $introDescription = . }}
@@ -16,7 +27,7 @@
           {{- $showAuthorPhoto = true }}
         {{- end }}
       {{- end }}
-      {{- if $showAuthorPhoto }}
+      <!-- {{- if $showAuthorPhoto }}
         <div class="author_header">
           <img src="{{ absURL $author.photo }}" alt="{{ $author.name }} photo">
           <h2>{{  $author.name }}</h2>
@@ -26,7 +37,7 @@
       {{- end }}
       <div class="author_bio">
         {{ markdownify $introDescription }}
-      </div>
+      </div> -->
       <!-- {{- if ( ne $s.introURL false ) }}
       {{- $r := T "read_more" }}
       <a href='{{ absLangURL (default "about/" $s.introURL) }}' class="button mt-1" role="button" title='{{ $r }}'>{{ $r }}</a>
