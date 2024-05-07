@@ -8,7 +8,7 @@ crossroads: ["Readium"]
 services: 
 tags: [""]
 categories: ["Technology providers "]
-summary: "inkBOOK is the developer of e-ink Readers and Readium-based mobile applications that support the LCP DRM."
+summary: "inkBOOK (Poland) provides services to publishers, libraries and e-book resellers including services of content (e-books) encryption (LCP). Apart from those services and E Ink e-readers, the company also provides customer branded mobile applications for Android and iOS mobile devices (phones, tablets) for reading, audiobooks and content sales - all accessible and compliant with LCP standards."
 press:
 active: true
 layout: members
