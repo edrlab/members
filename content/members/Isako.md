@@ -4,7 +4,7 @@ member_url: https://isako.com/sw/
 geographies: ["Worldwide", "France"]
 based: ["France"]
 ig: [""] 
-services: 
+services:  ["ebook creation"]
 tags: [""]
 categories: ["Providers of publishing services"]
 summary: "Isako is a solution provider, specialized in structured page layout and EPUB production."

@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: ""
+featureImage: "https://www.gardners.com/Public/images/icons/GardnersLogoNew.png"
 --- 

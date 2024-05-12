@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: "/members/images/FEP.jpg"
+featureImage: "https://members.edrlab.org/images/FEP.jpg"
 ---

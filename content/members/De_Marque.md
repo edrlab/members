@@ -16,5 +16,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: "/members/images/DeMarque.png"
+featureImage: "https://members.edrlab.org/images/DeMarque.png"
 ---

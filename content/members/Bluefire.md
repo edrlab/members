@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: "/members/images/Bluefire_logo.svg"
+featureImage: "https://www.bluefirereader.com/images/pasted-svg-72789x9.svg?crc=169982583"
 --- 

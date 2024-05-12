@@ -1,6 +1,6 @@
 ---
 title: Icontact BV 
-member_url: 
+member_url: "http://www.icontact.nl/"
 geographies: ["Worldwide", "Netherlands"]
 based: ["Netherlands"]
 ig: [""] 
@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: ""
+featureImage: "http://www.icontact.nl/assets/icontact.gif"
 ---
