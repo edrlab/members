@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: "/members/images/Cela_logo.jpeg"
+featureImage: "https://members.edrlab.org/images/Cela_logo.jpeg"
 ---

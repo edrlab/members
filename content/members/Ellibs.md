@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: ""
+featureImage: "https://www.ellibs.com/themes/ellibs/img/ellibs_logo_orangetext.png"
 ---

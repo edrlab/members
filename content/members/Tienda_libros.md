@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: "2024-03-26"
-featureImage: ""
+featureImage: "https://members.edrlab.org/images/EDRLAB_ICONE-ILLU-WOM.svg"
 ---

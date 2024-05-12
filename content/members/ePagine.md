@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: ""
+featureImage: "https://static.epagine.fr/mediaweb3/6/logo_epagine_hexa.png"
 ---

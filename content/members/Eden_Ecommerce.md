@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: ""
+featureImage: "https://media.licdn.com/dms/image/C560BAQHmHVPB-VzwsQ/company-logo_200_200/0/1631320609942?e=1723680000&v=beta&t=rqbPSQmaLVZpDwsLm6jOGWz-UO_L08INajOqTQ45o7A"
 ---

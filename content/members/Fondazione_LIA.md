@@ -16,5 +16,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: "/members/images/LIA.png"
+featureImage: "https://members.edrlab.org/images/LIA.png"
 ---

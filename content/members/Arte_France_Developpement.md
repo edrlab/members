@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: "/members/images/arte_logo_rgb.jpg"
+featureImage: "https://www.arte.tv/sites/corporate/files/arte-logo_1920x1080-6-470x270.jpg"
 ---
