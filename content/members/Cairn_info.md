@@ -6,7 +6,7 @@ based: ["France"]
 ig: [""] 
 services: 
 tags: ["TDM Rep"]
-categories:  ["Booksellers", "Retailers", "Content portals"] 
+categories:  ["Booksellers", "Retailers", "Content portals", "Academic"] 
 summary: "The ambition of Cairn.info is to help publishing houses, organizations or associations in charge of French-speaking humanities publications to manage the coexistence of paper and digital formats."
 press:
 active: true
