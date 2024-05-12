@@ -1,5 +1,5 @@
 ---
-title: FBReader.ORG Limited
+title: "FBReader.ORG Limited"
 member_url: https://fbreader.org
 geographies: ["Worldwide", "Russia"]
 based: ["Russia"]
