@@ -7,7 +7,7 @@ ig: ["LCP"]
 services: 
 tags: [""]
 categories: ["Technology providers"]
-summary: "FBReader.ORG Limited is editor of FBReader is a popular (30+ million installs) ebook reader. Works on iOS, Android, Windows, Mac OS, Linux, and Chrome OS."
+summary: "FBReader.ORG Limited is a British company known for FBReader, a popular ebook reader that works on iOS, Android, Windows, Mac OS, Linux, and ChromeOS. The company also offers the FBReader SDK, a framework that helps third parties develop their ebook reading applications. Both FBReader and the FBReader SDK adopt Readium LCP."
 press:
 active: true
 layout: members
@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 17-04-2024
-featureImage: "https://fbreader.org/"
+featureImage: "https://members.edrlab.org/images/FBReader1024x1024.png"
 ---
