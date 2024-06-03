@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: "https://www.isicrunch.com/wp-content/uploads/2018/10/logoisicrunch2-300x54.png.webp"
+featureImage: "https://www.isicrunch.com/wp-content/uploads/2018/10/logoisicrunch2.png"
 --- 
