@@ -9,7 +9,8 @@ tags: [""]
 categories: ["Technology providers"]
 summary: "the company behind the Bookari mobile reading application."
 press:
-active: true
+draft: true
+active: false
 layout: members
 showReadTime: false
 showDate: false
