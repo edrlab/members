@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: "https://members.edrlab.org/images/dilicom.svg"
+featureImage: "https://github.com/edrlab/members/raw/main/assets/images/dilicom.svg"
 ---
