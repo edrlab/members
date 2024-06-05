@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: "https://www.edenlivres.fr/vite/assets/logo-4bb6b932.jpg"
+featureImage: "https://www.edenlivres.fr/vite/assets/logo-D_STPmoE.jpg"
 ---

@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: "http://www.leanova.fr/wp-content/uploads/2019/02/new.logo-blanc-1.png"
+featureImage: "https://leanova.fr/wp-content/uploads/2024/04/1.png"
 --- 

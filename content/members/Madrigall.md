@@ -16,5 +16,5 @@ showDate: false
 permalink: ""
 date: 
 founding_member: true
-featureImage: "https://madrigall.jobs.net/media/2016/10/fa482d5d-5023-45eb-930b-9da82fc531a1-1476810248025.jpg"
+featureImage: "https://www.sne.fr/app/uploads/2017/10/logo_groupe_madrigall.png"
 --- 
