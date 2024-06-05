@@ -39,8 +39,8 @@
           {{ else }}
             {{ $summary | markdownify }}
           {{ end }}
-          {{- $r := T "read_more" }}</p>
-          <a href="{{ .Permalink }}" title="{{ $r }}" class="excerpt_more button">{{ $r }}</a>
+          {{- $r := T "read_more" }} </p>
+          <a href="{{ .Permalink }}"  title="{{ $r }} about {{ .Params.title }}" aria-label="{{ $r }} about {{ .Params.title }}" class="excerpt_more button">{{ $r }}</a>
         </div>
       </div>
     </div>
