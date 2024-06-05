@@ -22,6 +22,6 @@ Each member card is composed of the following information in YAML format:
 * `date`: when did the edrlab membership started? This field is used to sort cards (last members first)
 * `featureImage`: a URL to your organization logo. Please consider that the edrlab's members website has a white background.
 
-Additionally to thise YAML information, each member can provide a markdown or HTML content that will be displayed 
+Additionally to that YAML information, each member can provide a markdown or HTML content that will be displayed 
 
 
