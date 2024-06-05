@@ -15,7 +15,7 @@ Each member card is composed of the following information in YAML format:
 * `ig`: interest group within the EDRlab collaboration group. For now two values are possible: "LCP" and "Accessibility".
 * `crossroads`: other membership organizations or signatory engagements that are common to different members. Values for now are: ["Sustainable Development Goals", "Divina", "Readium", "Daisy Consortium"] 
 * `services`: a list of services provided by your organization
-* `tags`: ["Accessibility", "DAISY"]
+* `tags`: Tags are not used for now, might be useful in the future. Leave blank or add any relevant keyword not listed in another field to let us know what other information can be of use to present your organization. 
 * `categories`: one or more edrlab's membership categories. Available values are: ["NGOs", "Libraries", "Serving persons with print disabilities", "Publishers and publishing groups", "Technology providers", "Content portals", "Providers of publishing services", "Academic", "Booksellers", "Ebook distributors", "Libraries", "Membership organizations", "Officio members"]
 * `summary`: "A short description of the organization. Around 100 words is a good balance."
 * `press`: if a press release or an online article announces or emphasizes your organization's EDRLab membership, the URL can be added here.
