@@ -19,7 +19,4 @@ date: "2023-12-05"
 featureImage: "https://members.edrlab.org/images/DRM_inside_logo.png"
 ---
 
-
-
-[Web-X DRM webpage](https://webxdrm.co.kr/index_en.html),
-[DRM inside webpage](https://www.drminside.com/)
+[Web-X DRM webpage](https://webxdrm.co.kr/index_en.html)
