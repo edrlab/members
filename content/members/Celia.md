@@ -1,5 +1,5 @@
 ---
-title: Celia
+title: Accessibility Library Celia
 member_url: https://celalibrary.ca/
 geographies: ["Finland"]
 based: ["Finland"]
