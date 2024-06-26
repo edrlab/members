@@ -7,7 +7,7 @@ ig: [""]
 services: 
 tags: [""]
 categories: ["Providers of publishing services"]
-summary: "ebook diffuser; B&B agent linking publishers and e-bookstores."
+summary: "e-Dantès is a company specialising in digital services for publishers in the ebook and audiobook market."
 press:
 active: true
 layout: members
@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: "http://www.e-dantes.com/images/logo.png"
+featureImage: "https://members.edrlab.org/images/edantes_logo.jpg"
 ---
