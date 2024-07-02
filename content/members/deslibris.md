@@ -4,10 +4,10 @@ member_url: https://www.deslibris.pub/
 geographies: ["Canada"]
 based: ["Canada"]
 ig: [""] 
-services: 
-tags: ["Reading", "LCP"]
-categories: ["Providers of publishing services"]
-summary: "Canadian-based ebook conversion vendor dedicated to making accessible ePub3 creation economical and hassle-free for all book publishers and self-publishers. It also free ONIX record addition for accessible epub. "
+services:  ["ebook creation", "ebook Accessibility", "ONIX metadata"] 
+tags: ["", ""]
+categories: ["Ebook distributors", "Providers of publishing services"]
+summary: "DPS is an ebook conversion vendor certified by Benetech and dedicated to making accessible ePub3 economical and hassle-free for book publishers and self-publishers."
 press:
 active: true
 layout: members
