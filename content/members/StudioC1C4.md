@@ -9,7 +9,7 @@ tags: []
 categories:  ["Providers of publishing services"]
 summary: "Provides multiple services to publishers, creative and technical. StudioC1C4 has also created an App, Ora C1C4, to adapt and convert books from InDesign to accessible ebooks in EPUB 3.3."
 press:
-active: false
+active: true
 layout: members
 showReadTime: false
 showDate: false
