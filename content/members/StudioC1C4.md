@@ -9,7 +9,7 @@ tags: []
 categories:  ["Providers of publishing services"]
 summary: "."
 press:
-active: false
+active: true
 layout: members
 showReadTime: false
 showDate: false
