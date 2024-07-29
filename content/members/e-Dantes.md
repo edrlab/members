@@ -4,7 +4,7 @@ member_url: http://www.e-dantes.com/en/
 geographies: ["Worldwide", "France"]
 based: ["France"]
 ig: [""] 
-services: 
+services: ["Business Strategy", "Sales representation", "Digital Services", "ebook creation", "ebook distribution", "marketing support"] 
 tags: [""]
 categories: ["Providers of publishing services"]
 summary: "e-Dantès is a company specialising in digital services for publishers in the ebook and audiobook market."
