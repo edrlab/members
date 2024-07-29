@@ -1,6 +1,6 @@
 ---
 title: Penguin Random House Grupo Editorial
-member_url: member_url: https://www.penguinlibros.com/es/
+member_url: https://www.penguinlibros.com/es/
 geographies: ["Spain"]
 based: ["Spain"]
 ig: [""] 
