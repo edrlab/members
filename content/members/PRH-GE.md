@@ -14,7 +14,7 @@ layout: members
 showReadTime: false
 showDate: false
 permalink: ""
-date: 
+date:  "2024-07-29"
 founding_member: true
 featureImage: "https://www.penguinrandomhousegrupoeditorial.com/wp-content/themes/prh/dist/images/common/logo-penguinrandomhousegrupoeditorial.svg"
 ---
