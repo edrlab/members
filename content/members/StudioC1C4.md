@@ -14,6 +14,6 @@ layout: members
 showReadTime: false
 showDate: false
 permalink: ""
-date: 
+date:  "2024-07-16"
 featureImage: "https://members.edrlab.org/images/studioC1C4.svg"
 ---
