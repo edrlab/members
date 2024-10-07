@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date:  "2024-07-16"
-featureImage: "https://members.edrlab.org/images/studioC1C4.svg"
+featureImage: "https://members.edrlab.org/images/C1C4.png"
 ---
