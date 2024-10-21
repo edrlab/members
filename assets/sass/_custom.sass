@@ -398,18 +398,36 @@ td, th
 @media screen and (max-width: 900px)
     .grid-inverse
         grid-column-gap: 1rem
+        grid-template-columns: 1fr
     .footer_inner
         flex-direction: column
         align-items: center
         div
             width: 300px
+    .illustration_home
+        display: none
+    .membership_section
+        max-width: 100%
+    .join_button
+        position: relative !important
+        display: flex
+        align-items: center
+    .excerpt
+        flex-direction: column
+        border: 1px solid $main-blue
+        border-radius: 5px
+        &_footer_title
+            flex-direction: column  
+    .image_excerpt
+        display: flex
+        align-items: center
 
 @media screen and (max-width: 769px)
     .jsopen .nav_body 
         transform: translateX(calc(100vw - 265px))!important
         justify-content: flex-start
         background-color: $main-blue
-
+        gap: 10px
 
 @media screen and (max-width: 769px)
     .nav_body_left 
