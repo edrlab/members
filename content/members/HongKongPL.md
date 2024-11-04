@@ -24,5 +24,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: "https://www.hkpl.gov.hk/common/en/images/main_logo.png"
+featureImage: "[https://wafersystems.com/assets/header-logo.png]"
 ---
