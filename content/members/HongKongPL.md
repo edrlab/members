@@ -7,8 +7,7 @@ ig: ["LCP"]
 services: 
 tags: [""]
 categories: ["technology-providers"]
-summary: "
-Wafer Systems (Asia) Limited (“Wafer”) is an IT Solution Company with over 30
+summary: "Wafer Systems (Asia) Limited (“Wafer”) is an IT Solution Company with over 30
 years of system integration and software development experiences.
 Apart from Hong Kong, Wafer is having offices in Beijing, Shanghai, Guangzhou,
 Chengdu, Suzhou of the PRC, Shenzhen and ASEAN; and a software development
@@ -17,7 +16,7 @@ Cloud and Security, Smart Office, Workspace Management and mobile workforce
 solutions.
 Since 2021, Wafer has been engaging in a system project for the public libraries of the
 Hong Kong Special Administrative Region Government. LCP server and mobile
-applications for ebook resources are adopted by Wafer in the project.
+applications for ebook resources are adopted by Wafer in the project."
 press:
 active: true
 layout: members
