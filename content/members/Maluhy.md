@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: https://maluhy.com.br/images/quadrada3.png
+featureImage: https://members.edrlab.org/images/maluhylogo.png
 ---
