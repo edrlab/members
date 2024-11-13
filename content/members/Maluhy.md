@@ -1,8 +1,8 @@
 ---
 title: Maluhy&Co.
 member_url: https://maluhy.com.br
-geographies: ["Worldwide", “Brazil]
-based: [“Brazil]
+geographies: ["Worldwide",“Brazil]
+based: [“Brazil"]
 ig: ["LCP"] 
 services: [“ebook-creation”, “ebook-accessibility”, “alteranative-image-description”, “digital-services”, “publication-accessibility-audit”, “website-accessibility-audit”]
 tags: ["Reading", "LCP"]
