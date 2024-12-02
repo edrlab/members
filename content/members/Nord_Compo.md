@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: "https://media.licdn.com/dms/image/v2/D4E0BAQHD3egSl4Mb3A/company-logo_100_100/company-logo_100_100/0/1687535410716/nord_compo_sa_logo?e=1741219200&v=beta&t=2lkD8P06ggmzmi0YhBAz1o706JKKbiPsao8Xb8hO3F4"
+featureImage: "https://members.edrlab.org/images/nordcompo.png"
 ---
