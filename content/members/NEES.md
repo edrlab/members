@@ -6,7 +6,7 @@ based: ["Brasil"]
 ig: ["LCP"] 
 services: 
 tags: [""]
-categories:  ["Content portals", "Academic"] 
+categories:  ["Content aggregator", "Academic"] 
 summary: "NEES is an innovation-driven research group based at the Federal University of Alagoas, Brazil. We specialize in developing and implementing data-driven strategies to facilitate the digital transformation of the public educational sector. In collaboration with the FNDE (National Development Fund) and MEC (Ministry of Education), we tackle the specific challenges associated with the adoption and production of digital textbooks within the PNLD (National Textbook Program), aiming to enhance educational resources nationwide."
 press:
 active: true

@@ -6,7 +6,7 @@ based: ["Spain"]
 ig: [""] 
 services: ["ebook creation", "ebook Accessibility", "ONIX metadata"] 
 tags: [""]
-categories: ["Ebook distributors", "Providers of publishing services"]
+categories: ["Content Distributor", "Providers of publishing services"]
 summary: "Serving the publishing industry since 2010: ebook creation, global distribution, ONIX metadata generator, accessibility specialists for ePub and PDF. One panel, endless possibilities."
 press:
 active: true

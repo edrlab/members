@@ -6,7 +6,7 @@ based: ["United-Kingdom"]
 ig: [""] 
 services: 
 tags: [""]
-categories: ["Ebook distributors"]
+categories: ["Content Distributor"]
 summary: "the largest book wholesaler in the UK, and large ebook distributor."
 press:
 active: true

@@ -6,7 +6,7 @@ based: ["Spain"]
 ig: [""] 
 services: 
 tags: [""]
-categories: ["Booksellers", "Retailers"]
+categories: ["Retailers"]
 summary: ""
 press:
 active: true
