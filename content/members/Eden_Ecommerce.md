@@ -6,7 +6,7 @@ based: ["United-Kingdom"]
 ig: ["LCP"] 
 services: 
 tags: [""]
-categories:  ["Booksellers", "Retailers", "Content portals"] 
+categories:  ["Retailers", "Content aggregator"] 
 summary: "a supplier of religious ebooks."
 press:
 active: true

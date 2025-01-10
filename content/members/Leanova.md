@@ -6,7 +6,7 @@ based: ["France"]
 ig: [""] 
 services: 
 tags: [""]
-categories:  ["Booksellers", "Retailers", "Content portals"] 
+categories:  ["Retailers", "Content aggregator"] 
 summary: "a Culture and Education kiosk featuring EPUB 3 publications."
 press:
 active: true
