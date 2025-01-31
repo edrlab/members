@@ -14,6 +14,6 @@ layout: members
 showReadTime: false
 showDate: false
 permalink: ""
-date: 
-featureImage:"https://www.newgendigital.com/img/home/ndw-logo.svg"
+date:
+featureImage: "https://www.newgendigital.com/img/home/ndw-logo.svg"
 ---
