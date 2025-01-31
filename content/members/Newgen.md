@@ -1,5 +1,5 @@
 ---
-title: Newgen DigitalWorks (P) Ltd
+title: Newgen DigitalWorks
 member_url: https://www.newgendigital.com/
 geographies: [“India”]
 based: [“India”]
