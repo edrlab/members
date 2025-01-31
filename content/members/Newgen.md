@@ -1,6 +1,6 @@
 ---
 title: Newgen DigitalWorks (P) Ltd
-member_url:https://www.newgendigital.com/
+member_url: https://www.newgendigital.com/
 geographies: ["India"]
 based: ["India"]
 ig: ["LCP"] 
