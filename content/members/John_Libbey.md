@@ -16,5 +16,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: "https://www.librairiejle.com/fr/index.phtml"
+featureImage: "https://members.edrlab.org/images/JLE_website-logo-en.svg"
 ---
