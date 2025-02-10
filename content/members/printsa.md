@@ -1,13 +1,13 @@
 ---
-title: Smart Printing Platform Company
-member_url: https://www.print.sa/bookstore
+title: Samawy
+member_url: https://www.samawy.com/
 geographies: ["Saudi Arabia"]
 based: ["Saudi Arabia"]
 ig: [""] 
 services: 
 tags: ["Reading", "LCP"]
 categories: ["Providers of publishing services"]
-summary: "Operates a platform that serves over 100 publishers from different countries to provide print-on-demand services for their books. They have decided to set up an ebook and audiobook delivery platform and use LCP to protect this content, with mobile apps based on the Readium Toolkit to allow reading it."
+summary: "In June 2024, Print Bookstore transformed into "Samawy" to reflect its broader vision and commitment to boundless innovation and creativity. Today, we continue to lead the publishing industry, helping publishers open new markets, enabling authors to reach readers with their creativity, and connecting readers with great ideas and stories that inspire their thoughts and illuminate their lives. Because they all, as we always say, deserve the best and the finest from us."
 press:
 active: true
 layout: members
@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: "2024-02-20"
-featureImage: "https://www.print.sa/bookstore/image/logo/PrintBookstoreLogo.svg"
+featureImage: "https://www.samawy.com/image/logo/SamawyLogo.svg"
 ---
