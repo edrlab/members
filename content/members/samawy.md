@@ -1,6 +1,6 @@
 ---
 title: Samawy
-member_url: https://www.samawy.com/
+member_url: https://samawy.com/
 geographies: ["Saudi Arabia"]
 based: ["Saudi Arabia"]
 ig: [""] 
