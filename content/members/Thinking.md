@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date:
-featureImage: "https://cdn.myportfolio.com/2f88c0495f8d14b0301201bd2a7aa46e/6f71922a-1d74-4936-b3bf-d74c806e64e4_rw_600.png?h=04fe17fde4d7bb1bcaa6e68bd1ed0f65"
+featureImage: "https://freight.cargo.site/w/926/i/7f36490c79b894734c32b24dfe6b2eae1dd60ec466bcde7d76148b9c5e187fb6/thinking-logo-2022-PRESS.png"
 ---
