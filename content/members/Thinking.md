@@ -14,6 +14,7 @@ layout: members
 showReadTime: false
 showDate: false
 permalink: ""
-date:
+date: 2025-02-15
 featureImage: "https://freight.cargo.site/w/926/i/7f36490c79b894734c32b24dfe6b2eae1dd60ec466bcde7d76148b9c5e187fb6/thinking-logo-2022-PRESS.png"
 ---
+ 
