@@ -1,5 +1,5 @@
 ---
-title: EdeKitabuitis 
+title: eKitabu
 member_url: https://www.ekitabu.com/
 geographies: ["Kenya"]
 based: ["Kenya"]
