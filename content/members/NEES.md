@@ -1,8 +1,8 @@
 ---
 title: Núcleo de Excelência em Tecnologias Sociais (NEES) –  Federal University of Alagoas
 member_url: https://www.nees.ufal.br/
-geographies: ["Brasil"]
-based: ["Brasil"]
+geographies: ["Brazil"]
+based: ["Brazil"]
 ig: ["LCP"] 
 services: 
 tags: [""]
