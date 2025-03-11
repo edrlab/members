@@ -2,7 +2,7 @@
 {{ $taxonomyObject := .Site.Taxonomies.active }}
 {{ $uniqueCountries := slice }}
 {{ range .Site.RegularPages }}
-    {{ $pageCountries := .Params.geographies }}
+    {{ $pageCountries := .Params.based }}
     {{ range $pageCountries }}
         {{ if not (in $uniqueCountries .) }}
             {{ $uniqueCountries = $uniqueCountries | append . }}
