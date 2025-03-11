@@ -2,7 +2,7 @@
 title: Tienda Libros
 member_url: https://tiendalibros.com/
 geographies: ["Worldwide", "Latin America"]
-based: ["US"]
+based: ["USA"]
 ig: ["LCP"] 
 services: 
 tags: ["Reading", "LCP"]
