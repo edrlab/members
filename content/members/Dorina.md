@@ -7,7 +7,7 @@ ig: ["Accessibility"]
 services: 
 tags: []
 categories:  ["NGOs", "Libraries", "Serving persons with print disabilities"]
-summary: "Provides multiple services to publishers, creative and technical. StudioC1C4 has also created an App, Ora C1C4, to adapt and convert books from InDesign to accessible ebooks in EPUB 3.3."
+summary: "For more than seven decades, the Dorina Foundation has been dedicated to the care and social inclusion of blind and low-vision people."
 press:
 active: true
 layout: members
