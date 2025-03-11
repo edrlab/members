@@ -1,8 +1,8 @@
 ---
 title: Glassboxx
 member_url: https://glassboxx.com/
-geographies: ["United-Kingdom"]
-based: ["United-Kingdom"]
+geographies: ["United Kingdom"]
+based: ["United Kingdom"]
 ig: ["LCP"] 
 crossroads: ["Readium"] 
 services: 

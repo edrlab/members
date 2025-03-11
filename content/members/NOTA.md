@@ -1,8 +1,8 @@
 ---
 title: Nota
 member_url: https://nota.dk/
-geographies: ["DK"]
-based: ["DK"]
+geographies: ["Denmark"]
+based: ["Denmark"]
 ig: []
 crossroads: ["Sustainable Development Goals", "Divina", "Readium", "Daisy Consortium"] 
 services: 

@@ -1,8 +1,8 @@
 ---
 title: "FBReader.ORG Limited"
 member_url: https://fbreader.org
-geographies: ["Worldwide", "Russia"]
-based: ["Russia"]
+geographies: ["Worldwide"]
+based: ["United Kingdom"]
 ig: ["LCP"] 
 services: 
 tags: [""]

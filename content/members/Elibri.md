@@ -6,7 +6,7 @@ based: ["Poland"]
 ig: ["LCP"] 
 services: 
 tags: [""]
-categories: ["Providers of publishing services"]
+categories: ["Service providers"]
 summary: "active in Poland and in Ukraine, provides different services to publishers: book database, watermark ebook files, run a clearance system for distributors and publishers. Elibri is building a book lending system for Ukrainian libraries."
 press:
 active: true

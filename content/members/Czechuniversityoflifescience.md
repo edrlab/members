@@ -1,8 +1,8 @@
 ---
 title: Česká zemědělská univerzita v Praze (Czech University of Life Sciences)
 member_url: https://www.czu.cz/
-geographies: ["France"]
-based: ["France"]
+geographies: ["Czech Republic"]
+based: ["Czech Republic"]
 ig: ["LCP"] 
 services: 
 tags: [""]

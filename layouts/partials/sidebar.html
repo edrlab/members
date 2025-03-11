@@ -2,7 +2,7 @@
 {{ $taxonomyObject := .Site.Taxonomies.active }}
 {{ $uniqueCountries := slice }}
 {{ range .Site.RegularPages }}
-    {{ $pageCountries := .Params.geographies }}
+    {{ $pageCountries := .Params.based }}
     {{ range $pageCountries }}
         {{ if not (in $uniqueCountries .) }}
             {{ $uniqueCountries = $uniqueCountries | append . }}
@@ -13,7 +13,7 @@
   <section class="sidebar_inner">
     <br>
     {{ partial "search/widget" . }}
-    <h2 class="membersCounter"><strong><a href="https://members.edrlab.org/members/">{{ $taxonomyObject.Count "true" }} members in {{ len $uniqueCountries }} countries</a></strong></h2>
+    <h2 class="membersCounter"><strong><a href="https://members.edrlab.org/members/">{{ $taxonomyObject.Count "true" }} members from {{ len $uniqueCountries }} countries</a></strong></h2>
     {{- $introDescription := $s.introDescription }}
     {{- with .Params.introDescription }}
       {{- $introDescription = . }}

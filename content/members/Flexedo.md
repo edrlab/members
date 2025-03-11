@@ -6,7 +6,7 @@ based: ["France"]
 ig: [""] 
 services: ["ebook creation"]
 tags: [""]
-categories: ["Providers of publishing services"]
+categories: ["Service providers"]
 summary: "specialized in structured page layout and EPUB production"
 press: https://www.edrlab.org/2018/08/01/flexedo-becomes-member-of-edrlab/
 active: true

@@ -6,7 +6,7 @@ based: ["France"]
 ig: [""] 
 services:  ["ebook creation"]
 tags: [""]
-categories: ["Providers of publishing services"]
+categories: ["Service providers"]
 summary: "Isako is a solution provider, specialized in structured page layout and EPUB production."
 press:
 active: true
