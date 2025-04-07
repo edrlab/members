@@ -7,7 +7,7 @@ ig: ["Accessibility"]
 services: 
 tags: []
 categories:  ["NGOs", "Libraries", "Serving persons with print disabilities"]
-summary: "Fundação Dorina Nowill para Cegos is a non-profit and philanthropic organization. We have been working for to the social inclusion of blind and low-vision children, young people, adults, and the elderly for over seven decades."
+summary: "<strong>Fundação Dorina Nowill para Cegos</strong> is a non-profit and philanthropic organization. We have been working for to the social inclusion of blind and low-vision children, young people, adults, and the elderly for over seven decades."
 press:
 active: true
 layout: members
@@ -18,8 +18,7 @@ date:  "2024-02-21"
 featureImage: "https://epwqeyeh47b.exactdn.com/wp-content/uploads/2024/03/logomarca-fundacao-dorina-nowill-para-cegos-horizontal-transparente.svg"
 ---
 
-<strong lang="pt-BR">Fundação Dorina Nowill para Cegos</strong> is a non-profit and philanthropic organization. We have
-been working for to the social inclusion of blind and low-vision children, young people, adults, and the elderly for over seven decades.
+
 
 In addition to offering <strong>free and specialized habilitation and rehabilitation services</strong>, we aim to assist the market in transforming society. Our portfolio of products and services includes accessible materials to empower and transform companies and society, making them more inclusive and also contributing to Fundação Dorina’s financial sustainability.
 
