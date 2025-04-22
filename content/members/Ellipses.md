@@ -1,5 +1,5 @@
 ---
-title: Editions Marketing - Ellipses
+title: Éditions Marketing - Ellipses
 member_url: https://www.editions-ellipses.fr/
 geographies: ["France"]
 based: ["France"]
