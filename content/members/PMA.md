@@ -7,7 +7,7 @@ ig: []
 crossroads:
 services: 
 tags: ["LCP"]
-categories: ["Software House"]
+categories: ["Service providers"]
 summary: "Software house intending to providing LCP services to our customers in order to contribute to a more accessible and safe world."
 press:
 active: true

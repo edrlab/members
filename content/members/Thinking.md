@@ -6,7 +6,7 @@ based: ["Greece"]
 ig: [""] 
 services: 
 tags: [""]
-categories: ["Provider of Publishing Services"]
+categories: ["Service providers"]
 summary: "We are a consulting, design and technology agency working with publishers, bookstores, and cultural institutions in their digital transformation since 2009. Bringing together expertise in business strategy, marketing, design, content, web applications, and production, we support our customers in reimagining their future. Based in Athens, Greece, we work with publishers and cultural institutions both locally and internationally"
 press:
 active: true
