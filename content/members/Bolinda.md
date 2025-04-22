@@ -4,7 +4,7 @@ member_url: https://www.bolinda.com/
 geographies: ["Worldwide"]
 based: ["Australia"]
 ig: ["LCP"] 
-services: ["Retailers","Bookseller"]
+services: ["Content distributor","Bookseller"]
 tags: ["Reading","LCP"]
 categories: ["Technology providers"]
 summary: "We are running the no. 1 digital library lending solution in the UK, Ireland, Australia and New Zealand. We are entering the DACH market and are in contact with tolino/Kobo and PocketBook regarding compatibility and integration with their devices."

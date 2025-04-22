@@ -7,7 +7,7 @@ ig: ["LCP"]
 crossroads: ["Digital Distribution"]
 services:
 tags: [""]
-categories: [ "Publishers and publishing groups"]
+categories: ["Service providers"]
 summary: "Edlir is a web developer and translator developing an e-book and audiobook platform aimed at expanding access to digital reading in Albania"
 press:
 active: true
