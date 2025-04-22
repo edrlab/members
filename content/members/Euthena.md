@@ -1,6 +1,6 @@
 ---
 title: Euthena
-member_url: https://euthena.com/fr_FR/
+member_url: https://euthena.com/
 geographies: ["France"]
 based: ["France"]
 ig: ["LCP"]
