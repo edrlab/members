@@ -6,7 +6,7 @@ based: ["Switzerland"]
 ig: ["accessibility"] 
 services: 
 tags: [""]
-categories: ["Publishers and publishing groups"]
+categories: ["NGOs"]
 summary: "Creating the best ways to read and publish"
 press:
 active: true
