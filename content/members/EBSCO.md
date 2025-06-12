@@ -4,7 +4,7 @@ member_url: https://www.ebsco.com/
 geographies: [“worldwide]
 based: [“USA”]
 ig: ["LCP"]
-crossroads: [""] 
+crossroads:
 services: 
 tags: [""]
 categories: ["Content distributor", “technology providers] 
