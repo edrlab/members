@@ -4,7 +4,7 @@ member_url: https://endao.co
 geographies: [“Worldwide”]
 based: [“Hong Kong”]
 ig: ["LCP"]
-crossroads: [""] 
+crossroads:  
 services: 
 tags: [""]
 categories: ["Content distributor", “Content Aggregator”, “Retailer/Bookseller”, “Library”, “Provider of publishing services"] 
