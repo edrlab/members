@@ -4,7 +4,7 @@ member_url: https://www.ebooks.com/
 geographies: ["US", "Canada", "UK", "Europe", "Australia"]
 based: ["Australia"]
 ig: ["LCP", "accessibility", "colibrio"]
-crossroads: [""]
+crossroads:
 services:
 tags: [""]
 categories: ["technology-provider", "service-provider", "serving-persons-with-print-disabilities", "provider-of-publishing-services", "retailer-bookseller"]
