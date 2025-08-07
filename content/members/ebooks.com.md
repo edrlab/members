@@ -1,9 +1,9 @@
 ---
 title: eBooks.com
 member_url: https://www.ebooks.com/
-geographies: ["US", "Canada", "UK", "Europe”, "Australia"]
+geographies: ["US", "Canada", "UK", "Europe", "Australia"]
 based: ["Australia"]
-ig: ["LCP”, "accessibility”, "colibrio”]
+ig: ["LCP", "accessibility", "colibrio"]
 crossroads: [""]
 services:
 tags: [""]
