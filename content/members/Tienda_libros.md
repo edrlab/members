@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: "2024-03-26"
-featureImage: "https://members.edrlab.org/images/logo-placeholder.png"
+featureImage: "https://members.edrlab.org/images/tiendalibros.png"
 ---

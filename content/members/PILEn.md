@@ -16,5 +16,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: ""
+featureImage: "https://members.edrlab.org/images/pilen.png"
 ---

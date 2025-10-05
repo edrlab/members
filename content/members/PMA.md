@@ -16,5 +16,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: "https://pma.agency/wp-content/uploads/2022/07/cropped-logo-pma-80-1.jpg"
+featureImage: "https://members.edrlab.org/images/pma.png"
 ---

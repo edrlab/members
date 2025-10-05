@@ -16,5 +16,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: "https://www.mtm.se/link/94b7a01781824922b97b470467f3ddb5.aspx"
+featureImage: "https://members.edrlab.org/images/mtm.png"
 --- 

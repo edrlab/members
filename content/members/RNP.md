@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: "https://www.rnp.br/sites/site-publico/themes/sitepublico/logo.png"
+featureImage: "https://members.edrlab.org/images/rnp.png"
 --- 
