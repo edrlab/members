@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: "http://www.icontact.nl/assets/icontact.gif"
+featureImage: "https://members.edrlab.org/images/icontact.png"
 ---

@@ -16,7 +16,7 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: "https://esan.mn/images/newLogo.png"
+featureImage: "https://members.edrlab.org/images/esan.png"
 ---
 
 

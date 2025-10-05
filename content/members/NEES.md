@@ -16,5 +16,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: "https://www.nees.ufal.br/wp-content/uploads/2022/05/logo-nees_web.png"
+featureImage: "https://members.edrlab.org/images/nees.png"
 ---

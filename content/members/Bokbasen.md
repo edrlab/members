@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: "https://theme.zdassets.com/theme_assets/243352/e00901ef3517197307c1bd947a7cda9a28b2d03a.png"
+featureImage: "https://members.edrlab.org/images/bookbasen.png"
 --- 

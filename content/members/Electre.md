@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: "https://www.electre.com/img/login/logo-electre.svg"
+featureImage: "https://members.edrlab.org/images/electre.png"
 ---

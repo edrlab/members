@@ -18,5 +18,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: "https://inkbook.pl/upload/inkbook/logos//inkBOOK-Logo%282%29.svg"
+featureImage: "https://members.edrlab.org/images/inkbook.png"
 --- 

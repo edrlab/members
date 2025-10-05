@@ -17,5 +17,5 @@ showDate: false
 permalink: ""
 date: 
 founding_member: true
-featureImage: "https://www.sne.fr/app/themes/sne/public/svg/logo.svg#standard"
+featureImage: "https://members.edrlab.org/images/sne.png"
 ---

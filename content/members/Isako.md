@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: "https://isako.com/sw/wp-content/uploads/2020/01/IsakoLogo2.png"
+featureImage: "https://members.edrlab.org/images/madrigall.jpg"
 ---
