@@ -6,7 +6,7 @@ based: ["Canada"]
 ig: [""] 
 services:  ["ebook creation", "ebook Accessibility", "ONIX metadata"] 
 tags: ["", ""]
-categories: ["Content Distributor", "Service providers"]
+categories: ["Distribution", "Production"]
 summary: "DPS is an ebook conversion vendor certified by Benetech and dedicated to making accessible ePub3 economical and hassle-free for book publishers and self-publishers."
 press:
 active: true

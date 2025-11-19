@@ -6,7 +6,7 @@ based: ["Finland"]
 ig: ["Accessibility"] 
 services: 
 tags: ["Accessibility", "DAISY"]
-categories: ["NGOs", "Libraries", "Serving persons with print disabilities"]
+categories: ["Specialized Libraries"]
 summary: "Celia is a national library for accessible literature and publishing in Finland, working toward equality in reading and learning."
 press:
 active: true

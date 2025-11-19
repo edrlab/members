@@ -6,7 +6,7 @@ based: ["France"]
 ig: [""] 
 services: 
 tags: [""]
-categories: ["Membership organizations"]
+categories: ["Trade Organizations"]
 summary: "the interprofessional union at the service of the book and its actors. EDRLab founding member."
 press:
 active: true

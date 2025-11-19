@@ -6,7 +6,7 @@ based: ["India"]
 ig: ["LCP"] 
 services: 
 tags: [""]
-categories: ["Service providers"]
+categories: ["Production"]
 summary: "We offer a comprehensive suite of services, from commissioning to delivery, tailored for large corporate to independent and niche publishers. Our established relationships with leading publishers underscore our commitment to excellence and partnership."
 press:
 active: true

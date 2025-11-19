@@ -6,7 +6,7 @@ based: ["Norway"]
 ig: [""] 
 services: 
 tags: [""]
-categories: ["Content Distributor"]
+categories: ["Distribution"]
 summary: "Bobasen in an ebook distributor based in Norway. Established in 2007, they create infrastructure for new digital solutions for publishers, bookstores, online bookstores, subscription services, libraries and schools."
 press:
 active: true

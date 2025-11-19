@@ -6,7 +6,7 @@ based: ["France"]
 ig: [""] 
 services: 
 tags: [""]
-categories: ["Technology providers"]
+categories: ["Reading Apps"]
 summary: "ISI is a company developing backend tools for creating accessible fixed-layout EPUBs (mainly textbooks) from PDF files."
 press:
 active: true

@@ -6,7 +6,7 @@ based: ["Germany"]
 ig: [""] 
 services: 
 tags: [""]
-categories: ["Content Distributor"]
+categories: ["Distribution"]
 summary: "Bookwire is the largest ebook distributor in Germany. Founded in 2010, it is a service provider for publishing houses, specialising in eBooks.
 Their team is located in Frankfurt am Main (headquarters) and in Dortmund, and they operate international offices in London, Barcelona, Paris, New York, Mexico City and São Paulo. "
 press:

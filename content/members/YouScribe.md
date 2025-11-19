@@ -6,7 +6,7 @@ based: ["France"]
 ig: [""] 
 services: 
 tags: [""]
-categories:  ["Content distributor", "Content aggregator"] 
+categories:  ["Distribution", "Aggregation"] 
 summary: "YouScribe is an online ebook and audiobook retailer, with a subscription service active in France and in 11 African countries. Their online library contains digital books, audio books, digital comics, mangas, comics, digital magazines and newspapers."
 press:
 active: true

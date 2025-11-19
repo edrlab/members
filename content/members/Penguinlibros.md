@@ -6,7 +6,7 @@ based: ["Spain"]
 ig: [""] 
 services: 
 tags: [""]
-categories: ["Content distributor"]
+categories: ["Distribution"]
 summary: ""
 press:
 active: true

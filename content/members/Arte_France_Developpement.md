@@ -6,7 +6,7 @@ based: ["France"]
 ig: ["LCP"] 
 services: 
 tags: [""]
-categories: ["Content aggregator"]
+categories: ["Aggregation"]
 summary: "A department of Arte France editorial and programme production centre, that operates ebooks e-lending solutions for public libraries. "
 press:
 active: true

@@ -6,7 +6,7 @@ based: ["France"]
 ig: [""] 
 services: 
 tags: [""]
-categories: ["Publishers and publishing groups"]
+categories: ["Publishing"]
 summary: "one of the largest publishing group in France. EDRLab founding member."
 press:
 active: true

@@ -6,7 +6,7 @@ based: ["Kenya"]
 ig: [""] 
 services: 
 tags: [""]
-categories: ["Technology providers"]
+categories: ["Reading Apps"]
 summary: "Accessible digital content for inclusive and quality education"
 press:
 active: true

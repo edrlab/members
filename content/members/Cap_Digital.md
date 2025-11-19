@@ -6,7 +6,7 @@ based: ["France"]
 ig: [""] 
 services: 
 tags: [""]
-categories: ["Membership organizations"]
+categories: ["Trade Organizations"]
 summary: "the European pole of digital transition."
 press:
 active: true

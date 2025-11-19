@@ -6,7 +6,7 @@ based: ["France"]
 ig: [""] 
 services: 
 tags: [""]
-categories: ["Content Distributor"]
+categories: ["Distribution"]
 summary: "a large ebook distributor in France."
 press:
 active: true
