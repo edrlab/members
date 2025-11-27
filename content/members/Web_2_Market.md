@@ -6,7 +6,7 @@ based: ["USA"]
 ig: [""] 
 services: 
 tags: [""]
-categories: ["Technology providers"]
+categories: ["Reading Apps"]
 summary: "provides e-commerce solutions for small and medium-sized publishers, primarily using the Magento and Shopify platforms, making it easy and affordable to sell online."
 press:
 draft: true

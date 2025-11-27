@@ -6,7 +6,7 @@ based: ["Brazil"]
 ig: ["Accessibility"] 
 services: 
 tags: []
-categories:  ["NGOs", "Libraries", "Serving persons with print disabilities"]
+categories:  ["Specialized Libraries"]
 summary: "<strong>Fundação Dorina Nowill para Cegos</strong> is a non-profit and philanthropic organization. We have been working for to the social inclusion of blind and low-vision children, young people, adults, and the elderly for over seven decades."
 press:
 active: true

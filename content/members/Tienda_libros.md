@@ -6,7 +6,7 @@ based: ["USA"]
 ig: ["LCP"] 
 services: 
 tags: ["Reading", "LCP"]
-categories: ["Technology providers"]
+categories: ["Reading Apps"]
 summary: "A supplier of ebooks in Spanish for the US Spanish community; startup."
 press:
 active: true

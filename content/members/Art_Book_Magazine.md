@@ -6,7 +6,7 @@ based: ["France"]
 ig: ["LCP"] 
 services: 
 tags: ["Reading", "LCP"]
-categories: ["Technology providers"]
+categories: ["Reading Apps"]
 summary: "The company behind LISA Reader, one of the first reading apps having supported the LCP DRM. Art Book Magazine (ABM) is an digital service for acquiring and reading publications dedicated to art and contemporary creation.  
 Based on a free app available on iPad, ABM sells books and journals selected by an editorial committee made of publishers, artists, designers and writers passionate about publishing, print and digital. It showcases independent editions as well as big publishers and museums."
 press:

@@ -6,7 +6,7 @@ based: ["Netherlands"]
 ig: [""] 
 services: 
 tags: [""]
-categories: ["Technology providers"]
+categories: ["Reading Apps"]
 summary: "the developer of a watermark solution for EPUB."
 press:
 active: true

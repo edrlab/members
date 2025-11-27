@@ -7,7 +7,7 @@ ig: [LCP"]
 crossroads: ["Sustainable Development Goals", "Divina", "Readium", "Daisy Consortium"] 
 services: 
 tags: ["Accessibility", "DAISY"]
-categories:  ["NGOs", "Libraries", "Serving persons with print disabilities"] 
+categories:  ["Specialized Libraries"] 
 summary: "The Swedish Agency for Accessible Media"
 press:
 active: true

@@ -7,7 +7,7 @@ ig: ["LCP"]
 crossroads: [""]
 services:
 tags: [""]
-categories: ["Content distributor"]
+categories: ["Distribution"]
 summary: "Ellipses is a French publisher from the STM sector, with 3000 titles print and digital. Digital publications are in PDF and EPUB reflow, with many illustrations.They sell mainly via Cyberlibris, Cairn, their website, and independent retailers."
 press:
 active: true

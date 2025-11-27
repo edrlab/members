@@ -6,7 +6,7 @@ based: ["Switzerland"]
 ig: [""] 
 services: 
 tags: ["Daisy"]
-categories: ["NGOs", "Libraries", "Serving persons with print disabilities"]
+categories: ["Specialized Libraries"]
 summary: "The Bibliothèque Sonore Romande is a Swiss non-profit organisation which provides audiobooks to people with reading disabilities."
 press: https://www.edrlab.org/2021/04/23/new-member-bibliopresto/
 active: true

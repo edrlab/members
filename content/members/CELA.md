@@ -6,7 +6,7 @@ based: ["Canada"]
 ig: ["Accessibility"] 
 services: 
 tags: ["Accessibility", "DAISY"]
-categories: ["NGOs", "Libraries", "Serving persons with print disabilities"]
+categories: ["Specialized Libraries"]
 summary: "The Centre for Equitable Library Access is a national non-profit organisation established by Canadian public libraries to champion the fundamental right of Canadians with print disabilities to access media and reading materials in the format of their choice."
 press:
 active: true

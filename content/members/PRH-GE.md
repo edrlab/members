@@ -6,7 +6,7 @@ based: ["Spain"]
 ig: ["LCP"] 
 services: 
 tags: [""]
-categories: ["Publishers and publishing groups"]
+categories: ["Publishing"]
 summary: "Penguin Random House Grupo Editorial is the Spanish-language division of the international publishing company Penguin Random House. The publishing group specialises in the publication and distribution of books, to offer readers and authors the best experience in the field of literature, with the dual aim of promoting literary creativity and fostering the value of reading in society."
 press:
 active: true

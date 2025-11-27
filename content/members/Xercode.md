@@ -7,7 +7,7 @@ ig: ["LCP"]
 crossroads:
 services: 
 tags: [""]
-categories: ["Content aggregator", "technology providers"] 
+categories: ["Aggregation", "Reading Apps"] 
 summary: "Xercode was established in 2009 and specializes in providing services based on open-source technologies, particularly targeting the archival and library industry in academic, school, and corporate environments. Xercode offers comprehensive solutions for document management and provides digital content and solutions for publishers, libraries, archives, corporations, education, and document departments."
 press:
 active: true

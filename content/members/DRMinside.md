@@ -6,7 +6,7 @@ based: ["korea"]
 ig: [""] 
 services: 
 tags: [""]
-categories: ["Technology providers"]
+categories: ["Reading Apps"]
 summary: "DRM inside Co., Ltd. specializes in cutting-edge technology to safeguard digital content from piracy and enforce copyright protection. With numerous core patents and active involvement in global copyright protection standards, we aspire to lead as a global provider of copyright protection solutions.
 One of our key products is Web-X DRM, a web content security solution that does not require the installation of client modules."
 press:

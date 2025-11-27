@@ -6,7 +6,7 @@ based: ["Netherlands"]
 ig: ["Accessibility"] 
 services: 
 tags: [""]
-categories: ["Libraries"]
+categories: ["National Libraires"]
 summary: "the National Library of the Netherlands."
 press: 
 active: true

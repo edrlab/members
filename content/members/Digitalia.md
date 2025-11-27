@@ -6,7 +6,7 @@ based: [“UK”]
 ig: ["LCP"] 
 services: 
 tags: []
-categories: ["Technology providers"]
+categories: ["Reading Apps"]
 summary: "Digitalia is a global leader providing selected titles and bringing to Libraries, academics and students qualitative content driven by information technology and the best practices in content management."
 press: https://www.edrlab.org/2021/04/23/new-member-bibliopresto/
 active: true

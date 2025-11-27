@@ -6,7 +6,7 @@ based: ["France"]
 ig: [""] 
 services: 
 tags: [""]
-categories: ["NGOs", "Libraries", "Serving persons with print disabilities"]
+categories: ["Specialized Libraries"]
 summary: "adapts ebooks to the needs of dyslexic people, using its FROG EPUB extension."
 press:
 active: true

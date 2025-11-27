@@ -6,7 +6,7 @@ based: ["Canada"]
 ig: ["LCP"] 
 services: 
 tags: []
-categories: ["Technology providers"]
+categories: ["Reading Apps"]
 summary: "Bibliopresto is a non-profit organization in Quebec that supports libraries by offering them digital tools and services."
 press: https://www.edrlab.org/2021/04/23/new-member-bibliopresto/
 active: true

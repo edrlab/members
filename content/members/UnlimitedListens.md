@@ -6,7 +6,7 @@ based: ["USA"]
 ig: ["LCP"] 
 services: 
 tags: ["audiobook"]
-categories: ["Service providers"]
+categories: ["Production"]
 summary: "Unlimited Listens provides frictionless listening experiences anytime, anywhere under a number of business models including: free ad-based, one monthly fee with access to unlimited listens and verticalized, unlimited, annual plans sold via to public libraries."
 press:
 active: true

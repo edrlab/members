@@ -7,7 +7,7 @@ ig: [""]
 crossroads: ["Sustainable Development Goals"] 
 services: 
 tags: ["Accessibility", "Standards"]
-categories: ["Membership organizations"]
+categories: ["Trade Organizations"]
 summary: "The French Publishers Association (SNE) is France’s trade association of book publishers. It represents approximately 720 member companies whose combined business endeavors account for the bulk of French publishing."
 press:
 active: true

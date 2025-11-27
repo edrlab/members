@@ -6,7 +6,7 @@ based: ["Hong Kong"]
 ig: ["LCP"] 
 services: 
 tags: [""]
-categories: ["Libraries"]
+categories: ["National Libraires"]
 summary: "
 Operated by the Leisure and Cultural Services Department of HKSAR Government, the Hong Kong Public Library adopted LCP for ebook ressources. LCP server and mobile applications (android +iOS) developped by Wafer Systems (Asia) Limited."
 press:

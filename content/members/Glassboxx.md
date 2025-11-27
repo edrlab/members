@@ -7,7 +7,7 @@ ig: ["LCP"]
 crossroads: ["Readium"] 
 services: 
 tags: [""]
-categories: ["Technology providers"]
+categories: ["Reading Apps"]
 summary: "Glassboxx is an eCommerce solution that enables publishers and retailers to sell digital and print books directly to readersthe Readium LCP DRM, which is seamless for its users. In addition to its services, Glassboxx offers publishers complete merchant services and end-user support and has been awarded a Stationers' warrant to reflect its dedication to innovation excellence."
 press:
 active: true

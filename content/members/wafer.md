@@ -6,7 +6,7 @@ based: ["Hong Kong"]
 ig: ["LCP"] 
 services: 
 tags: [""]
-categories: ["technology-providers"]
+categories: ["Reading Apps"]
 summary: "Wafer Systems (Asia) Limited (“Wafer”) is an IT Solution Company with over 30
 years of system integration and software development experiences.
 Apart from Hong Kong, Wafer is having offices in Beijing, Shanghai, Guangzhou,
