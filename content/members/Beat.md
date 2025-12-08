@@ -6,7 +6,7 @@ based: [“Norway”]
 ig: ["LCP"] 
 services: 
 tags: []
-categories: [“Distributors“]
+categories: [“Distribution“]
 summary: “Build, launch or integrate your audiobook and ebook offering with white-label apps, fulfilment tech, or standalone SDKs.”
 active: true
 layout: members
