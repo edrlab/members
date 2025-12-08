@@ -17,10 +17,10 @@ DefaultContentLanguage = "en"
 
 [taxonomies]
 Professions = "categories"
-Collaborations = "ig"
+# Collaborations = "ig"
 # tag = "tags"
 # series = "series"
-Services = "services"
+# Services = "services"
 # geographies = "geographies"
 active = "active"
 
