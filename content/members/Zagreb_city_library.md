@@ -6,7 +6,7 @@ based: ["Croatia"]
 ig: [""] 
 services: 
 tags: [""]
-categories: ["Public Libraires"]
+categories: ["Public Libraries"]
 summary: "the central library for all public and school libraries in the Zagreb County, and the biggest institution among public libraries in Croatia."
 press:
 active: true
