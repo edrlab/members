@@ -6,7 +6,7 @@ based: ["Switzerland"]
 ig: ["accessibility"] 
 services: 
 tags: [""]
-categories: ["NGOs"]
+categories: ["Specialized Libraries"]
 summary: "Creating the best ways to read and publish"
 press:
 active: true

@@ -6,8 +6,8 @@ based: [“France”]
 ig: ["LCP"] 
 services: 
 tags: []
-categories: [“Publisher“, “Publishing Group“]
-summary: “Le groupe Albin Michel est composé des éditions Albin Michel, de Magnard-Vuibert, des éditions Leduc, de  Jouvence, La librairie des écoles, E-Dantès, Dilisco, du groupe Humensis récemment acquis (Belin, PUF, Que sais-je, éditions de l’Observatoire, éditions des Equateurs) et de sept librairies.”
+categories: [“Publishing“]
+summary: “The Albin Michel group is made up of Editions Albin Michel, Magnard-Vuibert, Editions Leduc, Jouvence, La Bibliothèque des écoles, E-Dantès, Dilisco, the recently acquired Humensis group (Belin, PUF, Que sais-je, éditions de l'Observatoire, éditions des Equateurs) and seven bookstores.”
 active: true
 layout: members
 showReadTime: false
