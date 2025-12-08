@@ -6,7 +6,7 @@ based: ["Italy "]
 ig: ["LCP"] 
 services: 
 tags: [""]
-categories: ["Public Libraires"]
+categories: ["Public Libraries"]
 summary: "the biggest ebook and audiobook e-lending service in Italy."
 press:
 active: true
