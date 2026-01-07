@@ -9,11 +9,12 @@ tags: [""]
 categories: ["Reading Apps", "Production"]
 summary: "a company offering multiple publishing services, with a large EPUB expertise. Nord Compo can develop custom Readium-based mobile reading applications, with LCP support."
 press:
-active: true
+active: false
 layout: members
 showReadTime: false
 showDate: false
 permalink: ""
 date: 
 featureImage: "https://members.edrlab.org/images/nordcompo.png"
+draft: true
 ---
