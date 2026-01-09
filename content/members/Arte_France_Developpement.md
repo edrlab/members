@@ -9,7 +9,8 @@ tags: [""]
 categories: ["Aggregation"]
 summary: "A department of Arte France editorial and programme production centre, that operates ebooks e-lending solutions for public libraries. "
 press:
-active: true
+active:  false
+draft: true
 layout: members
 showReadTime: false
 showDate: false
