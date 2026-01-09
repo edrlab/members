@@ -9,7 +9,8 @@ tags: []
 categories: ["Specialized Libraries"]
 summary: "a non-profit organisation that manages volunteers who give their voice and operates a platform which offers free audiobooks and audio-magazines to print-disabled people in France."
 press:
-active: true
+active:  false
+draft: true
 layout: members
 showReadTime: false
 showDate: false
