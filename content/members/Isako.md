@@ -9,11 +9,12 @@ tags: [""]
 categories: ["Production"]
 summary: "Isako is a solution provider, specialized in structured page layout and EPUB production."
 press:
-active: true
+active: false
 layout: members
 showReadTime: false
 showDate: false
 permalink: ""
 date: 
 featureImage: "https://members.edrlab.org/images/madrigall.jpg"
+draft: true
 ---
