@@ -9,7 +9,8 @@ tags: [""]
 categories: ["Reading Apps"]
 summary: "ISI is a company developing backend tools for creating accessible fixed-layout EPUBs (mainly textbooks) from PDF files."
 press:
-active: true
+active: false
+draft: true
 layout: members
 showReadTime: false
 showDate: false
