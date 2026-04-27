@@ -15,7 +15,7 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: "https://drive.google.com/file/d/1IRDed1KDkLf5cfbkZjZSWmJxtGoNK9Ek/view?usp=sharing"
+featureImage: "https://cdn.libro.fm/assets/website-images/logo-libro-2021.svg"
 ---
 
 
