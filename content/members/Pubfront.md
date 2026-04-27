@@ -2,9 +2,9 @@
 title: Pubfront
 member_url: http://www.pubfront.com
 geographies: ["worldwide"]
-based: [“Denmark]
+based: ["Denmark"]
 ig: ["LCP"] 
-services: ["Consulting”, “Reading App Development”, software vendor"]
+services: ["Consulting", "Reading App Development", "software vendor"]
 tags: ["AI"]
 categories: ["Reading Apps"]
 summary: "Software company that helps publishers set up their own online retail stores"
