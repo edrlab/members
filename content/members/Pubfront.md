@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage:"https://s3-eu-west-1.amazonaws.com:443/pubfront-mini-web/media/images/pubfrontlogo.original.png"
+featureImage: "https://s3-eu-west-1.amazonaws.com:443/pubfront-mini-web/media/images/pubfrontlogo.original.png"
 ---
