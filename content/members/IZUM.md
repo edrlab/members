@@ -14,6 +14,6 @@ layout: members
 showReadTime: false
 showDate: false
 permalink: ""
-date: 30-04-2024
+date: "2024-04-30"
 featureImage: "https://izum.si/wp-content/uploads/2020/08/izum_slo.svg"
 ---
