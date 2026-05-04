@@ -15,6 +15,6 @@ layout: members
 showReadTime: false
 showDate: false
 permalink: ""
-date: " "
+date: ""
 featureImage: https://www.eboundcanada.org/wp-content/uploads/2022/05/eboundlogo-black-2.png
 ---
