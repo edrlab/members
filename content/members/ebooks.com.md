@@ -15,6 +15,6 @@ layout: members
 showReadTime: false
 showDate: false
 permalink: ""
-date: " "
+date: ""
 featureImage: https://www.ebooks.com/ebooks-logo-2x-fs8.png
 ---
