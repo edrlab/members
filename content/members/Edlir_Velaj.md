@@ -15,6 +15,6 @@ layout: members
 showReadTime: false
 showDate: false
 permalink: ""
-date: "2024/04/22"
+date: "2024-04-22"
 featureImage: "https://members.edrlab.org/images/edlir.png"
 ---
