@@ -9,7 +9,8 @@ tags: [""]
 categories: ["Trade Organizations"]
 summary: "the voice of publishers in Europe."
 press:
-active: true
+active: false
+draft: true
 layout: members
 showReadTime: false
 showDate: false
@@ -17,3 +18,4 @@ permalink: ""
 date: 
 featureImage: "https://members.edrlab.org/images/FEP.jpg"
 ---
+
