@@ -1,13 +1,13 @@
 ---
 title: Beat Technology AS
 member_url: https://beat.no
-geographies: [“Worldwide”]
-based: [“Norway”]
+geographies: ["Worldwide"]
+based: ["Norway"]
 ig: ["LCP"] 
 services: 
 tags: []
-categories: [“Distribution“]
-summary: “Build, launch or integrate your audiobook and ebook offering with white-label apps, fulfilment tech, or standalone SDKs.”
+categories: ["Distribution"]
+summary: "Build, launch or integrate your audiobook and ebook offering with white-label apps, fulfilment tech, or standalone SDKs."
 active: true
 layout: members
 showReadTime: false
