@@ -1,5 +1,5 @@
 ---
-title: Dolphin Computer Acccess Ltd
+title: Dolphin Computer Access Ltd
 member_url: https://yourdolphin.com/
 geographies: ["Worldwide"]
 based: ["GB - United Kingdom"]
