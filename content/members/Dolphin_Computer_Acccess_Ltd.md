@@ -16,3 +16,10 @@ permalink: ""
 date: 
 featureImage: https://yourdolphin.com/assets/images/logos/dolphin/dol_1x.png
 ---
+
+Dolphin Computer Access is a global leader in assistive technology, empowering people with vision impairments and neurodiversity to read independently through [EasyReader app](https://yourdolphin.com/EasyReader-App).
+
+Dolphin EasyReader links readers to 50 accessible libraries and newspaper stands worldwide. Offering a fully-customisable reading experience for every individual.
+
+
+ 
