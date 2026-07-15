@@ -6,7 +6,7 @@ based: [""]
 ig: [] 
 services: []
 tags: []
-categories: ['Reading App Development']
+categories: ['Subscription Service']
 summary: "Yearn Media is a subscription-based digital reading platform offering unlimited access to a curated library of romantasy ebooks and audiobooks"
 active: true
 layout: members

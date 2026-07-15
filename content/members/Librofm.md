@@ -6,7 +6,7 @@ based: [“USA”]
 ig: [""] 
 services: 
 tags: [“LCP”]
-categories: ["Distribution", "Reading App Development", "Retail"]
+categories: ["Distribution", "Retail"]
 summary: "Libro.fm shares profits from your audiobook purchases with your chosen bookstore, giving you the power to keep money within your local economy. We’re proud to be a Social Purpose Corporation, Certified B Corp™, and 100% employee-owned."
 press:
 active: true
