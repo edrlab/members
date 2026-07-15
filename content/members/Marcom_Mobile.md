@@ -19,5 +19,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: "2026-07-10"
-featureImage: "./logos/marcommobile.png"
+featureImage: "https://members.edrlab.org/images/marcommobile.png"
 ---
