@@ -6,7 +6,7 @@ based: ["US - USA"]
 ig: [] 
 services: []
 tags: []
-categories: ['Consulting', 'Reading Apps']
+categories: ['Consulting', 'Reading App Development']
 summary: ""
 active: true
 layout: members

@@ -6,7 +6,7 @@ based: ["Australia"]
 ig: ["LCP"] 
 services: ["Portal","Bookselling"]
 tags: ["Reading","LCP"]
-categories: ["Reading Apps"]
+categories: ["Public Libraries"]
 summary: "We are running the no. 1 digital library lending solution in the UK, Ireland, Australia and New Zealand. We are entering the DACH market and are in contact with tolino/Kobo and PocketBook regarding compatibility and integration with their devices."
 press:
 active: true

@@ -6,7 +6,7 @@ based: ["France"]
 ig: [""] 
 services: 
 tags: ["e-reader"]
-categories: ["Reading Apps"]
+categories: ["Reading Systems", "Hardware", "Distribution", "Software & AI"]
 summary: "an ebook and audiobook distributor and developer of technical solutions for ebook distribution, including e-readers, desktop and mobile applications."
 press:
 active: true

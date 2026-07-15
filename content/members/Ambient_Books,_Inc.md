@@ -6,7 +6,7 @@ based: [""]
 ig: [] 
 services: []
 tags: []
-categories: ['Reading Apps']
+categories: ['Reading Systems', 'Retail']
 summary: "Ambient Books is a next-generation reading and video publishing platform that pairs books with optional, chapter-synchronized ambient and cinematic video experiences, creating a more immersive and emotionally resonant way to read while keeping the text at the center.
 
 We work closely with authors, creators, and reading-technology partners to ensure high-quality storytelling experiences. Through our Author Studio, authors collaborate directly with our team to produce curated, chapter-synced audiovisual companion content designed to complement their written work."

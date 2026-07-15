@@ -29,21 +29,8 @@ Additionally to that YAML information, each member can provide a markdown or HTM
 
 ## categories mapping
 
-By november 2025, we modified categories as follows:
+In June 2026, some categories are modified:
 |Now|Was|
 |---|---|
-|Consulting||
-|Publishing|Publishers and publishing groups|
-|Production|Provider of publishing services|
-|Distribution|Content distributor|
-|Aggregation|Content aggregator|
-|Hardware||
-|Reading Apps|Technology Provider|
-|Retail|Retailer / Bookseller|
-|Academic Libraries|Libraries|
-|Public Libraries|Libraries
-|National Libraires|Libraries
-|Specialized Libraries|Serving persons with print disabilities, NGOs|
-|Accessibility||
-|Government Entities|Officio members|
-|Trade Organizations|Membership organizations|
+|Reading Systems|Reading Apps|
+|Reading App Development|Reading Apps|

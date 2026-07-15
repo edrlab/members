@@ -6,7 +6,7 @@ based: ["France"]
 ig: ["LCP"] 
 services: 
 tags: [""]
-categories: ["Reading Apps"]
+categories: ["Retail"]
 summary: "a French e-bookstore (epagine.fr) that also operates www.placedeslibraires.fr, an e-bookstore shared by multiple independent booksellers."
 press:
 active: true

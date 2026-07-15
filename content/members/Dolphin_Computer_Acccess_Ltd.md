@@ -6,7 +6,7 @@ based: ["GB - United Kingdom"]
 ig: [] 
 services: []
 tags: []
-categories: ['Reading Apps']
+categories: ['Reading App Development']
 summary: "Dolphin Computer Access is a global leader in assistive technology, empowering people with vision impairments and neurodiversity to read independently through [EasyReader app](https://yourdolphin.com/EasyReader-App)."
 active: true
 layout: members

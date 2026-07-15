@@ -6,7 +6,7 @@ based: ["France"]
 ig: [""] 
 services: 
 tags: [""]
-categories: ["Reading Apps"]
+categories: ["Reading App Development"]
 summary: "the company behind the Bookari mobile reading application."
 press:
 draft: true
