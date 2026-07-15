@@ -6,7 +6,7 @@ based: ["Poland"]
 ig: ["LCP"] 
 services: 
 tags:
-categories: ["s", "Reading App Development"]
+categories: ["Reading App Development"]
 summary: "MARCOM MOBILE is a boutique software development company specializing in eBook and audiobook applications for iOS and Android since 2015. We work closely with leading reading technology providers to create high-quality mobile reading experiences with a strong focus on usability, performance, offline access, DRM integration, accessibility, and user engagement.
 
 We are proud to have companies such as Nextory, Magibook, and eBooks.com among our clients.
