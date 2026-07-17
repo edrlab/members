@@ -14,5 +14,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage:https://members.edrlab.org/images/ScholarLeaders.png
+featureImage:"https://members.edrlab.org/images/ScholarLeaders.png"
 ---
