@@ -14,5 +14,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: https://1drv.ms/u/c/bf0f97274b771507/IQCG-ClXOGaORIyXLgqK4FcEAU29zNgYZv9QDKJnJ_RYa2g?e=QVq9xv
+featureImage: "https://members.edrlab.org/images/dksp2026-1P.svg"
 ---
