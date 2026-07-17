@@ -15,5 +15,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: https://www.sol.us/wp-content/uploads/2026/06/SOLUS_Logo_Grey-scaled.png
+featureImage: "https://members.edrlab.org/images/SOLUS_Logo.png"
 ---
