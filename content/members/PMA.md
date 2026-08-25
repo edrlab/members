@@ -10,7 +10,7 @@ tags: ["LCP"]
 categories: ["Software Development"]
 summary: "Software house intending to providing LCP services to our customers in order to contribute to a more accessible and safe world."
 press:
-active: false
+active: true
 layout: members
 showReadTime: false
 showDate: false
