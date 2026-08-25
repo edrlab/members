@@ -6,7 +6,7 @@ based: ["Finland"]
 ig: ["LCP"] 
 services: 
 tags: [""]
-categories:  ["Distribution", "Aggregation"] 
+categories:  ["Ebook Distributor"] 
 summary: "an e-bookstore operating in Finland. Ellibs is moving its solution to LCP."
 press:
 active: true

@@ -6,7 +6,7 @@ based: ["JP - Japan"]
 ig: [] 
 services: []
 tags: []
-categories: ['Trade Organizations']
+categories: ['Trade Organization']
 summary: "<p>The Digital Publishers Federation of Japan (DPFJ) aims to promote the digitalization of publishing culture, an important part of Japan’s cultural heritage; preserve and sustain the diversity of publishing culture; foster the sound development of digital publishing businesses by publishers; and, together with copyright holders, promote the growth and adoption of digital publishing not only in Japan but throughout the world.</p>
 
 <p>To achieve these objectives, DPFJ undertakes the following activities:</p>

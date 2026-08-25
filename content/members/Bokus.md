@@ -6,7 +6,7 @@ based: ["Sweden"]
 ig: ["LCP"] 
 services: ["Portal","Bookselling"]
 tags: ["Reading","LCP"]
-categories: ["Retail"]
+categories: ["Bookstore"]
 summary: "Bokusgruppen is Sweden’s market-leading book retailer which, with strong and complementary brands, reaches a very large share of Sweden’s population. Based on our vision – “Joy of reading for everyone, every day” – Bokusgruppen aims to satisfy the customers’ varying requirements and to be the preferred choice for as many as possible."
 press:
 active: true

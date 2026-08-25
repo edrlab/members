@@ -6,7 +6,7 @@ based: ["France"]
 ig: ["LCP"] 
 services: 
 tags: ["Accessibility"]
-categories: ["Publishing"]
+categories: ["Publisher"]
 summary: "one of the largest publishing group in France and the world. EDRLab founding member."
 press:
 active: true

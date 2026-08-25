@@ -6,7 +6,7 @@ based: ["France"]
 ig: [""] 
 services: 
 tags: [""]
-categories: ["Public Libraries"]
+categories: ["Public Library"]
 summary: " the network of skills and exchanges in France and Belgium, in the field of electronic documentation for public libraries."
 press:
 active:  false

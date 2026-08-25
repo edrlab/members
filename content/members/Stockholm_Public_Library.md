@@ -6,8 +6,7 @@ based: [""]
 ig: [""] 
 services: 
 tags: [""]
-categories:
-  - Libraries
+categories: ["Public Library"]
 description:
   - ""
 press: 

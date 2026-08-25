@@ -7,7 +7,7 @@ ig: ["LCP"]
 crossroads: ["Readium", "W3C"] 
 services: 
 tags: ["Accessibility"]
-categories: ["Distribution", "Aggregation"]
+categories: ["Ebook Distributor", "Technology Provider"]
 summary: "the largest ebook distributor in Canada."
 press:
 active: true

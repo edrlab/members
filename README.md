@@ -18,7 +18,7 @@ Each member card is composed of the following information in YAML format:
 * `crossroads`: other membership organizations or signatory engagements that are common to different members. Values for now are: ["Sustainable Development Goals", "Divina", "Readium", "Daisy Consortium"] 
 * `services`: a list of services provided by your organization
 * `tags`: Tags are not used for now, might be useful in the future. Leave blank or add any relevant keyword not listed in another field to let us know what other information can be of use to present your organization. 
-* `categories`: one or more edrlab's membership categories. Available values are: ["NGOs", "Libraries", "Serving persons with print disabilities", "Publishing", "Technology providers", "Content aggregator", "Service providers", "Academic", "Content distributor", "Ebook distributors", "Libraries", "Membership organizations", "Officio members"]
+* `categories`: one or more edrlab's membership categories.
 * `summary`: "A short description of the organization. Around 100 words is a good balance."
 * `press`: if a press release or an online article announces or emphasizes your organization's EDRLab membership, the URL can be added here.
 * `date`: when did the edrlab membership started? This field is used to sort cards (last members first)
@@ -32,5 +32,5 @@ Additionally to that YAML information, each member can provide a markdown or HTM
 In June 2026, some categories are modified:
 |Now|Was|
 |---|---|
-|Reading Systems|Reading Apps|
-|Reading App Development|Reading Apps|
+|Reading App Developer|Reading Apps|
+|Reading App Developer|Reading Apps|

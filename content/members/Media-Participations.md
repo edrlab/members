@@ -6,7 +6,7 @@ based: ["France"]
 ig: [""] 
 services: 
 tags: [""]
-categories: ["Publishing"]
+categories: ["Publisher"]
 summary: " one of the largest publishing group in France."
 press:
 active: true

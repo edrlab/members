@@ -6,7 +6,7 @@ based: ["FRANCE"]
 ig: [] 
 services: []
 tags: []
-categories: ['Platform Development']
+categories: ['Technology Provider']
 summary: "<p>1D345 Compilatio is a leader in the development of solutions that ensure the authenticity and originality of digital content. Specializing in AI-driven tools, we help publishers, researchers, and institutions in maintaining the integrity of their content while promoting accessibility and transparency. With over 20 years of expertise, we provide cutting-edge technologies to detect plagiarism, AI-generated text, fake scientific articles etc.. contributing to a more reliable and ethical digital landscape.</p>
 <p>1D345 is a company from the Compilatio group.</p>"
 active: true

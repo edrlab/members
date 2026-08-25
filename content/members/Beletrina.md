@@ -7,7 +7,7 @@ ig: ["LCP"]
 crossroads: ["Sustainable Development Goals"] 
 services: 
 tags: [""]
-categories: ["Distribution", "Aggregation", "Publishing"] 
+categories: ["Ebook Distributor", "Publisher", "Subscription Service"] 
 summary: "Beletrina is a Slovenian publishing house, retailer, book distributor and technical service provider."
 press:
 active: true

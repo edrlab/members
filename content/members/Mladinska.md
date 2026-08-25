@@ -8,7 +8,7 @@ ig: ["LCP"]
 crossroads:
 services:
 tags:
-categories: ["Distribution", "retail"]
+categories: ["Ebook Distributor", "Publisher"]
 summary: "Mladinska Knjiga Zaloba is the biggest publisher and retail bookseller chain in Slovenia with 50 stores across country."
 press:
 active: true

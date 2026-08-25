@@ -6,7 +6,7 @@ based: ["USA"]
 ig: [""] 
 services: 
 tags: [""]
-categories: ["Publishing"]
+categories: ["Publisher"]
 summary: "one of the largest publishing group."
 press:
 active: true

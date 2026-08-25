@@ -6,7 +6,7 @@ based: ["France"]
 ig: [""] 
 services: ["Business Strategy", "Sales representation", "Digital Services", "ebook creation", "ebook distribution", "marketing support"] 
 tags: [""]
-categories: ["Production"]
+categories: ["Content Producer"]
 summary: "e-Dantès is a company specialising in digital services for publishers in the ebook and audiobook market."
 press:
 active: true

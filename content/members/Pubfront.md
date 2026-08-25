@@ -6,7 +6,7 @@ based: ["Denmark"]
 ig: [] 
 services: []
 tags: []
-categories: ['Reading App Development', 'Software Development']
+categories: ['Reading App Developer', 'Software Development']
 summary: "Software company that helps publishers set up their own online retail stores"
 active: true
 layout: members

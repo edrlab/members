@@ -8,8 +8,7 @@ based:
 ig: []
 services: []
 tags: []
-categories:
-  - Academic Libraries
+categories: ["Academic Library"]
 summary: "Scholar Leaders empowers theological leadership globally. BiblioTech provides a curated digital library to support Majority World theological education."
 active: true
 layout: members

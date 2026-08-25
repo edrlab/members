@@ -6,7 +6,7 @@ based: ["France"]
 ig: [] 
 services: []
 tags: []
-categories: ["Retail"]
+categories: ["Bookstore"]
 summary: "We are Fantasy Alley, an immersive reading app dedicated to Fantasy books. "
 active: true
 layout: members

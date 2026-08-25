@@ -7,7 +7,7 @@ ig: ["LCP"]
 crossroads:
 services:
 tags:
-categories: ["Distribution", "retail"]
+categories: ["Ebook Distributor"]
 summary: "Their central eBook download platform supports the shared interests of retailers, publishers , and customers in the distribution and use of eBooks and digital audiobooks."
 press:
 active: true

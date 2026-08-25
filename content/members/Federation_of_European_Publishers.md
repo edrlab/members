@@ -6,7 +6,7 @@ based: ["Belgium"]
 ig: [""] 
 services: 
 tags: [""]
-categories: ["Trade Organizations"]
+categories: ["Trade Organization"]
 summary: "the voice of publishers in Europe."
 press:
 active: false

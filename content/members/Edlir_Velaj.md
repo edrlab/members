@@ -4,10 +4,10 @@ member_url: https://edlir.velaj.net
 geographies: ["Albania"]
 based: ["Albania"]
 ig: ["LCP"]
-crossroads: ["Digital Distribution"]
+crossroads: ["Digital Ebook Distributor"]
 services:
 tags: [""]
-categories: ["Production"]
+categories: ["Content Producer"]
 summary: "Edlir is a web developer and translator developing an e-book and audiobook platform aimed at expanding access to digital reading in Albania"
 press:
 active: true

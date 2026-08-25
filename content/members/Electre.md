@@ -6,7 +6,7 @@ based: ["France"]
 ig: [""] 
 services: 
 tags: ["Data"]
-categories: ["Production"]
+categories: ["Content Producer"]
 summary: "Service providersprovides a bibliographic database of all books produced in France."
 press:
 active: true

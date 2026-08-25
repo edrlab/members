@@ -6,7 +6,7 @@ based: ["France"]
 ig: [""] 
 services:  ["ebook creation"]
 tags: [""]
-categories: ["Production"]
+categories: ["Content Producer"]
 summary: "specialized in structured page layout and EPUB production."
 press:
 active: true

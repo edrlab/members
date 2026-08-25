@@ -6,7 +6,7 @@ based: ["USA"]
 ig: [] 
 services: []
 tags: []
-categories: ['Distribution']
+categories: ['Ebook Distributor']
 summary: "We're building a service specializing in serialized, short form written content. We aim to allow authors to explore and develop new stories while sharing their content with fans."
 active: true
 layout: members

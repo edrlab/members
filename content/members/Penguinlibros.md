@@ -6,7 +6,7 @@ based: ["Spain"]
 ig: [""] 
 services: 
 tags: [""]
-categories: ["Distribution"]
+categories: ["Ebook Distributor"]
 summary: ""
 press:
 active: true

@@ -7,7 +7,7 @@ ig: ["LCP"]
 crossroads:
 services: 
 tags: 
-categories: ["Retail"] 
+categories: ["Bookstore"] 
 summary: "Allvit provides digital academic books in the browser to Norwegian students"
 press:
 active: true

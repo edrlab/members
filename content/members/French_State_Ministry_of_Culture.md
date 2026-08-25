@@ -6,7 +6,7 @@ based: ["France"]
 ig: [""] 
 services: 
 tags: [""]
-categories: ["Government Entities"]
+categories: ["Government Entity"]
 summary: ""
 press:
 active: true

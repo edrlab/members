@@ -6,7 +6,7 @@ based: ["France"]
 ig: ["Accessibility"] 
 services: 
 tags: []
-categories: ["Specialized Libraries"]
+categories: ["Specialized Library"]
 summary: "For the last 130 years, the Valentin Haüy association has offered multiple services to people with reading disabilities including braille printing, a media library, an Accessibility Unit..."
 press:
 active: true

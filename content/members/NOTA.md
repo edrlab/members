@@ -7,7 +7,7 @@ ig: []
 crossroads: ["Sustainable Development Goals", "Divina", "Readium", "Daisy Consortium"] 
 services: 
 tags: ["Accessibility", "DAISY"]
-categories: ["Specialized Libraries"]
+categories: ["Specialized Library"]
 summary: "Nota is an institution under the Ministry of Culture of Denmark, which makes printed text available in digital formats."
 press:
 active: true

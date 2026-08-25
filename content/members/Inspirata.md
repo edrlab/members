@@ -1,5 +1,5 @@
 ---
-title: Inspirata Publishing (Hong Kong) Limited 
+title: Inspirata Publisher (Hong Kong) Limited 
 member_url: https://endao.co
 geographies: [“Worldwide”]
 based: [“Hong Kong”]
@@ -7,7 +7,7 @@ ig: ["LCP"]
 crossroads:  
 services: 
 tags: [""]
-categories: ["Distribution", "Publishing"] 
+categories: ["Ebook Distributor", "Publisher"] 
 summary: “We publish, translate, and distribute Christian resources to foster a deeper understanding of the meaning of God’s Word, and to cultivate Christ-centered lives and church-directed spiritual ministry".
 press:
 active: true

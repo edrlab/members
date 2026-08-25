@@ -7,7 +7,7 @@ ig: ["LCP", "accessibility"]
 crossroads: 
 services:
 tags: [""]
-categories: ["Public Libraries"]
+categories: ["Public Library"]
 summary: "We Produce accessible e-books for people with visual impairments and develop related solutions for implementation in public libraries."
 press:
 active: true

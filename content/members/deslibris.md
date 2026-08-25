@@ -1,12 +1,12 @@
 ---
-title: desLibris Publishing Solutions
+title: desLibris Publisher Solutions
 member_url: https://www.deslibris.pub/
 geographies: ["Canada"]
 based: ["Canada"]
 ig: [""] 
 services:  ["ebook creation", "ebook Accessibility", "ONIX metadata"] 
 tags: ["", ""]
-categories: ["Production"]
+categories: ["Content Producer"]
 summary: "DPS is an ebook conversion vendor certified by Benetech and dedicated to making accessible ePub3 economical and hassle-free for book publishers and self-publishers."
 press:
 active: true

@@ -6,7 +6,7 @@ based: ["Brazil"]
 ig: [""] 
 services: 
 tags: [""]
-categories: ["Platform Development"]
+categories: ["Technology Provider"]
 summary: "Fênix Tecnologias Educacionais is an education technology and services company based in Brazil."
 press: https://www.edrlab.org/2020/08/13/new-member-fenix-editorial/
 active: true

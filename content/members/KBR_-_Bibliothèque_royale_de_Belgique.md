@@ -6,7 +6,7 @@ based: ["Belgium"]
 ig: [] 
 services: []
 tags: []
-categories: ['National Libraires']
+categories: ['National Library']
 summary: "The Royal Library of Belgium is the national scientific library. It collects all Belgian publications and preserves, manages and studies an extensive cultural and historical heritage. It provides the public with access to information, facilitates research and offers a broad cultural experience."
 active: true
 layout: members

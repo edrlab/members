@@ -6,7 +6,7 @@ based: ["Kenya"]
 ig: [""] 
 services: 
 tags: [""]
-categories: ["K12", "Subscription Service"]
+categories: ["Ebook Distributor"]
 summary: "Accessible digital content for inclusive and quality education"
 press:
 active: true
