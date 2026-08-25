@@ -9,7 +9,7 @@ tags: ["", ""]
 categories: ["Content Producer"]
 summary: "DPS is an ebook conversion vendor certified by Benetech and dedicated to making accessible ePub3 economical and hassle-free for book publishers and self-publishers."
 press:
-active: true
+active: false
 layout: members
 showReadTime: false
 showDate: false
