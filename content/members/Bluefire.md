@@ -3,11 +3,11 @@ title: Bluefire
 member_url: https://www.bluefirereader.com/index.html
 geographies: ["Worldwide", "USA"]
 based: ["USA"]
-ig: [""] 
-services: 
-tags: ["Reading"]
+ig: [] 
+services: []
+tags: []
 categories: ["Reading App Development"]
-summary: "The company which is behind Bluefire Reader, a well-known EPUB reader in the USA. Note that for now, Bluefire Reader does not rely on the Readium toolkits and does not support the LCP DRM."
+summary: "The company behind the well-known EPUB reader named Bluefire Reader, a well-known."
 press:
 active: false
 layout: members
