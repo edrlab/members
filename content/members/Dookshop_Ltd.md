@@ -6,7 +6,7 @@ based: ["NG - Nigeria"]
 ig: [] 
 services: []
 tags: []
-categories: ['Publishing', 'Reading Apps', 'Retail']
+categories: ['Retail']
 summary: "Dookshop is an online bookshop for selling, promoting, marketing, reading and listening to ebooks including comics and audio books to readers all over the world."
 active: true
 layout: members
