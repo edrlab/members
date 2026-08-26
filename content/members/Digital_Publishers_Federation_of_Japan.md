@@ -7,7 +7,7 @@ ig: []
 services: []
 tags: []
 categories: ['Trade Organization']
-summary: "<p>The Digital Publishers Federation of Japan (DPFJ) aims to promote the digitalization of publishing culture, an important part of Japan’s cultural heritage; preserve and sustain the diversity of publishing culture; foster the sound development of digital publishing businesses by publishers; and, together with copyright holders, promote the growth and adoption of digital publishing not only in Japan but throughout the world.</p>
+summary: "<p>Densho-ren (Digital Publishers of Japan) aims to promote the digitization of Japan's publishing culture, which is a part of its cultural heritage, and works with copyright holders to spread digital publishing both in Japan and around the world. We're involved in various projects together with our 67 member companies, including major Japanese publishers.</p>
 
 <p>To achieve these objectives, DPFJ undertakes the following activities:</p>
 <ul>
