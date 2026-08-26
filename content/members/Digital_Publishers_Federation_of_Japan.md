@@ -7,7 +7,7 @@ ig: []
 services: []
 tags: []
 categories: ['Trade Organization']
-summary: "<p>Densho-ren (Digital Publishers of Japan) aims to promote the digitization of Japan's publishing culture, which is a part of its cultural heritage, and works with copyright holders to spread digital publishing both in Japan and around the world. We're involved in various projects together with our 67 member companies, including major Japanese publishers.</p>
+summary: "<p>Densho-ren (Digital Publishers Federation of Japan) aims to promote the digitization of Japan's publishing culture, which is a part of its cultural heritage, and works with copyright holders to spread digital publishing both in Japan and around the world. We're involved in various projects together with our 67 member companies, including major Japanese publishers.</p>
 
 <p>To achieve these objectives, DPFJ undertakes the following activities:</p>
 <ul>
