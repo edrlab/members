@@ -6,7 +6,7 @@ based: ["FR - France"]
 ig: [] 
 services: []
 tags: []
-categories: ['']
+categories: ['Trade Organization']
 summary: "Founded more than 50 years ago by the French Publishers Association (Syndicat national de l’édition – SNE), ASFORED is France’s leading organization dedicated to education and professional development for the publishing industry.
 
 Each year, ASFORED trains more than 250 apprentices across the entire book value chain and provides continuing education to over 1,500 publishing professionals, helping companies and individuals adapt to the ongoing transformation of publishing professions and content industries.
@@ -18,5 +18,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: https://asfored.org/
+featureImage: https://members.edrlab.org/images/asfored.png
 ---
