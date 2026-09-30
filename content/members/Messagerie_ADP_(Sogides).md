@@ -6,7 +6,7 @@ based: ["CA - Canada"]
 ig: [] 
 services: []
 tags: []
-categories: ['Distributor']
+categories: ['Ebook Distributor']
 summary: "Messageries ADP is Canada's leading French-language book and ebook marketer and distributor, representing more than 300 Quebec and European French-language publishers."
 active: true
 layout: members
