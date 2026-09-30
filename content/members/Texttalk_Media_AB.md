@@ -7,7 +7,9 @@ ig: []
 services: []
 tags: []
 categories: ['Technology Provider']
-summary: ""
+summary: "We build technology that makes a difference.
+
+Since 1979, we’ve been developing digital solutions for real-world needs. Today, we do that through Prenly, Webarch and Abicart – three platforms for digital publishing, content structuring and e-commerce."
 active: true
 layout: members
 showReadTime: false
