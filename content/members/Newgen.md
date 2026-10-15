@@ -17,5 +17,5 @@ showReadTime: false
 showDate: false
 permalink: ""
 date:
-featureImage: "https://members.edrlab.org/images/Newgen_Logo_transparent.png"
+featureImage: "https://members.edrlab.org/images/Newgen.png"
 ---
