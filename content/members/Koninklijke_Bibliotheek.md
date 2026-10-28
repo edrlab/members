@@ -3,10 +3,10 @@ title: Koninklijke Bibliotheek
 member_url: https://www.kb.nl/
 geographies: ["Netherlands"]
 based: ["Netherlands"]
-ig: ["Accessibility"] 
+ig: []
 services: 
 tags: [""]
-categories: ["National Library"]
+categories: ["National library"]
 summary: "the National Library of the Netherlands."
 press: 
 active: true
@@ -16,4 +16,6 @@ showDate: false
 permalink: ""
 date: 
 featureImage: "https://members.edrlab.org/images/KB_NL.png"
+featured: true
+anchor: false
 ---

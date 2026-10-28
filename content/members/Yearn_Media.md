@@ -2,11 +2,11 @@
 title: Yearn Media
 member_url: None
 geographies: [“Worldwide”]
-based: [""]
-ig: [] 
+based: []
+ig: []
 services: []
 tags: []
-categories: ['Subscription Service']
+categories: ["Subscription service"]
 summary: "Yearn Media is a subscription-based digital reading platform offering unlimited access to a curated library of romantasy ebooks and audiobooks"
 active: true
 layout: members
@@ -15,4 +15,6 @@ showDate: false
 permalink: ""
 date: 
 featureImage: 
+featured: false
+anchor: false
 ---

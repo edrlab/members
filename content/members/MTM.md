@@ -3,11 +3,11 @@ title: Myndigheten för tillgängliga mediers, MTM
 member_url: https://www.mtm.se/
 geographies: ["Sweden"]
 based: ["Sweden"]
-ig: [LCP"] 
-crossroads: ["Sustainable Development Goals", "Divina", "Readium", "Daisy Consortium"] 
+ig: ["LCP"]
+crossroads: ["Sustainable Development Goals", "Divina", "Readium", "Daisy Consortium"]
 services: 
 tags: ["Accessibility", "DAISY"]
-categories:  ["Specialized Library"] 
+categories: ["Specialized library"]
 summary: "The Swedish Agency for Accessible Media"
 press:
 active: true
@@ -17,4 +17,7 @@ showDate: false
 permalink: ""
 date: 
 featureImage: "https://members.edrlab.org/images/mtm.png"
---- 
+featured: true
+anchor: false
+---
+ 

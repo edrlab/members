@@ -2,8 +2,8 @@
 title: HarperCollins
 member_url: https://www.harpercollins.com/
 geographies: ["USA"]
-based: ["USA"]
-ig: [""] 
+based: ["United States"]
+ig: []
 services: 
 tags: [""]
 categories: ["Publisher"]
@@ -16,4 +16,7 @@ showDate: false
 permalink: ""
 date: 
 featureImage: "https://members.edrlab.org/images/harper.svg"
---- 
+featured: true
+anchor: false
+---
+ 

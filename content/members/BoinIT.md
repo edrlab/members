@@ -3,8 +3,8 @@ title: Boin Information Technologies, Inc
 member_url: https://boinit.com/
 geographies: ["South Korea"]
 based: ["South Korea"]
-ig: ["LCP", "accessibility"]
-crossroads: 
+ig: ["LCP"]
+crossroads: []
 services:
 tags: [""]
 categories: ["Content producer"]
@@ -17,6 +17,8 @@ showDate: false
 permalink: ""
 date: ""
 featureImage: "https://members.edrlab.org/images/boinit.png"
+featured: true
+anchor: false
 ---
 
 

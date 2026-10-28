@@ -2,11 +2,11 @@
 title: 
 member_url: 
 geographies: [""]
-based: [""]
-ig: [""] 
+based: []
+ig: []
 services: 
 tags: [""]
-categories: ["Public Library"]
+categories: ["Public library"]
 description:
   - ""
 press: 
@@ -18,4 +18,6 @@ showDate: false
 permalink: ""
 date: 
 featureImage: ""
+featured: false
+anchor: false
 ---

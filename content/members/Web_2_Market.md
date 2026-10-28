@@ -2,8 +2,8 @@
 title: Web 2 Market
 member_url: https://web2market.com/
 geographies: ["Worldwide","USA"]
-based: ["USA"]
-ig: [""] 
+based: ["United States"]
+ig: []
 services: 
 tags: [""]
 categories: []
@@ -17,4 +17,6 @@ showDate: false
 permalink: ""
 date: 
 featureImage: "https://web2market.com/wp-content/uploads/2022/07/W2M-Logo-trans.webp"
+featured: false
+anchor: false
 ---

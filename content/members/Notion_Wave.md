@@ -2,11 +2,11 @@
 title: Notion Wave
 member_url: https://notionwave.com/
 geographies: ["Worldwide", "USA"]
-based: ["USA"]
-ig: [""] 
+based: ["United States"]
+ig: []
 services: 
 tags: [""]
-categories: ["Content Producer"]
+categories: ["Content producer"]
 summary: "its flagship product, KNiTO  is a complete EPUB 3 authoring, publishing, sales, and reader solution. KNiTO Store is a dedicated EPUB 3 book shop."
 press:
 active: true
@@ -16,4 +16,6 @@ showDate: false
 permalink: ""
 date: 
 featureImage: "https://pubnito-website.troweb.app/api/v1/blob/65d5f32aa0bb280007fcdf3b?width=128&quality=75"
+featured: true
+anchor: false
 ---

@@ -3,7 +3,7 @@ title: Albin Michel
 member_url: https://www.albin-michel.fr/
 geographies: ["Worldwide"]
 based: ["France"]
-ig: ["LCP"] 
+ig: ["LCP"]
 services: 
 tags: []
 categories: ["Publisher"]
@@ -15,4 +15,6 @@ showDate: false
 permalink: ""
 date: 
 featureImage: "https://www.albin-michel.fr/themes/custom/albin_michel/logo.svg"
+featured: true
+anchor: false
 ---

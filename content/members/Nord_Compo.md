@@ -3,10 +3,10 @@ title: Nord Compo
 member_url: https://nordcompo.fr/
 geographies: ["France"]
 based: ["France"]
-ig: [""] 
+ig: []
 services:  ["ebook creation",  "ebook accessibility", "digital services", "alternative image description"]
 tags: [""]
-categories: ["Content Producer"]
+categories: ["Content producer"]
 summary: "a company offering multiple publishing services, with a large EPUB expertise. Nord Compo can develop custom Readium-based mobile reading applications, with LCP support."
 press:
 active: false
@@ -17,4 +17,6 @@ permalink: ""
 date: 
 featureImage: "https://members.edrlab.org/images/nordcompo.png"
 draft: true
+featured: false
+anchor: false
 ---

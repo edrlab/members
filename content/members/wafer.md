@@ -3,10 +3,10 @@ title: Wafer Systems (Asia) Limited
 member_url: https://wafersystems.com/en
 geographies: ["Hong Kong"]
 based: ["Hong Kong"]
-ig: ["LCP"] 
+ig: ["LCP"]
 services: 
 tags: [""]
-categories: ["Technology Provider"]
+categories: ["Technology provider"]
 summary: "<p>Wafer Systems (Asia) Limited (“Wafer”) is an IT Solution Company with over 30
 years of system integration and software development experiences.</p>
 <p>Apart from Hong Kong, Wafer is having offices in Beijing, Shanghai, Guangzhou,
@@ -25,4 +25,6 @@ showDate: false
 permalink: ""
 date: 
 featureImage: "https://members.edrlab.org/images/wafer.png"
+featured: true
+anchor: false
 ---

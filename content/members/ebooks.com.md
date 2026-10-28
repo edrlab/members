@@ -3,8 +3,8 @@ title: eBooks.com
 member_url: https://www.ebooks.com/
 geographies: ["US", "Canada", "UK", "Europe", "Australia"]
 based: ["Australia"]
-ig: ["LCP", "accessibility", "colibrio"]
-crossroads:
+ig: ["LCP"]
+crossroads: []
 services:
 tags: [""]
 categories: ["Bookstore"]
@@ -17,4 +17,6 @@ showDate: false
 permalink: ""
 date: ""
 featureImage: https://www.ebooks.com/ebooks-logo-2x-fs8.png
+featured: true
+anchor: false
 ---

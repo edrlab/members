@@ -3,10 +3,10 @@ title: Vivlio
 member_url: https://www.vivlio.com/
 geographies: ["France"]
 based: ["France"]
-ig: [""] 
+ig: []
 services: 
 tags: ["e-reader"]
-categories: ["Hardware Vendor", "Software Developer", "Ebook Distributor"]
+categories: ["Hardware vendor", "Technology provider", "Ebook distributor"]
 summary: "an ebook and audiobook distributor and developer of technical solutions for ebook distribution, including e-readers, desktop and mobile applications."
 press:
 active: true
@@ -16,6 +16,8 @@ showDate: false
 permalink: ""
 date: 
 featureImage: "https://www.vivlio.com/wp-content/themes/vivlio/images/logo-vivlio.png"
+featured: true
+anchor: false
 ---
 
 

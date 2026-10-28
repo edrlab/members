@@ -3,10 +3,10 @@ title: Numilog
 member_url: https://www.numilog.com/
 geographies: ["France"]
 based: ["France"]
-ig: [""] 
+ig: []
 services: 
 tags: [""]
-categories: ["Ebook Distributor"]
+categories: ["Ebook distributor"]
 summary: "a large ebook distributor in France."
 press:
 active: true
@@ -16,4 +16,6 @@ showDate: false
 permalink: ""
 date: 
 featureImage: "https://www.numilog.com/App_Themes/Numilog2017/Images/Entetes/LogoNumilog3.png"
+featured: true
+anchor: false
 ---

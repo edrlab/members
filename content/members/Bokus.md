@@ -3,7 +3,7 @@ title: Bokus AB
 member_url: https://www.bokusgruppen.com/en/
 geographies: ["Sweden"]
 based: ["Sweden"]
-ig: ["LCP"] 
+ig: ["LCP"]
 services: ["Portal","Bookselling"]
 tags: ["Reading","LCP"]
 categories: ["Bookstore"]
@@ -16,4 +16,6 @@ showDate: false
 permalink: ""
 date: 
 featureImage: https://www.bokusgruppen.com/images/3c596750-1ec0-4e56-8b6b-08418647825d/logotype.svg
+featured: true
+anchor: false
 ---

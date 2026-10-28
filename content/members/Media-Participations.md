@@ -3,7 +3,7 @@ title: Media Participations
 member_url: https://www.media-participations.com/
 geographies: ["France"]
 based: ["France"]
-ig: [""] 
+ig: []
 services: 
 tags: [""]
 categories: ["Publisher"]
@@ -17,4 +17,6 @@ permalink: ""
 date: 
 founding_member: true
 featureImage: "https://www.media-participations.com/assets/img/logo/mediaparticipation.jpg"
+featured: true
+anchor: false
 ---

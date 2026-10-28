@@ -3,7 +3,7 @@ title: Penguin Random House Grupo Editorial
 member_url: https://www.penguinlibros.com/es/
 geographies: ["Argentina", "USA", "Spain", "Colombia","México","Chile","Perù","Uruguay",]
 based: ["Spain"]
-ig: ["LCP"] 
+ig: ["LCP"]
 services: 
 tags: [""]
 categories: ["Publisher"]
@@ -17,4 +17,6 @@ permalink: ""
 date:  "2024-07-29"
 founding_member: true
 featureImage: "https://www.penguinrandomhousegrupoeditorial.com/wp-content/themes/prh/dist/images/common/logo-penguinrandomhousegrupoeditorial.svg"
+featured: true
+anchor: false
 ---

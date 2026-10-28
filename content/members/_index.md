@@ -1,7 +1,6 @@
 ---
-title: "Members"
-author: "EDRLab"
-tags: ["index"]
+title: Member directory
+description: Browse the organizations that are members of EDRLab, by country, activity and collaboration.
+ig_labels:
+  LCP: Readium LCP
 ---
-
-You can search or browse members list by professions, services provided and collaboration to EDRLab mains activities.

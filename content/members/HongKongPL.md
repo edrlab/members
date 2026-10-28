@@ -3,10 +3,10 @@ title: Hong Kong Public Library
 member_url: https://www.hkpl.gov.hk/
 geographies: ["Hong Kong"]
 based: ["Hong Kong"]
-ig: ["LCP"] 
+ig: ["LCP"]
 services: 
 tags: [""]
-categories: ["National Library"]
+categories: ["National library"]
 summary: "
 Operated by the Leisure and Cultural Services Department of HKSAR Government, the Hong Kong Public Library adopted LCP for ebook ressources. LCP server and mobile applications (android +iOS) developped by Wafer Systems (Asia) Limited."
 press:
@@ -17,4 +17,6 @@ showDate: false
 permalink: ""
 date: 
 featureImage: "https://members.edrlab.org/images/hkpl.png"
+featured: true
+anchor: false
 ---

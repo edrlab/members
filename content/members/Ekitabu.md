@@ -3,10 +3,10 @@ title: eKitabu
 member_url: https://www.ekitabu.com/
 geographies: ["Kenya"]
 based: ["Kenya"]
-ig: [""] 
+ig: []
 services: 
 tags: [""]
-categories: ["Ebook Distributor"]
+categories: ["Ebook distributor"]
 summary: "Accessible digital content for inclusive and quality education"
 press:
 active: true
@@ -17,4 +17,6 @@ permalink: ""
 date: 
 founding_member: true
 featureImage: "https://members.edrlab.org/images/ekitabu.png"
+featured: true
+anchor: false
 ---

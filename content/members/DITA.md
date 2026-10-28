@@ -2,11 +2,11 @@
 title: DITA
 member_url: 
 geographies: ["Worldwide"]
-based: ["US - USA"]
-ig: [] 
+based: ["United States"]
+ig: []
 services: []
 tags: []
-categories: ['Consultant', 'Reading App Developer']
+categories: ["Consultant", "Reading app developer"]
 summary: "DITA is a consulting company, which can develop your reading system, based on the Readium Mobile toolkits."
 active: true
 layout: members
@@ -15,4 +15,6 @@ showDate: false
 permalink: ""
 date: 
 featureImage: 
+featured: false
+anchor: false
 ---

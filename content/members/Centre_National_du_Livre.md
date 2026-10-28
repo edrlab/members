@@ -3,10 +3,10 @@ title: Centre National du Livre
 member_url: https://centrenationaldulivre.fr/
 geographies: ["France"]
 based: ["France"]
-ig: [""] 
+ig: []
 services: 
 tags: [""]
-categories: ["Government Entity"]
+categories: ["Government entity"]
 summary: ""
 press:
 active: true
@@ -16,4 +16,6 @@ showDate: false
 permalink: ""
 date: 
 featureImage: "https://centrenationaldulivre.fr/sites/default/files/styles/large/public/2020-02/Logo%20CNL.jpg?"
+featured: true
+anchor: false
 ---

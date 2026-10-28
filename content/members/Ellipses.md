@@ -4,7 +4,7 @@ member_url: https://www.editions-ellipses.fr/
 geographies: ["France"]
 based: ["France"]
 ig: ["LCP"]
-crossroads: [""]
+crossroads: []
 services:
 tags: [""]
 categories: ["Publisher"]
@@ -17,4 +17,6 @@ showDate: false
 permalink: ""
 date: "2024-04-22"
 featureImage: "https://www.editions-ellipses.fr/img/ellipses-logo-1564132122.jpg"
+featured: true
+anchor: false
 ---

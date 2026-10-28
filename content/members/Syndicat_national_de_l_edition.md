@@ -3,11 +3,11 @@ title: Syndicat national de l'édition (SNE)
 member_url: https://www.sne.fr/
 geographies: ["France"]
 based: ["France"]
-ig: [""]
-crossroads: ["Sustainable Development Goals"] 
+ig: []
+crossroads: ["Sustainable Development Goals"]
 services: 
 tags: ["Accessibility", "Standards"]
-categories: ["Trade Organization"]
+categories: ["Trade organization"]
 summary: "The French Publishers Association (SNE) is France’s trade association of book publishers. It represents approximately 720 member companies whose combined business endeavors account for the bulk of French publishing."
 press:
 active: true
@@ -18,4 +18,6 @@ permalink: ""
 date: 
 founding_member: true
 featureImage: "https://members.edrlab.org/images/sne.png"
+featured: true
+anchor: false
 ---

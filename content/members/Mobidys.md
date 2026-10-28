@@ -3,10 +3,10 @@ title: Mobidys
 member_url: https://www.mobidys.com
 geographies: ["France", "Spain"]
 based: ["France"]
-ig: [""] 
+ig: []
 services: 
 tags: [""]
-categories: ["Specialized Library"]
+categories: ["Specialized library"]
 summary: "adapts ebooks to the needs of dyslexic people, using its FROG EPUB extension."
 press:
 active: false
@@ -17,4 +17,6 @@ permalink: ""
 date: 
 featureImage: "https://www.mobidys.com/wp-content/uploads/2020/09/logo-Mobidys-orange-simple.png"
 draft: true
+featured: false
+anchor: false
 ---

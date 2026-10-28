@@ -3,10 +3,10 @@ title: Dilicom
 member_url: https://www.dilicom.net/
 geographies: ["France"]
 based: ["France"]
-ig: [""] 
+ig: []
 services: 
 tags: [""]
-categories: ["Technology Provider"]
+categories: ["Technology provider"]
 summary: "the hub by which book orders flow through in France; Dilicom also manages the B2B exchanges related to the national ebook lending solution Prêt Numérique en Bibliothèque."
 press:
 active: true
@@ -16,4 +16,6 @@ showDate: false
 permalink: ""
 date: 
 featureImage: "https://github.com/edrlab/members/images/dilicom.png"
+featured: true
+anchor: false
 ---

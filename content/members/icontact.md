@@ -3,10 +3,10 @@ title: Icontact BV
 member_url: "http://www.icontact.nl/"
 geographies: ["Worldwide", "Netherlands"]
 based: ["Netherlands"]
-ig: [""] 
+ig: []
 services: 
 tags: [""]
-categories: ["Technology Provider"]
+categories: ["Technology provider"]
 summary: "The developer of a well-known EPUB watermark solution."
 press:
 active: true
@@ -16,4 +16,6 @@ showDate: false
 permalink: ""
 date: 
 featureImage: "https://members.edrlab.org/images/icontact.png"
+featured: true
+anchor: false
 ---

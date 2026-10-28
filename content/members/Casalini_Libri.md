@@ -3,10 +3,10 @@ title: Casalini Libri
 member_url: https://www.casalini.it/
 geographies: ["Italy"]
 based: ["Italy"]
-ig: ["LCP"] 
+ig: ["LCP"]
 services: 
 tags: [""]
-categories:  ["Ebook Distributor"] 
+categories: ["Ebook distributor"]
 summary: "One of the leading suppliers of publications from across Southern Europe to libraries and institutions worldwide."
 press: https://www.edrlab.org/2020/02/17/new-member-casalini-libri/
 active: true
@@ -16,4 +16,6 @@ showDate: false
 permalink: ""
 date: 
 featureImage: "https://www.casalini.it/web_content/img/logo_casalini.png"
+featured: true
+anchor: false
 ---

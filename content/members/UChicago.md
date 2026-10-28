@@ -2,8 +2,8 @@
 title: University of Chicago
 member_url: https://www.uchicago.edu/
 geographies: ["USA"]
-based: ["USA"]
-ig: ["LCP"] 
+based: ["United States"]
+ig: ["LCP"]
 services: ["Distributors"]
 tags: ["Reading","LCP"]
 categories: ["Bookstore"]
@@ -16,4 +16,6 @@ showDate: false
 permalink: ""
 date: 
 featureImage: https://members.edrlab.org/images/Uchicago.svg
+featured: true
+anchor: false
 ---

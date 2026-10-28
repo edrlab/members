@@ -3,7 +3,7 @@ title: Neelwafurat
 member_url: https://www.neelwafurat.com/
 geographies: ["Lebanon", "Syria", "Jordan", "Egypt", "Kingdom of Saudi Arabia", "United Arab Emirates"]
 based: ["Lebanon"]
-ig: ["LCP"] 
+ig: ["LCP"]
 services: 
 tags: ["Reading", "LCP"]
 categories: ["Bookstore"]
@@ -16,4 +16,6 @@ showDate: false
 permalink: ""
 date: "2024-03-01"
 featureImage: "https://www.neelwafurat.com/graphics/common/NWF_logo.png"
+featured: true
+anchor: false
 ---

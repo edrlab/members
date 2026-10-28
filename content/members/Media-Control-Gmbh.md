@@ -4,10 +4,10 @@ member_url: https://www.ceebo.de/
 geographies: ["Germany"]
 based: ["Germany"]
 ig: ["LCP"]
-crossroads:
+crossroads: []
 services:
 tags:
-categories: ["Ebook Distributor"]
+categories: ["Ebook distributor"]
 summary: "Their central eBook download platform supports the shared interests of retailers, publishers , and customers in the distribution and use of eBooks and digital audiobooks."
 press:
 active: true
@@ -17,4 +17,6 @@ showDate: false
 permalink: ""
 date:
 featureImage: "https://www.ceebo.de/static/008b8bae0765973747d8c2ef8cbc0392/45cb2/ceebo_logo.webp"
+featured: true
+anchor: false
 ---

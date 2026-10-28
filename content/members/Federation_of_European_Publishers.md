@@ -3,10 +3,10 @@ title: Federation of European Publishers
 member_url: https://fep-fee.eu/
 geographies: ["Europe", "Belgium"]
 based: ["Belgium"]
-ig: [""] 
+ig: []
 services: 
 tags: [""]
-categories: ["Trade Organization"]
+categories: ["Trade organization"]
 summary: "the voice of publishers in Europe."
 press:
 active: false
@@ -17,5 +17,7 @@ showDate: false
 permalink: ""
 date: 
 featureImage: "https://members.edrlab.org/images/FEP.jpg"
+featured: false
+anchor: false
 ---
 

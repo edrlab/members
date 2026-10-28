@@ -2,12 +2,12 @@
 title: Allvit 
 member_url: https://allvit.no/
 geographies: [“Norway”]
-based: [“Norway”]
+based: ["Norway"]
 ig: ["LCP"]
-crossroads:
+crossroads: []
 services: 
 tags: 
-categories: ["Bookstore"] 
+categories: ["Bookstore"]
 summary: "Allvit provides digital academic books in the browser to Norwegian students"
 press:
 active: true
@@ -17,6 +17,8 @@ showDate: false
 permalink: ""
 date: 
 featureImage: "https://members.edrlab.org/images/allvit.png"
+featured: true
+anchor: false
 ---
 
 

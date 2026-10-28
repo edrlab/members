@@ -2,11 +2,11 @@
 title: Messagerie ADP (Sogides)
 member_url: https://www.messageries-adp.com/
 geographies: ["Worldwide"]
-based: ["CA - Canada"]
-ig: [] 
+based: ["Canada"]
+ig: []
 services: []
 tags: []
-categories: ['Ebook Distributor']
+categories: ["Ebook distributor"]
 summary: "Messageries ADP is Canada's leading French-language book and ebook marketer and distributor, representing more than 300 Quebec and European French-language publishers."
 active: true
 layout: members
@@ -15,4 +15,6 @@ showDate: false
 permalink: ""
 date: 
 featureImage: https://www.messageries-adp.com/images/logo_ADP.png
+featured: true
+anchor: false
 ---

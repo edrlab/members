@@ -3,7 +3,7 @@ title: Hachette Livre
 member_url: https://www.hachette.com/en/
 geographies: ["France", "USA", "Spain"]
 based: ["France"]
-ig: ["LCP"] 
+ig: ["LCP"]
 services: 
 tags: ["Accessibility"]
 categories: ["Publisher"]
@@ -17,4 +17,6 @@ permalink: ""
 date: 
 founding_member: true
 featureImage: "https://members.edrlab.org/images/h.png"
+featured: true
+anchor: true
 ---

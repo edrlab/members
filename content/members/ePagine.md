@@ -3,7 +3,7 @@ title: ePagine
 member_url: https://www.epagine.fr/
 geographies: ["France"]
 based: ["France"]
-ig: ["LCP"] 
+ig: ["LCP"]
 services: 
 tags: [""]
 categories: ["Bookstore"]
@@ -16,4 +16,6 @@ showDate: false
 permalink: ""
 date: 
 featureImage: "https://static.epagine.fr/mediaweb3/6/logo_epagine_hexa.png"
+featured: true
+anchor: false
 ---

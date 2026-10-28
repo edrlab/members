@@ -3,10 +3,10 @@ title: KReader Pvt Ltd
 member_url: https://www.linkedin.com/company/kreader
 geographies: ["Sri Lanka"]
 based: ["Sri Lanka"]
-ig: [""] 
+ig: []
 services: 
 tags: ["Reading", "LCP"]
-categories: ["Content Producer"]
+categories: ["Content producer"]
 summary: "Sri Lankan book publishing and e-commerce company, specialised in delivering printed books to their reader base within Sri Lanka and Sri Lankan expats. They are developing a complete publishing platform called KBOOKS and use LCP to protect their content, with mobile reading apps based on the Readium Toolkit."
 press:
 active: true
@@ -16,4 +16,6 @@ showDate: false
 permalink: ""
 date: "2024-02-20"
 featureImage: "https://www.kreader.lk/images/kreader_app.png"
+featured: true
+anchor: false
 ---

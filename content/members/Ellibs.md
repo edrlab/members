@@ -3,10 +3,10 @@ title: Ellibs
 member_url: https://www.ellibs.com/
 geographies: ["Finland"]
 based: ["Finland"]
-ig: ["LCP"] 
+ig: ["LCP"]
 services: 
 tags: [""]
-categories:  ["Ebook Distributor"] 
+categories: ["Ebook distributor"]
 summary: "an e-bookstore operating in Finland. Ellibs is moving its solution to LCP."
 press:
 active: true
@@ -16,4 +16,6 @@ showDate: false
 permalink: ""
 date: 
 featureImage: "https://www.ellibs.com/themes/ellibs/img/ellibs_logo_orangetext.png"
+featured: true
+anchor: false
 ---

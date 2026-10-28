@@ -3,10 +3,10 @@ title: Pubfront
 member_url: www.pubfront.com
 geographies: ["Worldwide"]
 based: ["Denmark"]
-ig: [] 
+ig: []
 services: []
 tags: []
-categories: ['Reading App Developer', 'Technology Provider']
+categories: ["Reading app developer", "Technology provider"]
 summary: "Software company that helps publishers set up their own online retail stores"
 active: true
 layout: members
@@ -15,4 +15,6 @@ showDate: false
 permalink: ""
 date: 
 featureImage: https://s3-eu-west-1.amazonaws.com:443/pubfront-mini-web/media/images/pubfrontlogo.original.png
+featured: true
+anchor: false
 ---

@@ -3,10 +3,10 @@ title: Fundação Dorina Nowill
 member_url: https://fundacaodorina.org.br/
 geographies: ["Brazil"]
 based: ["Brazil"]
-ig: ["Accessibility"] 
+ig: []
 services: 
 tags: []
-categories:  ["Specialized Library"]
+categories: ["Specialized library"]
 summary: "<strong>Fundação Dorina Nowill para Cegos</strong> is a non-profit and philanthropic organization. We have been working for to the social inclusion of blind and low-vision children, young people, adults, and the elderly for over seven decades."
 press:
 active: true
@@ -16,6 +16,8 @@ showDate: false
 permalink: ""
 date:  "2024-02-21"
 featureImage: "https://epwqeyeh47b.exactdn.com/wp-content/uploads/2024/03/logomarca-fundacao-dorina-nowill-para-cegos-horizontal-transparente.svg"
+featured: true
+anchor: false
 ---
 
 

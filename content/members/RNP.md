@@ -3,10 +3,10 @@ title: Rede Nacional de Ensino e Pesquisa (RNP)
 member_url: http://www.rnp.br
 geographies: ["Brazil"]
 based: ["Brazil"]
-ig: [""] 
+ig: []
 services: 
 tags: [""]
-categories: ["Technology providers "]
+categories: ["Technology provider"]
 summary: "Rede Nacional de Ensino e Pesquisa is a non-profit organization which operates and develops the national advanced networking infrastructure, known as the Ipê network, for cooperation and communication in education, research, health and culture. RNP is also operating the deployment of the LCP DRM for the Brazilian PNLD program, which will soon provide ebooks to millions of students in Brazil."
 press:
 active:  false
@@ -17,4 +17,7 @@ showDate: false
 permalink: ""
 date: 
 featureImage: "https://members.edrlab.org/images/rnp.png"
---- 
+featured: false
+anchor: false
+---
+ 

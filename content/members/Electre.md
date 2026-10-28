@@ -3,10 +3,10 @@ title: Electre Data Services
 member_url: https://accueil.electre.com/
 geographies: ["France"]
 based: ["France"]
-ig: [""] 
+ig: []
 services: 
 tags: ["Data"]
-categories: ["Content Producer"]
+categories: ["Content producer"]
 summary: "Service providersprovides a bibliographic database of all books produced in France."
 press:
 active: true
@@ -16,4 +16,6 @@ showDate: false
 permalink: ""
 date: 
 featureImage: "https://members.edrlab.org/images/electre.png"
+featured: true
+anchor: false
 ---

@@ -5,10 +5,10 @@ member_url: https://www.mladinska-Knjiga.si/
 geographies: ["Worldwide"]
 based: ["Slovenia"]
 ig: ["LCP"]
-crossroads:
+crossroads: []
 services:
 tags:
-categories: ["Ebook Distributor", "Publisher"]
+categories: ["Ebook distributor", "Publisher"]
 summary: "Mladinska Knjiga Zaloba is the biggest publisher and retail bookseller chain in Slovenia with 50 stores across country."
 press:
 active: true
@@ -18,4 +18,6 @@ showDate: false
 permalink: ""
 date:
 featureImage: "https://members.edrlab.org/images/MKlogo.png"
+featured: true
+anchor: false
 ---

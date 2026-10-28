@@ -2,11 +2,11 @@
 title: Hiperlink
 member_url: https://www.hiperlink.com.tr/
 geographies: ["Worldwide"]
-based: ["TR - Turkey"]
-ig: [] 
+based: ["Turkey"]
+ig: []
 services: []
 tags: []
-categories: ["Ebook Distributor", "Technology Provider"]
+categories: ["Ebook distributor", "Technology provider"]
 summary: "<p>Hiperlink, with its experienced team of experts, connects users with information resources available in print and electronic formats. Since its inception, Hiperlink has focused on customer satisfaction , utilizing technology at the highest level quickly and securely, developing its infrastructure accordingly, and training its personnel in this direction.</p>
 <p>Publisher: Hiperlink, which also undertakes ambitious work in the field of publishing, has a publishing policy that respects intellectual capital and aims to protect the rights of authors. In line with this, it has contributed more than 500 publications to Turkish literature to date.</p>
 <p>Electronic (Digital Library): Embracing the vision of transmitting and preserving cultural memory for future generations, Hiperkitap has brought more than 20,000 publications to the digital library environment under its brand.</p>
@@ -23,4 +23,6 @@ showDate: false
 permalink: ""
 date: 
 featureImage: https://www.hiperlink.com.tr/bize-dair/kurumsal-kimlik
+featured: true
+anchor: false
 ---

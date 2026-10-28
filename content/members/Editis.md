@@ -3,7 +3,7 @@ title: Editis
 member_url: https://www.editis.com/
 geographies: ["France"]
 based: ["France"]
-ig: [""] 
+ig: []
 services: 
 tags: [""]
 categories: ["Publisher"]
@@ -17,4 +17,6 @@ permalink: ""
 date: 
 founding_member: true
 featureImage: "https://members.edrlab.org/images/editis.png"
+featured: true
+anchor: true
 ---

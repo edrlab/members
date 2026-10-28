@@ -3,11 +3,11 @@ title: De Marque
 member_url: https://www.demarque.com/
 geographies: ["Worldwide", "Canada", "Italy", "Spain", "Switzerland", "Belgium"]
 based: ["Canada"]
-ig: ["LCP"] 
-crossroads: ["Readium", "W3C"] 
+ig: ["LCP"]
+crossroads: ["Readium", "W3C"]
 services: 
 tags: ["Accessibility"]
-categories: ["Ebook Distributor", "Technology Provider"]
+categories: ["Ebook distributor", "Technology provider"]
 summary: "the largest ebook distributor in Canada."
 press:
 active: true
@@ -17,4 +17,6 @@ showDate: false
 permalink: ""
 date: 
 featureImage: "https://members.edrlab.org/images/DeMarque.png"
+featured: true
+anchor: false
 ---

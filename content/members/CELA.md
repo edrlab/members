@@ -3,10 +3,10 @@ title: CELA
 member_url: https://celalibrary.ca/
 geographies: ["Canada"]
 based: ["Canada"]
-ig: ["Accessibility"] 
+ig: []
 services: 
 tags: ["Accessibility", "DAISY"]
-categories: ["Specialized Library"]
+categories: ["Specialized library"]
 summary: "The Centre for Equitable Library Access is a national non-profit organisation established by Canadian public libraries to champion the fundamental right of Canadians with print disabilities to access media and reading materials in the format of their choice."
 press:
 active: true
@@ -16,4 +16,6 @@ showDate: false
 permalink: ""
 date: 
 featureImage: "https://members.edrlab.org/images/Cela_logo.jpeg"
+featured: true
+anchor: false
 ---

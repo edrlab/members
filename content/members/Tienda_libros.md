@@ -2,8 +2,8 @@
 title: Tienda Libros
 member_url: https://tiendalibros.com/
 geographies: ["Worldwide", "Latin America"]
-based: ["USA"]
-ig: ["LCP"] 
+based: ["United States"]
+ig: ["LCP"]
 services: 
 tags: ["Reading", "LCP"]
 categories: ["Bookstore"]
@@ -16,4 +16,6 @@ showDate: false
 permalink: ""
 date: "2024-03-26"
 featureImage: "https://members.edrlab.org/images/tiendalibros.png"
+featured: true
+anchor: false
 ---

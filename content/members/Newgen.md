@@ -1,3 +1,13 @@
+---
+title: "Newgen"
+draft: true
+active: true
+layout: members
+categories: []
+based: []
+featured: false
+anchor: false
+---
 
 ---
 title: Newgen KnowledgeWorks

@@ -3,10 +3,10 @@ title: ePUBoo.com
 member_url: https://www.epuboo.com/en/
 geographies: ["Worldwide", "Spain"]
 based: ["Spain"]
-ig: [""] 
+ig: []
 services: ["ebook creation", "ebook Accessibility", "ONIX metadata"] 
 tags: [""]
-categories: ["Ebook Distributor", "Content Producer"]
+categories: ["Ebook distributor", "Content producer"]
 summary: "Serving the publishing industry since 2010: ebook creation, global distribution, ONIX metadata generator, accessibility specialists for ePub and PDF. One panel, endless possibilities."
 press:
 active: true
@@ -16,6 +16,8 @@ showDate: false
 permalink: ""
 date: 
 featureImage: "https://www.epuboo.com/en/wp-content/uploads/logo-oo-epuboo-large.jpg"
+featured: true
+anchor: false
 ---
 <p><i>A 'human' system.</i> At your disposal a control panel designed for the management of all processes related to digital publishing sector.<br>
 Through the tools at your disposal you will take giant steps in the ebook business. You will be followed by passionate people who understand your needs and goals. We listen to our customers and work together to create a professional experience of 'trust' and a relationship that is not only economic, but also 'human'.</p>

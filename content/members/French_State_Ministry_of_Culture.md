@@ -3,10 +3,10 @@ title: "French State, represented by the Ministry of Culture and Communication."
 member_url: https://www.culture.gouv.fr/en
 geographies: ["France"]
 based: ["France"]
-ig: [""] 
+ig: []
 services: 
 tags: [""]
-categories: ["Government Entity"]
+categories: ["Government entity"]
 summary: ""
 press:
 active: true
@@ -16,4 +16,7 @@ showDate: false
 permalink: ""
 date: 
 featureImage: "https://members.edrlab.org/images/logo_mcc.png"
---- 
+featured: true
+anchor: false
+---
+ 

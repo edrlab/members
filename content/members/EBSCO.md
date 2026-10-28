@@ -2,12 +2,12 @@
 title: EBSCO Information Services 
 member_url: https://www.ebsco.com/
 geographies: [“worldwide]
-based: [“USA”]
+based: ["United States"]
 ig: ["LCP"]
-crossroads:
+crossroads: []
 services: 
 tags: [""]
-categories: ["Ebook Distributor"]
+categories: ["Ebook distributor"]
 summary: "EBSCO is a leading provider of research databases, e-journal and e-package subscription management, book collection development and acquisition management, and a major provider of library technology, e-books and clinical decision solutions for universities, colleges, hospitals, corporations, government, K12 schools and public libraries worldwide"
 press:
 active: true
@@ -17,4 +17,6 @@ showDate: false
 permalink: ""
 date: 
 featureImage: "https://members.edrlab.org/images/ebsco.png"
+featured: true
+anchor: true
 ---
