@@ -1,0 +1,12 @@
+{{- /* Page header. Context: dict "title" "lead" "art" (file name in static/images/kit/) "crumb" (bool) */ -}}
+<section class="k-hero{{ with .class }} {{ . }}{{ end }}">
+  <div class="k-wrap k-hero__in">
+    <div class="k-hero__text">
+      {{- if .crumb }}<p class="k-crumbs"><a href="{{ "/" | relURL }}">Home</a> / {{ .title }}</p>{{ end }}
+      <h1>{{ .title }}</h1>
+      {{- with .lead }}<p class="k-lead">{{ . }}</p>{{ end }}
+      {{- with .extra }}{{ . }}{{ end }}
+    </div>
+    {{- with .art }}<div class="k-hero__art"><img src="{{ printf "images/kit/%s" . | relURL }}" alt="" width="380" loading="eager"></div>{{ end }}
+  </div>
+</section>

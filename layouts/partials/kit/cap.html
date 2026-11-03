@@ -1,0 +1,2 @@
+{{- /* Capitalises the first letter of a text (several summaries start with a lower-case word) */ -}}
+{{- $s := trim . " " }}{{ if $s }}{{ upper (substr $s 0 1) }}{{ substr $s 1 }}{{ end }}

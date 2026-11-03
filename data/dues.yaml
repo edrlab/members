@@ -1,0 +1,18 @@
+- characteristics: Non-profit organization with budget lower than 2 M€
+  amount: '500'
+- characteristics: Company with revenue lower than 2 M€ and less than 20 employees
+  amount: '500'
+- characteristics: Non-profit organization with budget larger than 2 M€; Major academic partner member
+  amount: '1000'
+- characteristics: Company with revenue between 2 and 10 M€ and less than 50 employees
+  amount: '1000'
+- characteristics: Company with revenue between 10 and 50 M€ and less than 250 employees
+  amount: '1800'
+- characteristics: Company with revenue larger than 50 M€ or more than 250 employees
+  amount: '3000'
+- characteristics: Membership organization with less than 50 members
+  amount: '4000'
+- characteristics: Membership organization with more than 50 members
+  amount: '7000'
+- characteristics: Major industrial partner member
+  amount: '20000'

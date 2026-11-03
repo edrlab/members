@@ -1,0 +1,49 @@
+{{- define "main" }}
+<div class="k" id="content">
+  {{ partial "kit/hero.html" (dict "title" .Title "lead" .Params.lead "art" "figures.png") }}
+  <section class="k-section">
+    <div class="k-wrap">
+      <ul class="k-grid k-grid--2">
+        {{- range .Pages.ByWeight }}
+        <li>
+          <article class="k-card k-card--feature">
+            <div class="k-card__img"><img src="{{ printf "images/kit/%s" (.Params.image | default "remote-support.png") | relURL }}" alt="" loading="lazy"></div>
+            <div class="k-card__body">
+              <h2 style="font-size:24px">{{ .Title }}</h2>
+              <div class="k-card__text">{{ .Content }}</div>
+              {{- with .Params.link }}<a class="k-link" href="{{ .url }}" rel="noopener">{{ .label }} {{ partial "kit/icon.html" "arrow-up-right" }}</a>{{ end }}
+            </div>
+          </article>
+        </li>
+        {{- end }}
+      </ul>
+    </div>
+  </section>
+
+  {{- with site.GetPage "section" "projects" }}
+  {{- $collab := where .Pages.ByWeight "Params.group" "collab" }}
+  {{- if gt (len $collab) 0 }}
+  <section class="k-section" style="padding-top:0">
+    <div class="k-wrap">
+      <h2 class="k-group-title">{{ $.Params.projects_title | default "Collaborative projects" }}</h2>
+      <ul class="k-grid k-grid--3">
+        {{- range $collab }}
+        {{- $project := . }}
+        <li>
+          <article class="k-card">
+            <span class="k-icobox k-icobox--sand">{{ partial "kit/icon.html" (.Params.icon | default "book-open") }}</span>
+            <h3>{{ .Title }}</h3>
+            <div>{{ .Content }}</div>
+            {{- with .Params.link }}
+            <a class="k-link" href="{{ .url }}" rel="noopener">{{ .label | default "Learn more" }}<span class="k-sr"> about {{ $project.Title }}</span> {{ partial "kit/icon.html" "arrow-right" }}</a>
+            {{- end }}
+          </article>
+        </li>
+        {{- end }}
+      </ul>
+    </div>
+  </section>
+  {{- end }}
+  {{- end }}
+</div>
+{{- end }}

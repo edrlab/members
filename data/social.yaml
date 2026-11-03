@@ -1,0 +1,12 @@
+- name: EDRLab on GitHub
+  icon: github
+  url: https://github.com/edrlab/members
+- name: EDRLab on Bluesky
+  icon: bluesky
+  url: https://bsky.app/profile/edrlab.org
+- name: EDRLab on LinkedIn
+  icon: linkedin
+  url: https://www.linkedin.com/company/european-digital-reading-lab
+- name: RSS feed of new members
+  icon: rss
+  url: /index.xml

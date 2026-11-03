@@ -1,0 +1,23 @@
+{{- define "main" }}
+<div class="k" id="content">
+  {{ partial "kit/hero.html" (dict "title" .Title "lead" .Params.lead "art" "deck-chair.png") }}
+  <section class="k-section">
+    <div class="k-wrap">
+      <ul class="k-grid k-grid--pair">
+        {{- range site.Data.voices }}
+        <li>
+          <figure class="k-quote" style="margin:0">
+            <span class="k-icobox">{{ partial "kit/icon.html" "quote" }}</span>
+            <blockquote>{{ .quote }}</blockquote>
+            <footer>
+              {{- if .logo }}<img src="{{ .logo | relURL }}" alt="">{{ end }}
+              <span><b>{{ .name }}</b>{{ .role }}, {{ .organization }}</span>
+            </footer>
+          </figure>
+        </li>
+        {{- end }}
+      </ul>
+    </div>
+  </section>
+</div>
+{{- end }}

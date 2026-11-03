@@ -1,0 +1,132 @@
+{{- define "main" }}
+{{- $members := site.GetPage "/members" }}
+{{- $memberPages := where site.RegularPages "Section" "members" }}
+{{- $countryList := slice }}
+{{- range $memberPages }}
+  {{- with .Params.based }}
+    {{- $country := index . 0 }}
+    {{- if and $country (not (in $countryList $country)) }}
+      {{- $countryList = $countryList | append $country }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+{{- $countryList = sort $countryList }}
+{{- $activities := slice }}
+{{- range $memberPages }}
+  {{- range .Params.categories }}
+    {{- if not (in $activities .) }}
+      {{- $activities = $activities | append . }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+{{- $activities = sort $activities }}
+<div class="k" id="content">
+  <section class="k-hero">
+    <div class="k-wrap k-hero__in">
+      <div class="k-hero__text">
+        <h1>{{ .Params.intro.title }}</h1>
+        <p class="k-lead">{{ .Params.intro.text }}</p>
+        <div class="k-row" style="margin-top:20px">
+          <a class="k-btn" href="#request">{{ .Params.hero.primary | default "Go to the request form" }}</a>
+          <a class="k-link" href="#dues">{{ .Params.hero.secondary | default "See the dues table" }} {{ partial "kit/icon.html" "arrow-right" }}</a>
+        </div>
+      </div>
+      <div class="k-hero__art"><img src="{{ "images/kit/about.png" | relURL }}" alt="" width="420" loading="eager"></div>
+    </div>
+  </section>
+
+  <section class="k-section k-section--tint" aria-labelledby="k-ben-h">
+    <div class="k-wrap">
+      <div class="k-join-benefits-head">
+        <h2 id="k-ben-h">{{ .Params.benefits_title }}</h2>
+      </div>
+      <ul class="k-benefits k-benefits--join">
+        {{- range .Params.benefits }}
+        <li>
+          <span class="k-icobox k-icobox--sand">{{ partial "kit/icon.html" (.icon | default "users") }}</span>
+          <h3>{{ .title }}</h3>
+          <p>{{ .text }}</p>
+        </li>
+        {{- end }}
+      </ul>
+    </div>
+  </section>
+
+  <section class="k-section" id="dues" aria-labelledby="k-dues-h">
+    <div class="k-wrap k-join-dues">
+      <div class="k-join-dues__intro">
+        <h2 id="k-dues-h">{{ .Params.dues_title }}</h2>
+        {{ with .Params.dues_intro }}<p class="k-lead" style="font-size:16px;margin-top:12px">{{ . }}</p>{{ end }}
+      </div>
+      <div class="k-tablewrap" style="background:#fff">
+        <table class="k-join-dues__table">
+          <thead><tr><th scope="col">Cat.</th><th scope="col">Annual budget or revenue</th><th scope="col" class="k-num">Annual dues</th></tr></thead>
+          <tbody>
+            {{- range $idx, $due := site.Data.dues }}
+            <tr>
+              <td class="k-join-dues__cat">{{ add $idx 1 }}</td>
+              <th scope="row" style="font-weight:500;color:var(--edr-ink)">{{ $due.characteristics }}</th>
+              <td class="k-num">{{ $due.amount }} €</td>
+            </tr>
+            {{- end }}
+          </tbody>
+        </table>
+      </div>
+      {{ with .Params.dues_note }}<p class="k-note k-join-dues__note">{{ . }}</p>{{ end }}
+    </div>
+  </section>
+
+  <section class="k-section" aria-labelledby="k-steps-h">
+    <div class="k-wrap">
+      <h2 id="k-steps-h" style="margin-bottom:24px">{{ .Params.steps_title }}</h2>
+      <ol class="k-steps k-steps--join">
+        {{- range .Params.steps }}
+        <li>
+          <h3>{{ .title | default . }}</h3>
+          {{ with .text }}<p>{{ . }}</p>{{ end }}
+        </li>
+        {{- end }}
+      </ol>
+    </div>
+  </section>
+
+  <section class="k-section" id="request" aria-labelledby="k-form-h">
+    <div class="k-wrap">
+      <div class="k-join-request">
+        <div class="k-join-request__intro">
+          <h2 id="k-form-h">{{ .Params.form.title }}</h2>
+          {{ with .Params.form.lead }}<p>{{ . }}</p>{{ end }}
+          <img src="{{ "images/kit/phone.png" | relURL }}" alt="" width="180" loading="lazy">
+        </div>
+        <div class="k-join-form">
+          <form id="k-join-form" novalidate>
+            <div class="k-join-form__grid">
+              <div class="k-field"><label for="k-org-name">Organization name *</label><input id="k-org-name" name="org_name" type="text" required data-required><p class="k-err" id="k-org-name-err"></p></div>
+              <div class="k-field"><label for="k-website">Website *</label><input id="k-website" name="website" type="url" placeholder="https://" required data-required><p class="k-err" id="k-website-err"></p></div>
+              <div class="k-field"><label for="k-country">Country *</label><select id="k-country" name="country" required data-required><option value="">Select a country</option>{{ range $countryList }}<option value="{{ . }}">{{ . }}</option>{{ end }}</select><p class="k-err" id="k-country-err"></p></div>
+              <div class="k-field"><label for="k-activity">Activity *</label><select id="k-activity" name="activity" required data-required><option value="">Select an activity</option>{{ range $activities }}<option value="{{ . }}">{{ . }}</option>{{ end }}</select><p class="k-err" id="k-activity-err"></p></div>
+              <div class="k-field k-field--full"><label for="k-size">Size of the organization *</label><select id="k-size" name="size" required data-required><option value="">Select a budget or revenue range</option>{{ range $idx, $due := site.Data.dues }}<option value="{{ add $idx 1 }}" data-fee="{{ $due.amount }}">{{ $due.characteristics }}</option>{{ end }}</select><p class="k-note" id="k-size-fee" hidden></p><p class="k-err" id="k-size-err"></p></div>
+              <div class="k-field"><label for="k-contact-name">Contact name *</label><input id="k-contact-name" name="contact_name" type="text" required data-required><p class="k-err" id="k-contact-name-err"></p></div>
+              <div class="k-field"><label for="k-contact-email">Contact email *</label><input id="k-contact-email" name="contact_email" type="email" required data-required><p class="k-err" id="k-contact-email-err"></p></div>
+              <div class="k-field k-field--full"><label for="k-message">Message</label><textarea id="k-message" name="message" rows="5"></textarea></div>
+              <div class="k-field k-field--full"><label class="k-check"><input id="k-consent" name="consent" type="checkbox" required data-required> <span>{{ .Params.form.consent }}</span></label><p class="k-err" id="k-consent-err"></p></div>
+              <div class="k-field k-field--full"><button class="k-btn" type="submit" id="k-submit" disabled>{{ .Params.form.button }}</button></div>
+            </div>
+          </form>
+          <div class="k-join-confirm" id="k-join-confirm" hidden>
+            <h3>Thank you for your request.</h3>
+            <p>We have recorded your information and the EDRLab team will review it shortly.</p>
+            <p class="k-note">You can also use the <a class="k-link" href="https://www.edrlab.org/contact/" target="_blank" rel="noopener">EDRLab contact page {{ partial "kit/icon.html" "arrow-up-right" }}</a> for urgent questions.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="k-section">
+    <div class="k-wrap">
+      <p style="margin:0">{{ .Params.faq_link.text }} <a class="k-link" href="{{ "faq/" | relURL }}">{{ .Params.faq_link.label }} {{ partial "kit/icon.html" "arrow-right" }}</a></p>
+    </div>
+  </section>
+</div>
+{{- end }}

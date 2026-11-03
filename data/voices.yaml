@@ -1,0 +1,9 @@
+# Four cards, one per profile: publisher, distributor or bookseller, library, developer.
+# Quote: 40 words maximum, validated by the person quoted. Publish the page (remove `draft: true`
+# in content/voices/_index.md) only when the four cards are here.
+# - quote: ""
+#   name: ""
+#   role: ""
+#   organization: ""
+#   logo: "/images/xxx.png"
+[]

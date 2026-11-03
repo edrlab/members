@@ -1,0 +1,2 @@
+{{- /* Inline icon. Usage: {{ partial "kit/icon.html" "arrow-right" }}  (files: assets/icons/<name>.svg) */ -}}
+<span class="k-ico">{{ readFile (printf "assets/icons/%s.svg" .) | safeHTML }}</span>
