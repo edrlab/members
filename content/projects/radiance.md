@@ -4,7 +4,7 @@ weight: 8
 group: collab
 icon: image
 link:
-  url: https://www.edrlab.org/projects-2/
+  url: https://www.edrlab.org/projects-2/#1788357233612-f78d3168-c615
   label: Learn more
 build:
   render: never

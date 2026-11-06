@@ -9,4 +9,5 @@ showDate: false
 member_url: https://www.edrlab.org/readium-lcp/
 # featureImage: "https://www.edrlab.org/wp-content/uploads/2016/12/edrlab_mea_readium-lcp3.png"
 weight: 1
+draft: true
 ---
