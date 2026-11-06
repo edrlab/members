@@ -1,0 +1,4 @@
+# Canonical country name used in `based:` -> name of the shape in data/worldmap.json.
+# Only the names that differ need a line here.
+"United States": "United States of America"
+"Macedonia": "North Macedonia"

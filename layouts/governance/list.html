@@ -1,0 +1,22 @@
+{{- define "main" }}
+<div class="k" id="content">
+  {{ partial "kit/hero.html" (dict "title" .Title "art" "architecture.png") }}
+  <section class="k-section">
+    <div class="k-wrap">
+      <div class="k-cols">{{ .Content }}</div>
+      <h2 style="margin:56px 0 20px;color:var(--edr-deep-blue)">{{ .Params.board_title }}</h2>
+      <div class="k-tablewrap">
+        <table>
+          <thead><tr><th scope="col">Name</th><th scope="col">Organization</th><th scope="col">Role</th></tr></thead>
+          <tbody>
+            {{- range site.Data.board }}
+            <tr><th scope="row">{{ .name }}</th><td>{{ .organization }}</td><td>{{ .role }}</td></tr>
+            {{- end }}
+          </tbody>
+        </table>
+      </div>
+      {{- with .Params.election }}<p style="margin-top:24px"><a class="k-link" href="{{ .url }}" rel="noopener">{{ .label }} {{ partial "kit/icon.html" "arrow-right" }}</a></p>{{ end }}
+    </div>
+  </section>
+</div>
+{{- end }}

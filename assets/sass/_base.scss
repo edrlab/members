@@ -1,0 +1,149 @@
+// COLORS
+
+  :root {
+  /* Base palette */
+  --edr-orange: #ef7420;
+  --edr-periwinkle: #6975cf;
+  --edr-deep-blue: #2844a1;
+  --edr-sand: #edc883;
+  --edr-sky-blue: #8fbceb;
+  --edr-white: #ffffff;
+  --edr-navy: #1b3c6c;
+
+  /* Tints/shades derived via oklch for hover/press/subtle-bg states.
+     Never invented hues — only lightness/chroma steps off the 7 base colors. */
+  --edr-orange-hover: oklch(from var(--edr-orange) calc(l - 0.06) c h);
+  --edr-orange-press: oklch(from var(--edr-orange) calc(l - 0.12) c h);
+  --edr-orange-subtle: oklch(from var(--edr-orange) 0.96 0.03 h);
+
+  --edr-periwinkle-hover: oklch(from var(--edr-periwinkle) calc(l - 0.06) c h);
+  --edr-periwinkle-press: oklch(from var(--edr-periwinkle) calc(l - 0.12) c h);
+  --edr-periwinkle-subtle: oklch(from var(--edr-periwinkle) 0.95 0.025 h);
+
+  --edr-deep-blue-hover: oklch(from var(--edr-deep-blue) calc(l - 0.06) c h);
+  --edr-deep-blue-press: oklch(from var(--edr-deep-blue) calc(l - 0.12) c h);
+
+  --edr-navy-hover: oklch(from var(--edr-navy) calc(l - 0.06) c h);
+  --edr-navy-press: oklch(from var(--edr-navy) calc(l - 0.1) c h);
+
+  --edr-sand-subtle: oklch(from var(--edr-sand) 0.97 0.025 h);
+  --edr-sky-blue-subtle: oklch(from var(--edr-sky-blue) 0.96 0.02 h);
+
+  /* Neutrals (from navy/black axis — brand has no gray ramp, so we derive one
+     from --edr-navy's hue at low chroma, keeping neutrals from feeling generic-corporate) */
+  --edr-ink: #17181c;
+  --edr-gray-700: oklch(from var(--edr-navy) 0.35 0.015 h);
+  --edr-gray-500: oklch(from var(--edr-navy) 0.5 0.012 h);
+  --edr-gray-300: oklch(from var(--edr-navy) 0.75 0.01 h);
+  --edr-gray-100: oklch(from var(--edr-navy) 0.94 0.006 h);
+  --edr-gray-50: oklch(from var(--edr-navy) 0.975 0.004 h);
+
+  /* Semantic aliases */
+  --color-bg-page: var(--edr-white);
+  --color-bg-surface: var(--edr-white);
+  --color-bg-surface-subtle: var(--edr-gray-50);
+  --color-bg-dark: var(--edr-navy);
+
+  --color-text-primary: var(--edr-ink);
+  --color-text-secondary: var(--edr-gray-700);
+  --color-text-muted: var(--edr-gray-500);
+  --color-text-on-dark: var(--edr-white);
+  --color-text-heading: var(--edr-deep-blue);
+
+  --color-accent-primary: var(--edr-orange);
+  --color-accent-primary-hover: var(--edr-orange-hover);
+  --color-accent-primary-press: var(--edr-orange-press);
+  --color-accent-secondary: var(--edr-periwinkle);
+  --color-accent-secondary-hover: var(--edr-periwinkle-hover);
+  --color-accent-secondary-press: var(--edr-periwinkle-press);
+  --color-accent-secondary-subtle: var(--edr-periwinkle-subtle);
+  --color-accent-tertiary: var(--edr-navy);
+  --color-accent-tertiary-hover: var(--edr-navy-hover);
+  --color-accent-tertiary-press: var(--edr-navy-press);
+
+  --color-link: var(--edr-periwinkle);
+  --color-link-hover: var(--edr-deep-blue);
+
+  --color-border: var(--edr-gray-300);
+  --color-border-subtle: var(--edr-gray-100);
+  --color-focus-ring: var(--edr-periwinkle);
+
+  --color-success: #2c8a5b;
+  --color-warning: var(--edr-sand);
+  --color-danger: #d64545;
+
+  color-scheme: light;
+}
+
+
+// FONTS
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&display=swap');
+
+:root {
+  --font-poppins: 'Poppins', -apple-system, 'Segoe UI', sans-serif;
+
+  /* Semantic aliases */
+  --font-display: var(--font-poppins);   /* Bold — headlines, titles */
+  --font-heading: var(--font-poppins);   /* Medium — subheads, emphasis */
+  --font-body: var(--font-poppins);      /* Regular — body copy */
+  --font-caption: var(--font-poppins);   /* Light — captions, fine print */
+
+  --weight-bold: 700;
+  --weight-semibold: 600;
+  --weight-medium: 500;
+  --weight-regular: 400;
+  --weight-light: 300;
+
+  /* Type scale */
+  --text-display-xl: 700 3.5rem/1.08 var(--font-display);
+  --text-display-lg: 700 2.5rem/1.12 var(--font-display);
+  --text-display-md: 700 2rem/1.15 var(--font-display);
+  --text-heading-lg: 600 1.5rem/1.25 var(--font-heading);
+  --text-heading-md: 600 1.25rem/1.3 var(--font-heading);
+  --text-heading-sm: 600 1.0625rem/1.35 var(--font-heading);
+  --text-body-lg: 400 1.125rem/1.6 var(--font-body);
+  --text-body-md: 400 1rem/1.6 var(--font-body);
+  --text-body-sm: 400 0.875rem/1.55 var(--font-body);
+  --text-caption: 300 0.8125rem/1.5 var(--font-caption);
+  --text-label: 500 0.8125rem/1.4 var(--font-heading);
+}
+
+
+// SPACING
+
+:root {
+  /* Spacing scale (4px base) */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 20px;
+  --space-6: 24px;
+  --space-8: 32px;
+  --space-10: 40px;
+  --space-12: 48px;
+  --space-16: 64px;
+  --space-20: 80px;
+  --space-24: 96px;
+
+  /* Radius — "rounded corners throughout... soft geometry over sharp edges" */
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --radius-lg: 20px;
+  --radius-xl: 28px;
+  --radius-pill: 999px;
+  --radius-image: 24px;
+
+  /* Shadow — soft, low-contrast, warm-neutral (no hard drop shadows) */
+  --shadow-sm: 0 1px 3px 0 rgba(27, 60, 108, 0.08);
+  --shadow-md: 0 4px 12px -2px rgba(27, 60, 108, 0.12);
+  --shadow-lg: 0 12px 32px -8px rgba(27, 60, 108, 0.18);
+  --shadow-focus: 0 0 0 3px color-mix(in oklch, var(--edr-periwinkle) 40%, transparent);
+
+  /* Motion — gentle, no bounce; brand tone is "warm, engaged, not corporate" but content
+     is mostly static marketing collateral, so keep motion minimal and functional */
+  --ease-standard: cubic-bezier(0.3, 0, 0.2, 1); /* @kind other */
+  --duration-fast: 120ms; /* @kind other */
+  --duration-medium: 200ms; /* @kind other */
+}

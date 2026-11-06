@@ -1,0 +1,24 @@
+{{- define "main" }}
+<div class="k" id="content">
+  {{ partial "kit/hero.html" (dict "title" .Title "lead" .Params.lead "art" "open-source.png") }}
+  <section class="k-section">
+    <div class="k-wrap">
+      {{- range $g := .Params.groups }}
+      <h2 class="k-group-title">{{ $g.title }}</h2>
+      <ul class="k-grid k-grid--3">
+        {{- range where $.Pages "Params.group" $g.key }}
+        <li>
+          <article class="k-card">
+            <span class="k-icobox{{ if $g.sand }} k-icobox--sand{{ end }}">{{ partial "kit/icon.html" (.Params.icon | default "book-open") }}</span>
+            <h3>{{ .Title }}</h3>
+            <div>{{ .Content }}</div>
+            <a class="k-link" href="{{ .Params.link.url }}" rel="noopener">{{ .Params.link.label | default "Learn more" }}<span class="k-sr"> about {{ .Title }}</span> {{ partial "kit/icon.html" "arrow-right" }}</a>
+          </article>
+        </li>
+        {{- end }}
+      </ul>
+      {{- end }}
+    </div>
+  </section>
+</div>
+{{- end }}

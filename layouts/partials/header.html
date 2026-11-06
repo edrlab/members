@@ -1,35 +1,24 @@
-{{- $params := .Site.Params }}
-{{- $centerLogo := $params.centerLogo }}
-{{ $logo := $params.logo }}
-<header class="nav_header" >
-  <nav class="nav">
-    {{- if $centerLogo }}
-      {{- partialCached "logo" (dict "logo" $logo "class" "nav_hide") }}
-    {{- else }}
-      {{- partialCached "logo" (dict "logo" $logo) }}
-    {{- end }}
-    <div class='nav_body nav_body_{{ default "left" $params.mobileNavigation }}'>
-      {{ $context := . }}
-      {{ $menuData := .Site.Data.menu }}
-      {{ with $menuData }}
-        {{ partial "nav" (dict "context" $context "menu" $menuData) }}
-      {{- else }}
-        {{ partial "nav" (dict "context" . "menu" .Site.Menus.main) }}
+<a class="k-skip" href="#content">Skip to content</a>
+<header class="k-header">
+  <div class="k-wrap k-header__in">
+    <a class="k-brand" href="{{ "/" | relURL }}"><img src="{{ "images/kit/logo-circle.png" | relURL }}" alt="" width="44" height="44"><span>EDRLab members</span></a>
+    <button class="k-burger" type="button" aria-expanded="false" aria-controls="k-nav">Menu</button>
+    <nav class="k-nav" id="k-nav" aria-label="Main">
+      <ul>
+      {{- $page := . }}
+      {{- range site.Menus.main }}
+        {{- if not (eq .Identifier "edrlaborg") }}
+        <li><a href="{{ .URL }}"{{ if or ($page.IsMenuCurrent "main" .) ($page.HasMenuCurrent "main" .) }} aria-current="page"{{ end }}>{{ .Name }}</a></li>
+        {{- end }}
       {{- end }}
-      {{ if hugo.IsMultilingual }}
-      <div class="nav_parent">
-        <a href="#" class="nav_item">{{ $params.languageMenuName }}</a>
-        <div class="nav_sub">
-          <span class="nav_child"></span>
-          {{ range .Site.Home.AllTranslations }}
-          <a href="{{ .Permalink }}" class="nav_child nav_item">{{ .Language.LanguageName }}</a>
-          {{ end }}
-        </div>
-      </div>
+      </ul>
+      {{- range where site.Menus.main "Identifier" "edrlaborg" }}
+      <a class="k-ext" href="{{ .URL }}">{{ .Name }} {{ partial "kit/icon.html" "arrow-up-right" }}</a>
       {{- end }}
-      {{- if $centerLogo }}
-        {{- partial "logo" (dict "logo" $logo "class" "nav_center") }}
-      {{- end }}
-    </div>
-  </nav>
+    </nav>
+  </div>
 </header>
+<script>
+(function(){var b=document.querySelector('.k-burger'),n=document.getElementById('k-nav');if(!b||!n)return;
+b.addEventListener('click',function(){var o=n.classList.toggle('is-open');b.setAttribute('aria-expanded',o);});})();
+</script>

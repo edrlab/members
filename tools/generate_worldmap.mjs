@@ -1,0 +1,12 @@
+import * as d3 from "d3";
+import * as topo from "topojson-client";
+import fs from "fs";
+const w = JSON.parse(fs.readFileSync("node_modules/world-atlas/countries-110m.json"));
+const f = topo.feature(w, w.objects.countries).features.filter(x => x.properties.name !== "Antarctica");
+const proj = d3.geoNaturalEarth1().fitSize([960, 500], { type: "FeatureCollection", features: f });
+const path = d3.geoPath(proj).digits(1);
+const out = { w: 960, h: 500, countries: f.map(x => ({ name: x.properties.name, d: path(x) })).filter(x => x.d), dots: [] };
+const hk = proj([114.17, 22.3]);
+out.dots.push({ name: "Hong Kong", cx: +hk[0].toFixed(1), cy: +hk[1].toFixed(1) });
+fs.writeFileSync("../kit/data/worldmap.json", JSON.stringify(out));
+console.log(out.countries.length, JSON.stringify(out).length);

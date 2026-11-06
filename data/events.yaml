@@ -1,0 +1,24 @@
+summit:
+- title: Spring 2027
+  city: Bologna, Italy
+  venue: Biblioteca Salaborsa
+  dates: 8–9 June 2027
+  badge: Reduced member rate
+  url: https://dpubsummit.com/spring/landing
+- title: Fall 2027
+  city: Toronto, Canada
+  venue: Oakham House
+  dates: 21–22 October 2027
+  badge: Reduced member rate
+  url: https://dpubsummit.com/fall/landing
+fairs:
+- event: London Book Fair
+  place: London, United Kingdom
+  dates: See the EDRLab events page
+  dates_url: https://www.edrlab.org/category/events/
+  benefit: Reduced-price exhibitor space on the Members Collective Booth
+- event: Frankfurt Book Fair
+  place: Frankfurt, Germany
+  dates: See the EDRLab events page
+  dates_url: https://www.edrlab.org/category/events/
+  benefit: Reduced-price exhibitor space on the Members Collective Booth

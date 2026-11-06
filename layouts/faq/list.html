@@ -1,0 +1,20 @@
+{{- define "main" }}
+<div class="k" id="content">
+  {{ partial "kit/hero.html" (dict "title" .Title "art" "monstera.png") }}
+  <section class="k-section">
+    <div class="k-wrap">
+      <div class="k-faq">
+        {{- range .Params.faqs }}
+        <details id="{{ .q | anchorize }}">
+          <summary><span>{{ .q }}</span>{{ partial "kit/icon.html" "chevron-down" }}</summary>
+          <div class="k-faq__a">{{ .a | markdownify }}</div>
+        </details>
+        {{- end }}
+      </div>
+    </div>
+  </section>
+</div>
+{{- $items := slice }}
+{{- range .Params.faqs }}{{ $items = $items | append (dict "@type" "Question" "name" .q "acceptedAnswer" (dict "@type" "Answer" "text" (.a | markdownify | plainify))) }}{{ end }}
+<script type="application/ld+json">{{ dict "@context" "https://schema.org" "@type" "FAQPage" "mainEntity" $items | jsonify | safeJS }}</script>
+{{- end }}

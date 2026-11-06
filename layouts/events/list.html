@@ -1,0 +1,39 @@
+{{- define "main" }}
+<div class="k" id="content">
+  {{ partial "kit/hero.html" (dict "title" .Title "lead" .Params.lead "art" "coffee.png") }}
+  <section class="k-section">
+    <div class="k-wrap">
+      <h2 class="k-group-title">Digital Publishing Summit</h2>
+      <ul class="k-grid k-grid--2">
+        {{- range site.Data.events.summit }}
+        <li>
+          <article class="k-card">
+            <div class="k-event__head"><h3>{{ if .url }}<a href="{{ .url }}" style="color:inherit;text-decoration:none" rel="noopener">{{ .title }}</a>{{ else }}{{ .title }}{{ end }}</h3><span class="k-badge">{{ .badge }}</span></div>
+            <dl class="k-dl">
+              <dt>{{ partial "kit/icon.html" "map-pin" }} City</dt><dd>{{ .city }}</dd>
+              <dt>{{ partial "kit/icon.html" "building-2" }} Venue</dt><dd>{{ .venue }}</dd>
+              <dt>{{ partial "kit/icon.html" "calendar" }} Dates</dt><dd class="k-strong">{{ .dates }}</dd>
+            </dl>
+          </article>
+        </li>
+        {{- end }}
+      </ul>
+      <h2 class="k-group-title">Book fairs</h2>
+      <div class="k-tablewrap">
+        <table>
+          <thead><tr><th scope="col">Event</th><th scope="col">Place</th><th scope="col">Dates</th><th scope="col">Member benefit</th></tr></thead>
+          <tbody>
+            {{- range site.Data.events.fairs }}
+            <tr><th scope="row">{{ .event }}</th><td>{{ .place }}</td><td>{{ if .dates_url }}<a href="{{ .dates_url }}" rel="noopener">{{ .dates }}</a>{{ else }}{{ .dates }}{{ end }}</td><td>{{ .benefit }}</td></tr>
+            {{- end }}
+          </tbody>
+        </table>
+      </div>
+      <div class="k-callout" style="margin-top:48px">
+        <img src="{{ "images/kit/figures.png" | relURL }}" alt="" loading="lazy">
+        <div><h3>Members Collective Booth</h3>{{ .Content }}</div>
+      </div>
+    </div>
+  </section>
+</div>
+{{- end }}

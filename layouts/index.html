@@ -1,46 +1,146 @@
 {{- define "main" }}
-{{- $s := .Site.Params }}
-{{- $p := .Params }}
-{{- $scratch := newScratch }}
-{{- if isset $p "image" }}
-  {{- $scratch.Set "image" $p.image }}
-{{- else }}
-  {{ $scratch.Set "image" $s.fallBackOgImage }}
-{{- end }}
-{{- $image := $scratch.Get "image" }}
-{{- $bg := absLangURL (path.Join "images" $image) }}
-{{ $taxonomyObject := .Site.Taxonomies.active }}
-<div class="{{ if ne $p.singleColumn true }}grid-inverse {{ end }}wrap content">
-  <article class="post_content">
-    <div class="post_body">
-      {{- .Content }}
-      
+{{- $members := partialCached "kit/members.html" "all" }}
+{{- $total := len $members }}
+{{- /* countries */ -}}
+{{- $countries := slice }}
+{{- range $members }}{{ if .country }}{{ if not (in $countries .country) }}{{ $countries = $countries | append .country }}{{ end }}{{ end }}{{ end }}
+{{- $nc := len $countries }}
+{{- $repl := dict "{members}" (string $total) "{countries}" (string $nc) }}
+{{- $h := .Params.hero }}
+{{- $link := dict "members" (string $total) }}
+
+<div class="k" id="content">
+
+  {{- /* 1. Hero */ -}}
+  {{- $lead := $h.lead }}
+  <section class="k-hero k-hero--home">
+    <div class="k-wrap k-hero__in">
+      <div class="k-hero__text">
+        <h1>{{ partial "kit/fill.html" (dict "t" $h.title "r" $repl) }}</h1>
+        <p class="k-lead">{{ $lead }}</p>
+        <div class="k-row">
+          <a class="k-btn" href="{{ $h.primary.url | relURL }}">{{ $h.primary.label }}</a>
+          <a class="k-link" href="{{ $h.secondary.url | relURL }}">{{ $h.secondary.label }} {{ partial "kit/icon.html" "arrow-right" }}</a>
+        </div>
+      </div>
+      <div class="k-hero__art"><img src="{{ "images/kit/members.png" | relURL }}" alt="" width="520"></div>
     </div>
+  </section>
 
-    {{- $showRelatedInArticle := true }}
-    {{- if eq $s.showRelatedInArticle false }}
-      {{- $showRelatedInArticle = false }}
-    {{- else if eq $p.showRelatedInArticle false }}
-      {{- $showRelatedInArticle = false }}
-    {{- end }}
-    {{- if ne $showRelatedInArticle false }}
-      {{- partial "related" . }}
-    {{- end }}
+  {{- /* 2. Logo strip: 2 anchors + 12 featured, drawn at build time, redrawn in the browser at each visit */ -}}
+  {{- $anchors := where $members "anchor" true }}
+  {{- $feat := where (where $members "featured" true) "anchor" false }}
+  {{- $feat = where $feat "logo" "ne" "" }}
+  {{- $pickA := first 2 (shuffle $anchors) }}
+  {{- $pickF := first 12 (shuffle $feat) }}
+  {{- $picks := shuffle (append $pickF $pickA) }}
+  <section class="k-section k-section--tint" aria-labelledby="k-logos-h">
+    <div class="k-wrap">
+      <h2 class="k-sr" id="k-logos-h">Members</h2>
+      <ul class="k-logos" id="k-logos">
+        {{- range $picks }}
+        <li class="k-logos__item{{ if .anchor }} k-logos__item--big{{ end }}"><a href="{{ .url }}" style="display:flex;align-items:center;justify-content:center;width:100%;height:100%;text-decoration:none">{{ if .logo }}<img src="{{ .logo }}" alt="{{ .name }}" loading="lazy">{{ else }}<span>{{ .name }}</span>{{ end }}</a></li>
+        {{- end }}
+      </ul>
+      <div class="k-logos-foot">
+        <span>{{ .Params.logos.caption }}</span>
+        <a class="k-link" href="{{ "members/" | relURL }}">{{ partial "kit/fill.html" (dict "t" .Params.logos.link "r" $repl) }} {{ partial "kit/icon.html" "arrow-right" }}</a>
+      </div>
+      {{- $pool := slice }}
+      {{- range $members }}{{ if and (or .anchor .featured) .logo }}{{ $pool = $pool | append (dict "name" .name "url" .url "logo" .logo "anchor" .anchor "featured" .featured) }}{{ end }}{{ end }}
+      <script type="application/json" id="k-logos-data">{{ $pool | jsonify | safeJS }}</script>
+    </div>
+  </section>
 
-    {{- $showComments := true }}
-    {{- if eq $s.comments false }}
-      {{- $showComments = false }}
-    {{- else if eq $p.comments false }}
-      {{- $showComments = false }}
-    {{- end }}
-    {{- if ne $showComments false }}
-      {{- partial "comments" . }}
-    {{- end }}
-    {{- partial "i18nlist" . }}
+  {{- /* 3. Network in numbers */ -}}
+  {{- $catCount := dict }}
+  {{- range $members }}{{ range .cats }}{{ $catCount = merge $catCount (dict . (add 1 (index $catCount . | default 0))) }}{{ end }}{{ end }}
+  {{- $cats := slice }}
+  {{- range $c, $n := $catCount }}{{ $cats = $cats | append (dict "name" $c "n" $n) }}{{ end }}
+  {{- $cats = sort (sort $cats "name") "n" "desc" }}
+  {{- $on := dict }}{{ $canon := dict }}
+  {{- range $countries }}{{ $shape := index site.Data.countries . | default . }}{{ $on = merge $on (dict $shape true) }}{{ $canon = merge $canon (dict $shape .) }}{{ end }}
+  <section class="k-section" aria-labelledby="k-num-h">
+    <div class="k-wrap k-numbers">
+      <div>
+        <h2 id="k-num-h">{{ .Params.numbers.title }}</h2>
+        <p class="k-lead" style="font-size:16px;margin-top:12px">{{ .Params.numbers.intro }}</p>
+        <ul class="k-stats">
+          {{- range $cats }}
+          <li><a href="{{ printf "members/?cat=%s" (.name | urlquery) | relURL }}"><b>{{ .n }}</b><span>{{ .name }}</span></a></li>
+          {{- end }}
+        </ul>
+      </div>
+      <div>
+        {{- $map := site.Data.worldmap }}
+        <div class="k-map">
+          <svg viewBox="0 0 {{ $map.w }} {{ $map.h }}" role="img" aria-label="World map: countries with at least one EDRLab member are highlighted">
+            {{- range $map.countries }}
+            {{- if index $on .name }}<a href="{{ printf "members/?country=%s" ((index $canon .name) | urlquery) | relURL }}"><path class="c on" d="{{ .d }}"><title>{{ index $canon .name }}</title></path></a>{{ else }}<path class="c" d="{{ .d }}"/>{{ end }}
+            {{- end }}
+            {{- range $map.dots }}{{ if index $on .name }}<a href="{{ printf "members/?country=%s" (.name | urlquery) | relURL }}"><circle class="c on" cx="{{ .cx }}" cy="{{ .cy }}" r="4"><title>{{ .name }}</title></circle></a>{{ end }}{{ end }}
+          </svg>
+        </div>
+        <div class="k-legend"><span><i></i>Countries with at least one member ({{ $nc }})</span><span><i class="off"></i>No member yet</span></div>
+      </div>
+    </div>
+  </section>
 
-  </article>
-  {{- if ( ne $p.sidebar false ) }}
-    {{- partial "sidebar" . }}
-  {{ end }}
+  {{- /* 4. Benefits by profile */ -}}
+  <section class="k-section" style="padding-top:0" aria-labelledby="k-prof-h">
+    <div class="k-wrap">
+      <h2 class="k-sr" id="k-prof-h">What membership brings, by profile</h2>
+      <ul class="k-grid k-grid--4">
+        {{- range .Params.profiles }}
+        <li><div class="k-profile"><img src="{{ printf "images/kit/%s.png" .icon | relURL }}" alt="" width="40" height="40"><h3>{{ .title }}</h3><p>{{ .text }}</p><a class="k-link" href="{{ "join/" | relURL }}">{{ $.Params.profile_link }} {{ partial "kit/icon.html" "arrow-right" }}</a></div></li>
+        {{- end }}
+      </ul>
+    </div>
+  </section>
+
+  {{- /* 5. What every member receives */ -}}
+  {{- with .Params.everyone }}
+  <section class="k-section k-section--tint" aria-labelledby="k-every-h">
+    <div class="k-wrap">
+      <h2 id="k-every-h" style="margin-bottom:24px">{{ .title }}</h2>
+      <ul class="k-checks" style="grid-template-columns:repeat(auto-fit,minmax(min(100%,420px),1fr));gap:14px 40px">
+        {{- range .items }}<li>{{ . }}</li>{{ end }}
+      </ul>
+    </div>
+  </section>
+  {{- end }}
+
+  {{- /* 6. Member in focus */ -}}
+  {{- $cand := where (where $members "featured" true) "summary" "ne" "" }}
+  {{- with first 1 (shuffle $cand) }}{{ $m := index . 0 }}
+  <section class="k-section" style="padding-top:0" aria-labelledby="k-focus-h">
+    <div class="k-wrap">
+      <div class="k-focus">
+        <div><h2 id="k-focus-h">{{ $.Params.focus.title }}</h2><img class="k-focus__art" src="{{ "images/kit/figure-book.png" | relURL }}" alt="" width="180" style="margin-top:16px"></div>
+        <div class="k-focus__card">
+          <div class="k-focus__logo">{{ if $m.logo }}<img src="{{ $m.logo }}" alt="">{{ end }}</div>
+          <div>
+            <h3>{{ $m.name }}</h3>
+            {{- if $m.country }}<div class="k-focus__meta">{{ partial "kit/icon.html" "map-pin" }} {{ $m.country }}</div>{{ end }}
+            <div class="k-badges" style="margin-bottom:12px">{{ range $m.cats }}<span class="k-badge">{{ . }}</span>{{ end }}{{ range $m.ig }}<span class="k-badge k-badge--sand">Readium {{ . }}</span>{{ end }}</div>
+            {{- $sents := split (plainify $m.summary) ". " }}
+            <p>{{ delimit (first 2 $sents) ". " }}{{ if gt (len $sents) 2 }}.{{ end }}</p>
+            <a class="k-link" href="{{ $m.url }}">{{ $.Params.focus.link }} {{ partial "kit/icon.html" "arrow-right" }}</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  {{- end }}
+
+  {{- /* 7. Closing band */ -}}
+  <section class="k-band">
+    <div class="k-wrap k-band__in">
+      <p>{{ .Params.band.text }}</p>
+      <a class="k-btn" href="{{ "join/" | relURL }}">{{ .Params.band.button }}</a>
+    </div>
+  </section>
 </div>
+
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"EDRLab","alternateName":"European Digital Reading Lab","url":"https://www.edrlab.org/","logo":"{{ "images/kit/logo-circle.png" | absURL }}","sameAs":["https://github.com/edrlab","https://bsky.app/profile/edrlab.org","https://www.linkedin.com/company/european-digital-reading-lab"]}</script>
 {{- end }}

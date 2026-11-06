@@ -1,0 +1,22 @@
+{{- /* Returns the list of published members as simple maps (cached by Hugo per build).
+       A member is published when it is not a draft and `active` is not false. */ -}}
+{{- $out := slice }}
+{{- range sort (where (where site.RegularPages "Section" "members") "Params.active" "ne" false) "Title" }}
+  {{- $logo := .Params.featureImage | default "" }}
+  {{- if and $logo (not (hasPrefix $logo "http")) }}{{ $logo = $logo | relURL }}{{ end }}
+  {{- $country := "" }}{{ with .Params.based }}{{ $country = index . 0 }}{{ end }}
+  {{- $out = $out | append (dict
+        "page" .
+        "name" .Title
+        "url" .RelPermalink
+        "country" $country
+        "cats" (.Params.categories | default slice)
+        "ig" (.Params.ig | default slice)
+        "cr" (.Params.crossroads | default slice)
+        "logo" $logo
+        "summary" (partial "kit/cap.html" (.Params.summary | default ""))
+        "featured" (eq .Params.featured true)
+        "anchor" (eq .Params.anchor true)
+        "since" .Date) }}
+{{- end }}
+{{- return $out }}

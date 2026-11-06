@@ -1,3 +1,73 @@
-{{ define "main" }}
-  {{- partial "archive" . }}
-{{ end }}
+{{- define "main" }}
+{{- $members := partialCached "kit/members.html" "all" }}
+{{- $labels := .Params.ig_labels | default dict }}
+{{- $countries := slice }}
+{{- range $members }}{{ if .country }}{{ if not (in $countries .country) }}{{ $countries = $countries | append .country }}{{ end }}{{ end }}{{ end }}
+{{- $countries = sort $countries }}
+<div class="k" id="content">
+  {{ partial "kit/hero.html" (dict "title" .Title "art" "figures.png" "crumb" true) }}
+  <section class="k-section">
+    <div class="k-wrap k-dir" id="k-directory">
+      <aside>
+        <button class="k-btn k-btn--ghost k-filterbtn" type="button" aria-expanded="false">Filters</button>
+        <form class="k-filters" role="search" aria-label="Filter members">
+          <div class="k-search">
+            {{ partial "kit/icon.html" "search" }}
+            <label class="k-sr" for="k-q">Search members</label>
+            <input id="k-q" type="search" placeholder="Search members" autocomplete="off">
+          </div>
+          <fieldset class="k-fgroup">
+            <legend>Country</legend>
+            <label class="k-sr" for="k-country">Country</label>
+            <select id="k-country">
+              <option value="">All countries ({{ len $countries }})</option>
+              {{- range $countries }}<option value="{{ . }}">{{ . }}</option>{{ end }}
+            </select>
+          </fieldset>
+          {{- range $g := slice (dict "key" "cat" "field" "cats" "title" "Activity" "noun" "activities" "limit" 8) (dict "key" "ig" "field" "ig" "title" "Collaboration" "noun" "collaborations" "limit" 99) (dict "key" "cr" "field" "cr" "title" "Common commitment" "noun" "commitments" "limit" 99) }}
+          {{- $count := dict }}
+          {{- range $members }}{{ range (index . $g.field) }}{{ $count = merge $count (dict . (add 1 (index $count . | default 0))) }}{{ end }}{{ end }}
+          {{- $opts := slice }}
+          {{- range $v, $n := $count }}{{ $opts = $opts | append (dict "v" $v "n" $n) }}{{ end }}
+          {{- $opts = sort (sort $opts "v") "n" "desc" }}
+          {{- if $opts }}
+          <fieldset class="k-fgroup" id="k-g-{{ $g.key }}">
+            <legend>{{ $g.title }}</legend>
+            {{- range $i, $o := $opts }}
+            <label class="k-opt"{{ if ge $i $g.limit }} data-extra hidden{{ end }}><input type="checkbox" data-g="{{ $g.key }}" value="{{ $o.v }}"> <span>{{ index $labels $o.v | default $o.v }}</span> <em>{{ $o.n }}</em></label>
+            {{- end }}
+            {{- if gt (len $opts) $g.limit }}
+            <button type="button" class="k-more" data-more="k-g-{{ $g.key }}" data-group="{{ $g.key }}" aria-expanded="false" data-label-more="Show all {{ len $opts }} {{ $g.noun }}">Show all {{ len $opts }} {{ $g.noun }}</button>
+            {{- end }}
+          </fieldset>
+          {{- end }}
+          {{- end }}
+        </form>
+      </aside>
+      <div>
+        <div class="k-results__head">
+          <h2 id="k-count" aria-live="polite">{{ len $members }} members</h2>
+          <span>Sorted A to Z</span>
+        </div>
+        <div class="k-active" id="k-active" hidden></div>
+        <ul class="k-cards" id="k-cards">
+          {{- range $members }}
+          <li data-country="{{ .country }}" data-cat="{{ delimit .cats "|" }}" data-ig="{{ delimit .ig "|" }}" data-cr="{{ delimit .cr "|" }}" data-text="{{ .name }} {{ .summary | plainify }}">
+            <article class="k-mcard">
+              <div class="k-mcard__logo">{{ if .logo }}<img src="{{ .logo }}" alt="" loading="lazy">{{ else }}<span class="k-badge">{{ .name }}</span>{{ end }}</div>
+              <h3><a href="{{ .url }}">{{ .name }}</a></h3>
+              {{- if .country }}<div class="k-mcard__where">{{ partial "kit/icon.html" "map-pin" }} {{ .country }}</div>{{ end }}
+              <div class="k-badges">{{ range .cats }}<span class="k-badge">{{ . }}</span>{{ end }}</div>
+              <p>{{ .summary | plainify }}</p>
+              <a class="k-link" href="{{ .url }}">Read more<span class="k-sr"> about {{ .name }}</span> {{ partial "kit/icon.html" "arrow-right" }}</a>
+            </article>
+          </li>
+          {{- end }}
+        </ul>
+        <p class="k-empty" id="k-empty" hidden>No member matches these filters. Remove a filter to see more.</p>
+        <nav class="k-pager" id="k-pager" aria-label="Pagination"><span class="k-showing"></span><ol></ol></nav>
+      </div>
+    </div>
+  </section>
+</div>
+{{- end }}

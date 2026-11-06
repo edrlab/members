@@ -1,0 +1,2 @@
+{{- /* Replaces {members} and {countries} in a text. Context: dict "t" text "r" dict of replacements */ -}}
+{{- $t := .t }}{{ range $k, $v := .r }}{{ $t = replace $t $k $v }}{{ end }}{{ $t }}
