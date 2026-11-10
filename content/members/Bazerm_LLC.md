@@ -1,6 +1,6 @@
 ---
 title: Bazerm LLC
-member_url: www.bazerm.com
+member_url: https://www.bazerm.com
 geographies: ["Worldwide"]
 based: ["United States"]
 ig: []
