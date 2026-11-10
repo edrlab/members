@@ -15,7 +15,7 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: "https://www.avh.asso.fr/sites/all/themes/custom/customer/images/logo-home.webp"
+featureImage: "https://members.edrlab.org/images/avh.png"
 featured: true
 anchor: false
 ---
