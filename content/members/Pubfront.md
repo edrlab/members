@@ -1,6 +1,6 @@
 ---
 title: Pubfront
-member_url: www.pubfront.com
+member_url: https://www.pubfront.com
 geographies: ["Worldwide"]
 based: ["Denmark"]
 ig: []
