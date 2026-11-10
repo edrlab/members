@@ -1,7 +1,7 @@
 ---
 title: EBSCO Information Services 
 member_url: https://www.ebsco.com/
-geographies: [“worldwide]
+geographies: ["Worldwide"]
 based: ["United States"]
 ig: ["LCP"]
 crossroads: []
