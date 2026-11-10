@@ -1,6 +1,6 @@
 ---
 title: Bookstore AI Inc
-member_url: www.bookstore.ai
+member_url: https://www.bookstore.ai
 geographies: ["Worldwide"]
 based: ["United States"]
 ig: []
