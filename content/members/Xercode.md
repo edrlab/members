@@ -1,5 +1,5 @@
 ---
-title: Xercode 
+title: Xercode
 member_url: https://xercode.com/
 geographies: ["Europe"]
 based: ["Spain"]

@@ -1,13 +1,13 @@
 ---
 title: Fantasy Alley
-member_url: None
-geographies: [“Worldwide”]
+member_url: 
+geographies: ["Worldwide"]
 based: ["France"]
 ig: []
 services: []
 tags: []
 categories: ["Bookstore"]
-summary: "We are Fantasy Alley, an immersive reading app dedicated to Fantasy books. "
+summary: "We are Fantasy Alley, an immersive reading app dedicated to Fantasy books."
 active: true
 layout: members
 showReadTime: false

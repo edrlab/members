@@ -1,7 +1,7 @@
 ---
 title: Ailaysa
 member_url: https://www.ailaysa.com/
-geographies: ["worldwide"]
+geographies: ["Worldwide"]
 based: ["India"]
 ig: ["LCP"]
 services: []

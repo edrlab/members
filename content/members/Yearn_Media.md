@@ -1,7 +1,7 @@
 ---
 title: Yearn Media
-member_url: None
-geographies: [“Worldwide”]
+member_url: 
+geographies: ["Worldwide"]
 based: []
 ig: []
 services: []

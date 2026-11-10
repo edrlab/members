@@ -1,7 +1,7 @@
 ---
 title:  The DAISY Consortium 
 member_url: https://daisy.org/
-geographies: ["worldwide"]
+geographies: ["Worldwide"]
 based: ["Switzerland"]
 ig: []
 services: 

@@ -1,6 +1,6 @@
 ---
 title: Scholar Leaders
-member_url: www.scholarleaders.org
+member_url: https://www.scholarleaders.org
 geographies:
   - Worldwide
 based: ["United States"]

@@ -1,7 +1,7 @@
 ---
 title: Mantano
 member_url: https://mantano.com
-geographies: ["worldwide", "France"]
+geographies: ["Worldwide", "France"]
 based: ["France"]
 ig: []
 services: 

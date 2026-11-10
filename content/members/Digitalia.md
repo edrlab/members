@@ -1,7 +1,7 @@
 ---
 title: DIGITALIA TECHNOLOGIES LTD
 member_url: https://www.digitaliapublishing.com/
-geographies: [“UK”]
+geographies: ["United Kingdom"]
 based: ["United Kingdom"]
 ig: ["LCP"]
 services: 

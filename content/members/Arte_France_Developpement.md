@@ -7,7 +7,7 @@ ig: ["LCP"]
 services: 
 tags: [""]
 categories: ["Ebook distributor"]
-summary: "A department of Arte France editorial and programme production centre, that operates ebooks e-lending solutions for public libraries. "
+summary: "A department of Arte France editorial and programme production centre, that operates ebooks e-lending solutions for public libraries."
 press:
 active:  false
 draft: true

@@ -1,11 +1,11 @@
 ---
 title: Libro.fm
 member_url: https://libro.fm/
-geographies: [“Worldwide”]
+geographies: ["Worldwide"]
 based: ["United States"]
 ig: []
 services: 
-tags: [“LCP”]
+tags: ["LCP"]
 categories: ["Ebook distributor", "Bookstore"]
 summary: "Libro.fm shares profits from your audiobook purchases with your chosen bookstore, giving you the power to keep money within your local economy. We’re proud to be a Social Purpose Corporation, Certified B Corp™, and 100% employee-owned."
 press:

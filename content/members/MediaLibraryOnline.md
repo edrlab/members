@@ -1,7 +1,7 @@
 ---
 title: MediaLibraryOnline (MLOL) 
 member_url: https://www.medialibrary.it/
-geographies: ["Italy "]
+geographies: ["Italy"]
 based: ["Italy"]
 ig: ["LCP"]
 services: 

@@ -1,6 +1,6 @@
 ---
 title: MY SMART BOOK
-member_url: mysmartbook.fr
+member_url: https://mysmartbook.fr
 geographies: ["Worldwide"]
 based: ["France"]
 ig: []

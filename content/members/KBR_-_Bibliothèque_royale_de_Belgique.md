@@ -1,7 +1,7 @@
 ---
 title: KBR - Bibliothèque royale de Belgique
-member_url: None
-geographies: [“Worldwide”]
+member_url: 
+geographies: ["Worldwide"]
 based: ["Belgium"]
 ig: []
 services: []

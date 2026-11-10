@@ -1,7 +1,7 @@
 ---
-title: Allvit 
+title: Allvit
 member_url: https://allvit.no/
-geographies: [“Norway”]
+geographies: ["Norway"]
 based: ["Norway"]
 ig: ["LCP"]
 crossroads: []

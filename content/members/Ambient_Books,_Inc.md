@@ -1,6 +1,6 @@
 ---
 title: Ambient Books, Inc.
-member_url: www.ambientbooks.co
+member_url: https://www.ambientbooks.co
 geographies: ["Worldwide"]
 based: []
 ig: []

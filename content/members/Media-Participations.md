@@ -7,7 +7,7 @@ ig: []
 services: 
 tags: [""]
 categories: ["Publisher"]
-summary: " one of the largest publishing group in France."
+summary: "one of the largest publishing group in France."
 press:
 active: true
 layout: members
