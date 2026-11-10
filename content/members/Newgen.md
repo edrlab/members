@@ -1,32 +1,24 @@
 ---
-title: "Newgen"
-draft: true
-active: true
-layout: members
-categories: []
-based: []
-featured: false
-anchor: false
----
-
----
 title: Newgen KnowledgeWorks
 member_url: https://newgen.co/
 geographies: ["India"]
 based: ["India"]
 ig: ["LCP"]
-services:
+services: []
 tags: []
-categories: ["Content Producer"]
-summary:
+categories: ["Content producer"]
+summary: ""
 press:
+draft: true
 active: true
 layout: members
 showReadTime: false
 showDate: false
 permalink: ""
 date:
-featureImage: "https://members.edrlab.org/images/Newgen.png"
+featureImage: "https://members.edrlab.org/images/Newgen_Logo_transparent.png"
+featured: false
+anchor: false
 ---
 <p>Newgen KnowledgeWorks helps publishers turn content into high-quality, accessible digital publications. We combine deep publishing expertise with conversion technology and global production capacity, supporting everything from new EPUB releases to large-scale backlist digitisation.</p>
 <p>Our work connects content creation, production and delivery. We help publishers build structured, reusable content, improve the reading experience and unlock new value from their collections.</p>
@@ -40,4 +32,4 @@ featureImage: "https://members.edrlab.org/images/Newgen.png"
 </ul>
 <p>Beyond digital production, we provide a complete publishing service: commissioning and content development, editorial, design and illustration, typesetting, project management, localisation, technical documentation and print manufacturing support.</p>
 <p>We work with independent publishers and global publishing groups across academic, journals, education, ELT, trade, legal and professional publishing. Whether the brief is to convert a collection, develop a new digital product or manage an entire publishing programme, we bring the people, processes and technology to deliver it.</p>
-<strong>Contact:</strong> <a href="mailto:sales@newgen.co">sales@newgen.co</a></p>
+<p><strong>Contact:</strong> <a href="mailto:sales@newgen.co">sales@newgen.co</a></p>
