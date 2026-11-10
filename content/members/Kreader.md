@@ -15,7 +15,7 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: "2024-02-20"
-featureImage: "https://www.kreader.lk/images/kreader_app.png"
+featureImage: https://members.edrlab.org/images/kreader.png
 featured: true
 anchor: false
 ---

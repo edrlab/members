@@ -15,7 +15,7 @@ showReadTime: false
 showDate: false
 permalink: ""
 date:  "2024-02-21"
-featureImage: "https://epwqeyeh47b.exactdn.com/wp-content/uploads/2024/03/logomarca-fundacao-dorina-nowill-para-cegos-horizontal-transparente.svg"
+featureImage: https://members.edrlab.org/images/dorina.png
 featured: true
 anchor: false
 ---

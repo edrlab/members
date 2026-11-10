@@ -16,7 +16,7 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: "https://endao.vip/assets/images/logo.png"
+featureImage: https://members.edrlab.org/images/inspirata.png
 featured: true
 anchor: false
 ---

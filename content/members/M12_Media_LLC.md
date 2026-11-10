@@ -14,7 +14,7 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72u26VZgvNzmwVxp3f1f0h6n1xv26BDhmr3gVnKnPEfk4jRdhx0LMdwgkAtk4LoOUm-XI2VM7TOT3DAzwYhn5oIz11Y31POH1cQggXHMbFfNm-I0Pfd8aNPFn543wyJxuL6hmAEQF68oP8QSipTjDQJi2kaGs6VBkJRSQbqba4oddku0mGTFxAYKz3Dz3nE=w16383
+featureImage: https://members.edrlab.org/images/m12.png
 featured: true
 anchor: false
 ---

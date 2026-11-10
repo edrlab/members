@@ -15,7 +15,7 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: "https://media.licdn.com/dms/image/C4D0BAQFMUTFMEQxbMw/company-logo_200_200/0/1630511364904?e=2147483647&v=beta&t=pUnF4Za82Qm0cmrbNWp80uHTF_6rSVroy1gkWsA2T6M"
+featureImage: https://members.edrlab.org/images/fenix.jpeg
 featured: true
 anchor: false
 ---

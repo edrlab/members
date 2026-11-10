@@ -15,7 +15,7 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: "https://www.casalini.it/web_content/img/logo_casalini.png"
+featureImage: https://members.edrlab.org/images/casalini.jpeg
 featured: true
 anchor: false
 ---

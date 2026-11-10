@@ -22,7 +22,7 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: https://www.hiperlink.com.tr/bize-dair/kurumsal-kimlik
+featureImage: https://members.edrlab.org/images/hiperlink.png
 featured: true
 anchor: false
 ---

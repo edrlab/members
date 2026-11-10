@@ -16,7 +16,7 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: "https://media.licdn.com/dms/image/C4D0BAQEyCeDmHDJD-Q/company-logo_200_200/0/1563635786170/bookwire_gmbh_logo?e=2147483647&v=beta&t=vltbMesg0LQoawd3GpeKtnCLRuT34ZDUYlIVOGcVCRo"
+featureImage: https://members.edrlab.org/images/bookwire.png
 featured: true
 anchor: false
 ---

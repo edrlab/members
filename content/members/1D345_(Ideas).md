@@ -14,7 +14,7 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: https://drive.google.com/file/d/1_tQlsTBz2EkDKzgQBxoM7NmiTnBZS8fy/view?usp=sharing
+featureImage: https://members.edrlab.org/images/1D345.png
 featured: true
 anchor: false
 ---

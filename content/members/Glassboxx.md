@@ -16,7 +16,7 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: "https://glassboxx.com/wp-content/uploads/2023/02/glassboxx-header-logo-dark.png"
+featureImage: https://members.edrlab.org/images/glassboxx.jpeg
 featured: true
 anchor: false
 ---

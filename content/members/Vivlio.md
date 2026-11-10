@@ -15,7 +15,7 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: "https://www.vivlio.com/wp-content/themes/vivlio/images/logo-vivlio.png"
+featureImage: https://members.edrlab.org/images/vivlio.jpeg
 featured: true
 anchor: false
 ---

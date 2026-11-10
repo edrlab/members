@@ -15,7 +15,7 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: "https://www.medialibrary.it/App_Themes/1/Images/testata_mlol.svg?v=1"
+featureImage: https:/members.edrlab.org/mlol.jpeg
 featured: true
 anchor: false
 ---

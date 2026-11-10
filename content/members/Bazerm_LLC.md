@@ -14,7 +14,7 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: https://drive.google.com/file/d/1Mi1-fMgmf8h1bZrndkEkO-FnXj1rSKZE/view?usp=sharing
+featureImage: https://members.edrlab.org/images/bazerm.png
 featured: true
 anchor: false
 ---
