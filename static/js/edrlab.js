@@ -70,7 +70,8 @@
     }
     function writeUrl() {
       var p = new URLSearchParams();
-      if (state.q) p.set('q', state.q);
+      var query = state.q.trim();
+      if (query) p.set('q', query);
       if (state.country) p.set('country', state.country);
       groups.forEach(function (g) { if (state[g].length) p.set(g, state[g].join('|')); });
       if (state.page > 1) p.set('page', state.page);
@@ -78,7 +79,8 @@
       history.replaceState(null, '', location.pathname + (qs ? '?' + qs : ''));
     }
     function matches(d, skip) {
-      if (skip !== 'q' && state.q && d.text.indexOf(state.q.toLowerCase()) === -1) return false;
+      var query = state.q.trim().toLowerCase();
+      if (skip !== 'q' && query && d.text.indexOf(query) === -1) return false;
       if (skip !== 'country' && state.country && d.country !== state.country) return false;
       for (var i = 0; i < groups.length; i++) {
         var g = groups[i];
@@ -116,7 +118,7 @@
         b.addEventListener('click', function () { fn(); state.page = 1; render(true); });
         activeBox.appendChild(b);
       }
-      if (state.q) add('"' + state.q + '"', function () { state.q = ''; });
+      if (state.q.trim()) add('"' + state.q.trim() + '"', function () { state.q = ''; });
       if (state.country) add(state.country, function () { state.country = ''; });
       groups.forEach(function (g) {
         state[g].forEach(function (v) { var cb = root.querySelector('input[data-g="' + g + '"][value="' + v.replace(/"/g, '\\"') + '"]'); var lab = cb ? cb.parentNode.querySelector('span').textContent : v; add(lab, function () { state[g] = state[g].filter(function (x) { return x !== v; }); }); });
@@ -161,7 +163,7 @@
       if (scroll) root.scrollIntoView({ behavior: 'smooth', block: 'start' });
     }
 
-    q.addEventListener('input', function () { state.q = q.value.trim(); state.page = 1; render(); });
+    q.addEventListener('input', function () { state.q = q.value; state.page = 1; render(); });
     country.addEventListener('change', function () { state.country = country.value; state.page = 1; render(); });
     root.querySelectorAll('input[data-g]').forEach(function (cb) {
       cb.addEventListener('change', function () {
