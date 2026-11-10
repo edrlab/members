@@ -16,7 +16,7 @@ showDate: false
 permalink: ""
 date: 
 founding_member: true
-featureImage: "https://www.sne.fr/app/uploads/2017/10/logo_groupe_madrigall.png"
+featureImage: "https://members.edrlab.org/images/madrigall.jpg"
 featured: true
 anchor: true
 ---
