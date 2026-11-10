@@ -1,6 +1,6 @@
 ---
 title: Texttalk Media AB
-member_url: www.textalk.se
+member_url: https://www.textalk.se
 geographies: ["Worldwide"]
 based: ["Sweden"]
 ig: []
