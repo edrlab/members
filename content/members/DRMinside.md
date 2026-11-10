@@ -1,7 +1,7 @@
 ---
 title: DRM Inside Co., Ltd
 member_url: https://drminside.com/
-geographies: ["worldwide"]
+geographies: ["Worldwide"]
 based: ["South Korea"]
 ig: []
 services: 
