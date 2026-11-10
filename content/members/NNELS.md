@@ -1,7 +1,7 @@
 ---
 title: National Network for Equitable Library Service (NNELS)
 member_url: https://nnels.ca/
-geographies: ["canada"]
+geographies: ["Canada"]
 based: ["Canada"]
 ig: []
 services: 
