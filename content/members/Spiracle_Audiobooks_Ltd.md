@@ -14,7 +14,7 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: https://drive.google.com/file/d/1U6ivhio-aNpqYo1FM5z9zCDLO0j2FpFB/view?usp=sharing
+featureImage: https://members.edrlab.org/images/spiracle.png
 featured: true
 anchor: false
 ---
