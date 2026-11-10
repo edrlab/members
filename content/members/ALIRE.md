@@ -7,7 +7,7 @@ ig: ["LCP"]
 services: ["Portal", "Digital Services"]
 tags: ["Reading","LCP"]
 categories: ["Trade organization"]
-summary: "ALIRE represents the full diversity of the book trade: large and small booksellers, generalists and specialists, independents and chains. They work together to improve IT tools for the benefit of all in the trade. The joint work of these booksellers, who dentify the needs of the profession, support the development of new messages, inform IT services companies and encourage them to integrate these new functions, enables all shops to benefit from cutting-edge tools."
+summary: "ALIRE represents the full diversity of the book trade: large and small booksellers, generalists and specialists, independents and chains. They work together to improve IT tools for the benefit of all in the trade. The joint work of these booksellers, who identify the needs of the profession, support the development of new messages, inform IT services companies and encourage them to integrate these new functions, enables all shops to benefit from cutting-edge tools."
 press:
 active: true
 layout: members
