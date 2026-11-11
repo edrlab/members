@@ -16,7 +16,7 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: https://members.edrlab.org/images/inspirata.png
+featureImage: https://members.edrlab.org/images/inspirata_publisher.png
 featured: true
 anchor: false
 ---

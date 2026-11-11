@@ -15,7 +15,7 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: https:/members.edrlab.org/images/mlol.jpeg
+featureImage: https://members.edrlab.org/images/mlol.jpeg
 featured: true
 anchor: false
 ---
