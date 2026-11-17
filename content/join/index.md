@@ -19,10 +19,10 @@ benefits:
     text: Work with other members on interoperable, open solutions for ebooks and audiobooks.
   - icon: key-round
     title: Readium and Readium LCP
-    text: Use and contribute to the Readium toolkits, and deploy Readium LCP for protected EPUB and audiobooks.
+    text: Use and contribute to the Readium toolkits, and deploy Readium LCP for protected EPUB, PDF and audiobooks.
   - icon: monitor
     title: Thorium Reader
-    text: Follow and influence the roadmap of Thorium Reader, the free desktop reading application.
+    text: Follow and influence the roadmap of Thorium Reader, the free reading applications.
   - icon: accessibility
     title: EPUB and accessibility
     text: Follow the evolution of EPUB and accessibility standards through EDRLab's W3C membership.
