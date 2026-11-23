@@ -10,7 +10,7 @@ tags: [""]
 categories: ["Ebook distributor", "Publisher"]
 summary: "We publish, translate, and distribute Christian resources to foster a deeper understanding of the meaning of God’s Word, and to cultivate Christ-centered lives and church-directed spiritual ministry."
 press:
-active: true
+active: false
 layout: members
 showReadTime: false
 showDate: false
