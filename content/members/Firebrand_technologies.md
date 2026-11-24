@@ -1,13 +1,13 @@
 ---
-title: Firebrand Technologies
-member_url: https://firebrandtech.com/
+title: NetGalley
+member_url: https://www.netgalley.com/
 geographies: ["Worldwide", "USA"]
 based: ["United States"]
 ig: ["LCP"]
 services: 
 tags: [""]
 categories: ["Ebook distributor"]
-summary: "Firebrand is a tech company which helps publishers and authors promote digital review copies to book advocates and industry professionals. They operate [NetGalley](https://www.netgalley.com/)"
+summary: "NetGalley helps publishers and authors promote digital review copies to book advocates and industry professionals. Publishers make digital review copies and audiobooks available for the NetGalley community to discover, request, read, and review."
 press:
 active: true
 layout: members
@@ -15,7 +15,7 @@ showReadTime: false
 showDate: false
 permalink: ""
 date: 
-featureImage: "https://firebrandtech.com/hubfs/Logos-FB/Firebrand%20Logo_tight.svg"
+featureImage: "https://members.edrlab.org/images/NetGalley.png"
 featured: true
 anchor: false
 ---
